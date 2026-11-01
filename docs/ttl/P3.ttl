@@ -1,0 +1,170 @@
+# P3: the part of the RDF export of OSM Ogham stones (static Wikibase) that describes this entity
+# Generated with wikibase-static 0.24.1; data as of unknown
+# Licence: ODbL 1.0, © OpenStreetMap contributors
+# The prefixes oos:, oost:, oosp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only oos:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix oos: <https://n4o-rse.github.io/osm-ogham-static/entity/> .
+@prefix ooscat: <https://n4o-rse.github.io/osm-ogham-static/catalog/> .
+@prefix oosdata: <https://n4o-rse.github.io/osm-ogham-static/ttl/> .
+@prefix oosdist: <https://n4o-rse.github.io/osm-ogham-static/distribution/> .
+@prefix oosno: <https://n4o-rse.github.io/osm-ogham-static/prop/novalue/> .
+@prefix oosp: <https://n4o-rse.github.io/osm-ogham-static/prop/> .
+@prefix oospq: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/> .
+@prefix oospqv: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/value/> .
+@prefix oospr: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/> .
+@prefix oosprv: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/value/> .
+@prefix oosps: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/> .
+@prefix oospsv: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/value/> .
+@prefix oosref: <https://n4o-rse.github.io/osm-ogham-static/reference/> .
+@prefix ooss: <https://n4o-rse.github.io/osm-ogham-static/entity/statement/> .
+@prefix oost: <https://n4o-rse.github.io/osm-ogham-static/prop/direct/> .
+@prefix oosv: <https://n4o-rse.github.io/osm-ogham-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/osm-ogham-static/ttl/P3.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:description "Diese Eigenschaft ist eine speziellere Form der Wert-Eigenschaft."@de,
+        "This property is a more specific form of the value property."@en ;
+    dcterms:identifier "P3" ;
+    dcterms:isPartOf ooscat:properties ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:subject oos:P3 ;
+    dcterms:title "Untereigenschaft von"@de,
+        "subproperty of"@en ;
+    schema:about oos:P3 ;
+    dcat:distribution oosdist:P3-html,
+        oosdist:P3-json,
+        oosdist:P3-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/osm-ogham-static/P3.html> .
+
+oosdist:P3-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "P3, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/osm-ogham-static/P3.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+oosdist:P3-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "P3, as archived from the Wikibase API"@en ;
+    dcat:byteSize "2382"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/osm-ogham-static/json/P3.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+oosdist:P3-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "P3, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL oosdata:P3.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+oos:P3
+    a wikibase:Property ;
+    schema:description "Diese Eigenschaft ist eine speziellere Form der Wert-Eigenschaft."@de,
+        "This property is a more specific form of the value property."@en ;
+    schema:name "Untereigenschaft von"@de,
+        "subproperty of"@en ;
+    wikibase:claim oosp:P3 ;
+    wikibase:directClaim oost:P3 ;
+    wikibase:identifiers "1"^^xsd:integer ;
+    wikibase:novalue oosno:P3 ;
+    wikibase:propertyType wikibase:WikibaseProperty ;
+    wikibase:qualifier oospq:P3 ;
+    wikibase:qualifierValue oospqv:P3 ;
+    wikibase:reference oospr:P3 ;
+    wikibase:referenceValue oosprv:P3 ;
+    wikibase:statementProperty oosps:P3 ;
+    wikibase:statementValue oospsv:P3 ;
+    wikibase:statements "4"^^xsd:integer ;
+    rdfs:label "Untereigenschaft von"@de,
+        "subproperty of"@en ;
+    skos:prefLabel "Untereigenschaft von"@de,
+        "subproperty of"@en ;
+    oosp:P2 ooss:P3-5A6138E4-484C-5C51-8C29-C6A557C6A3D7 ;
+    oosp:P4 ooss:P3-949CEE44-14A7-5DF1-9795-9B6B81325FCB ;
+    oosp:P9 ooss:P3-889E44D1-E86B-526C-A5D5-55A22F6B73B6 ;
+    oosp:P10 ooss:P3-4E5583BF-13C9-5114-B952-B18FB12B49E0 ;
+    oost:P2 oos:Q2 ;
+    oost:P4 "P1647" ;
+    oost:P9 oos:Q2 ;
+    oost:P10 oos:Q2 .
+
+ooss:P3-4E5583BF-13C9-5114-B952-B18FB12B49E0
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P10 oos:Q2 .
+
+ooss:P3-5A6138E4-484C-5C51-8C29-C6A557C6A3D7
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P2 oos:Q2 .
+
+ooss:P3-889E44D1-E86B-526C-A5D5-55A22F6B73B6
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P9 oos:Q2 .
+
+ooss:P3-949CEE44-14A7-5DF1-9795-9B6B81325FCB
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P4 "P1647" .
+
+oosp:P3
+    a owl:ObjectProperty .
+
+oost:P3
+    a owl:ObjectProperty .
+
+oospq:P3
+    a owl:ObjectProperty .
+
+oospqv:P3
+    a owl:ObjectProperty .
+
+oospr:P3
+    a owl:ObjectProperty .
+
+oosprv:P3
+    a owl:ObjectProperty .
+
+oosps:P3
+    a owl:ObjectProperty .
+
+oospsv:P3
+    a owl:ObjectProperty .
+
+oosno:P3
+    a owl:Class ;
+    owl:complementOf _:5ee4689a307e78a7afcef3ec2542cd00 .
+
+_:5ee4689a307e78a7afcef3ec2542cd00
+    a owl:Restriction ;
+    owl:onProperty oost:P3 ;
+    owl:someValuesFrom owl:Thing .
+
+# RDFS bridge of the kernel (wikibase-static): the direct properties P1 to P3 and the classes Q1 to Q3 tied to RDFS and OWL.
+# Not part of the Wikibase data model; written only when the kernel is part of the site.
+
+oost:P3
+    rdfs:subPropertyOf rdfs:subPropertyOf .
