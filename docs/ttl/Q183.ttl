@@ -1,0 +1,306 @@
+# Q183: the part of the RDF export of OSM Ogham stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of unknown
+# Licence: ODbL 1.0, © OpenStreetMap contributors
+# The prefixes oos:, oost:, oosp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only oos:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix oos: <https://n4o-rse.github.io/osm-ogham-static/entity/> .
+@prefix ooscat: <https://n4o-rse.github.io/osm-ogham-static/catalog/> .
+@prefix oosdata: <https://n4o-rse.github.io/osm-ogham-static/ttl/> .
+@prefix oosdist: <https://n4o-rse.github.io/osm-ogham-static/distribution/> .
+@prefix oosno: <https://n4o-rse.github.io/osm-ogham-static/prop/novalue/> .
+@prefix oosp: <https://n4o-rse.github.io/osm-ogham-static/prop/> .
+@prefix oospq: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/> .
+@prefix oospqv: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/value/> .
+@prefix oospr: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/> .
+@prefix oosprv: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/value/> .
+@prefix oosps: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/> .
+@prefix oospsv: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/value/> .
+@prefix oosref: <https://n4o-rse.github.io/osm-ogham-static/reference/> .
+@prefix ooss: <https://n4o-rse.github.io/osm-ogham-static/entity/statement/> .
+@prefix oost: <https://n4o-rse.github.io/osm-ogham-static/prop/direct/> .
+@prefix oosv: <https://n4o-rse.github.io/osm-ogham-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/osm-ogham-static/ttl/Q183.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:description "Benchmark (OpenStreetMap node 3663314804)"@en,
+        "Höhenmarke (OpenStreetMap-Node 3663314804)"@de ;
+    dcterms:identifier "Q183" ;
+    dcterms:isPartOf ooscat:items ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:subject oos:Q183 ;
+    dcterms:title "Templebryan North Ogham Stone"@de,
+        "Templebryan North Ogham Stone"@en ;
+    schema:about oos:Q183 ;
+    dcat:distribution oosdist:Q183-html,
+        oosdist:Q183-json,
+        oosdist:Q183-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/osm-ogham-static/Q183.html> .
+
+oosdist:Q183-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q183, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/osm-ogham-static/Q183.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+oosdist:Q183-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q183, as archived from the Wikibase API"@en ;
+    dcat:byteSize "21656"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/osm-ogham-static/json/Q183.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+oosdist:Q183-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q183, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL oosdata:Q183.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+oos:Q183
+    a wikibase:Item,
+        geo:Feature ;
+    schema:description "Benchmark (OpenStreetMap node 3663314804)"@en,
+        "Höhenmarke (OpenStreetMap-Node 3663314804)"@de ;
+    schema:name "Templebryan North Ogham Stone"@de,
+        "Templebryan North Ogham Stone"@en ;
+    wikibase:identifiers "0"^^xsd:integer ;
+    wikibase:statements "17"^^xsd:integer ;
+    geo:hasDefaultGeometry ooss:Q183-6E47BF01-A3D8-5262-A6CC-0C4FCA184DC9 ;
+    geo:hasGeometry ooss:Q183-6E47BF01-A3D8-5262-A6CC-0C4FCA184DC9 ;
+    rdfs:label "Templebryan North Ogham Stone"@de,
+        "Templebryan North Ogham Stone"@en ;
+    skos:prefLabel "Templebryan North Ogham Stone"@de,
+        "Templebryan North Ogham Stone"@en ;
+    oosp:P2 ooss:Q183-DE1865E7-68EF-5812-BA00-317AB9F6A2FC ;
+    oosp:P100 ooss:Q183-B46D2FA0-EF4F-5F93-8262-1869B5DA8700 ;
+    oosp:P101 ooss:Q183-66DC11D7-747A-5160-9CBA-66D7D5944B81,
+        ooss:Q183-89ED5A56-37C8-565E-AEC1-6A39BA1C5DDD,
+        ooss:Q183-721AA20F-2CCF-53DE-9BA4-EA3802BB1A07,
+        ooss:Q183-93517AEB-B3BD-5D3E-8FB0-3B81C26CB3BB,
+        ooss:Q183-DE64E5F0-0CBE-5F03-927F-813E1ABC04DB ;
+    oosp:P107 ooss:Q183-C937FFF0-0D26-5ED5-BC65-CFF095EF0010 ;
+    oosp:P110 ooss:Q183-7AF2FA0E-D100-54DB-AFC5-0B4BB15A554C ;
+    oosp:P111 ooss:Q183-6E47BF01-A3D8-5262-A6CC-0C4FCA184DC9 ;
+    oosp:P113 ooss:Q183-1D5B7957-DEEB-5AFC-B615-CA610BBBB127,
+        ooss:Q183-3D99446D-5570-5D21-BA46-A000E5D3694D,
+        ooss:Q183-5E259A02-2D0F-524B-B5C1-6AEF5F74BE53,
+        ooss:Q183-67B21C1B-71FD-551B-8242-DC30F09BA9DE,
+        ooss:Q183-79AD3429-E0BF-52F3-A7DB-4FDE11A8959B,
+        ooss:Q183-CDE32AC3-F273-5210-9D02-A5028642E169,
+        ooss:Q183-D03749BA-DC75-5D1D-A2A0-87044916E7AB ;
+    oost:P2 oos:Q100 ;
+    oost:P100 <https://www.openstreetmap.org/node/3663314804> ;
+    oost:P101 <https://www.openstreetmap.org/node/3663314804/history/5> ;
+    oost:P107 <https://www.openstreetmap.org/node/3663314804/history/3> ;
+    oost:P110 "Point(-8.8857259 51.6447272)"^^geo:wktLiteral ;
+    oost:P111 "POINT(-8.8857259 51.6447272)" ;
+    oost:P113 "heritage:operator=IE:smr",
+        "heritage=2",
+        "historic=ogham_stone",
+        "name=Templebryan North Ogham Stone",
+        "ref:IE:smr=CO122-075004-",
+        "wikidata=Q21036926",
+        "wikipedia=de:Oghamstein von Templebryan North" .
+
+ooss:Q183-1D5B7957-DEEB-5AFC-B615-CA610BBBB127
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:88ff763c2cf03c670395c13170b55e42033d0325 ;
+    oosps:P113 "historic=ogham_stone" .
+
+ooss:Q183-3D99446D-5570-5D21-BA46-A000E5D3694D
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:88ff763c2cf03c670395c13170b55e42033d0325 ;
+    oosps:P113 "wikidata=Q21036926" .
+
+ooss:Q183-5E259A02-2D0F-524B-B5C1-6AEF5F74BE53
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:88ff763c2cf03c670395c13170b55e42033d0325 ;
+    oosps:P113 "name=Templebryan North Ogham Stone" .
+
+ooss:Q183-6E47BF01-A3D8-5262-A6CC-0C4FCA184DC9
+    a wikibase:BestRank,
+        wikibase:Statement,
+        geo:Geometry ;
+    wikibase:rank wikibase:NormalRank ;
+    geo:asWKT "POINT(-8.8857259 51.6447272)"^^geo:wktLiteral ;
+    prov:wasDerivedFrom oosref:4b8570b7712258b8d512ccf6b1fa7932342c2f78 ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2015-07-23T16:21:32Z" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P111 "POINT(-8.8857259 51.6447272)" .
+
+ooss:Q183-7AF2FA0E-D100-54DB-AFC5-0B4BB15A554C
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:88ff763c2cf03c670395c13170b55e42033d0325 ;
+    oosps:P110 "Point(-8.8857259 51.6447272)"^^geo:wktLiteral ;
+    oospsv:P110 oosv:6dd20f4f53f9c90b09c003443e4a2ea2 .
+
+ooss:Q183-66DC11D7-747A-5160-9CBA-66D7D5944B81
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2015-07-23T16:21:32Z" ;
+    oospq:P104 "32830508" ;
+    oospq:P105 "Thgoiter" ;
+    oospq:P106 "506151" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P101 <https://www.openstreetmap.org/node/3663314804/history/1> .
+
+ooss:Q183-67B21C1B-71FD-551B-8242-DC30F09BA9DE
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:88ff763c2cf03c670395c13170b55e42033d0325 ;
+    oosps:P113 "heritage:operator=IE:smr" .
+
+ooss:Q183-79AD3429-E0BF-52F3-A7DB-4FDE11A8959B
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:88ff763c2cf03c670395c13170b55e42033d0325 ;
+    oosps:P113 "heritage=2" .
+
+ooss:Q183-89ED5A56-37C8-565E-AEC1-6A39BA1C5DDD
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+3"^^xsd:decimal ;
+    oospq:P103 "2021-04-01T20:42:27Z" ;
+    oospq:P104 "102148161" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:0bbe1280560b495eac2a68b29e4b1c4e ;
+    oosps:P101 <https://www.openstreetmap.org/node/3663314804/history/3> .
+
+ooss:Q183-721AA20F-2CCF-53DE-9BA4-EA3802BB1A07
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+2"^^xsd:decimal ;
+    oospq:P103 "2017-09-10T06:52:27Z" ;
+    oospq:P104 "51898736" ;
+    oospq:P105 "nyuriks" ;
+    oospq:P106 "339581" ;
+    oospqv:P102 oosv:c295f8f927aa4b01b5401a2788a068ea ;
+    oosps:P101 <https://www.openstreetmap.org/node/3663314804/history/2> .
+
+ooss:Q183-93517AEB-B3BD-5D3E-8FB0-3B81C26CB3BB
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+4"^^xsd:decimal ;
+    oospq:P103 "2023-10-10T11:45:19Z" ;
+    oospq:P104 "142389560" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:9eb0a11f783b50f51f04a9fc2aca89fb ;
+    oosps:P101 <https://www.openstreetmap.org/node/3663314804/history/4> .
+
+ooss:Q183-B46D2FA0-EF4F-5F93-8262-1869B5DA8700
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P100 <https://www.openstreetmap.org/node/3663314804> .
+
+ooss:Q183-C937FFF0-0D26-5ED5-BC65-CFF095EF0010
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P109 "ogham" ;
+    oosps:P107 <https://www.openstreetmap.org/node/3663314804/history/3> .
+
+ooss:Q183-CDE32AC3-F273-5210-9D02-A5028642E169
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:88ff763c2cf03c670395c13170b55e42033d0325 ;
+    oosps:P113 "ref:IE:smr=CO122-075004-" .
+
+ooss:Q183-D03749BA-DC75-5D1D-A2A0-87044916E7AB
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:88ff763c2cf03c670395c13170b55e42033d0325 ;
+    oosps:P113 "wikipedia=de:Oghamstein von Templebryan North" .
+
+ooss:Q183-DE64E5F0-0CBE-5F03-927F-813E1ABC04DB
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:PreferredRank ;
+    oospq:P102 "+5"^^xsd:decimal ;
+    oospq:P103 "2024-11-27T14:04:08Z" ;
+    oospq:P104 "159661420" ;
+    oospq:P105 "geozeisig" ;
+    oospq:P106 "66391" ;
+    oospqv:P102 oosv:30e603cac620241526fa9f81268ba25c ;
+    oosps:P101 <https://www.openstreetmap.org/node/3663314804/history/5> .
+
+ooss:Q183-DE1865E7-68EF-5812-BA00-317AB9F6A2FC
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P2 oos:Q100 .
+
+oosref:4b8570b7712258b8d512ccf6b1fa7932342c2f78
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/node/3663314804/history/1> .
+
+oosref:88ff763c2cf03c670395c13170b55e42033d0325
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/node/3663314804/history/5> .
+
+oosv:0bbe1280560b495eac2a68b29e4b1c4e
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+3"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:6dd20f4f53f9c90b09c003443e4a2ea2
+    a wikibase:GlobecoordinateValue ;
+    wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> ;
+    wikibase:geoLatitude "51.6447272"^^xsd:double ;
+    wikibase:geoLongitude "-8.8857259"^^xsd:double ;
+    wikibase:geoPrecision "1e-06"^^xsd:double .
+
+oosv:9eb0a11f783b50f51f04a9fc2aca89fb
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+4"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:30e603cac620241526fa9f81268ba25c
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+5"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:aa2e7afcc4dbda508bf34d1e83609f7e
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+1"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:c295f8f927aa4b01b5401a2788a068ea
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+2"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .

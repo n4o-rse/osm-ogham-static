@@ -1,0 +1,375 @@
+# Q140: the part of the RDF export of OSM Ogham stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of unknown
+# Licence: ODbL 1.0, © OpenStreetMap contributors
+# The prefixes oos:, oost:, oosp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only oos:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix oos: <https://n4o-rse.github.io/osm-ogham-static/entity/> .
+@prefix ooscat: <https://n4o-rse.github.io/osm-ogham-static/catalog/> .
+@prefix oosdata: <https://n4o-rse.github.io/osm-ogham-static/ttl/> .
+@prefix oosdist: <https://n4o-rse.github.io/osm-ogham-static/distribution/> .
+@prefix oosno: <https://n4o-rse.github.io/osm-ogham-static/prop/novalue/> .
+@prefix oosp: <https://n4o-rse.github.io/osm-ogham-static/prop/> .
+@prefix oospq: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/> .
+@prefix oospqv: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/value/> .
+@prefix oospr: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/> .
+@prefix oosprv: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/value/> .
+@prefix oosps: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/> .
+@prefix oospsv: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/value/> .
+@prefix oosref: <https://n4o-rse.github.io/osm-ogham-static/reference/> .
+@prefix ooss: <https://n4o-rse.github.io/osm-ogham-static/entity/statement/> .
+@prefix oost: <https://n4o-rse.github.io/osm-ogham-static/prop/direct/> .
+@prefix oosv: <https://n4o-rse.github.io/osm-ogham-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/osm-ogham-static/ttl/Q140.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:description "Benchmark, inscription “CCICAMINIvac. MAQ/Q[/I] C[A]TTINI” (OpenStreetMap node 11677109638)"@en,
+        "Höhenmarke, Inschrift „CCICAMINIvac. MAQ/Q[/I] C[A]TTINI“ (OpenStreetMap-Node 11677109638)"@de ;
+    dcterms:identifier "Q140" ;
+    dcterms:isPartOf ooscat:items ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:subject oos:Q140 ;
+    dcterms:title "CIIC 153 (Ballinrannig VI)"@de,
+        "CIIC 153 (Ballinrannig VI)"@en ;
+    schema:about oos:Q140 ;
+    dcat:distribution oosdist:Q140-html,
+        oosdist:Q140-json,
+        oosdist:Q140-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/osm-ogham-static/Q140.html> .
+
+oosdist:Q140-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q140, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/osm-ogham-static/Q140.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+oosdist:Q140-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q140, as archived from the Wikibase API"@en ;
+    dcat:byteSize "28821"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/osm-ogham-static/json/Q140.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+oosdist:Q140-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q140, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL oosdata:Q140.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+oos:Q140
+    a wikibase:Item,
+        geo:Feature ;
+    schema:description "Benchmark, inscription “CCICAMINIvac. MAQ/Q[/I] C[A]TTINI” (OpenStreetMap node 11677109638)"@en,
+        "Höhenmarke, Inschrift „CCICAMINIvac. MAQ/Q[/I] C[A]TTINI“ (OpenStreetMap-Node 11677109638)"@de ;
+    schema:name "CIIC 153 (Ballinrannig VI)"@de,
+        "CIIC 153 (Ballinrannig VI)"@en ;
+    wikibase:identifiers "0"^^xsd:integer ;
+    wikibase:statements "24"^^xsd:integer ;
+    geo:hasDefaultGeometry ooss:Q140-9EE14AAE-2C0B-583B-8577-60E59408F96A ;
+    geo:hasGeometry ooss:Q140-9EE14AAE-2C0B-583B-8577-60E59408F96A,
+        ooss:Q140-A806F299-318D-5821-92A9-01FB612A5841 ;
+    rdfs:label "CIIC 153 (Ballinrannig VI)"@de,
+        "CIIC 153 (Ballinrannig VI)"@en ;
+    skos:prefLabel "CIIC 153 (Ballinrannig VI)"@de,
+        "CIIC 153 (Ballinrannig VI)"@en ;
+    oosp:P2 ooss:Q140-705255D0-85A0-559A-9FC2-ED2A2B466BAB ;
+    oosp:P100 ooss:Q140-5A6A9A11-DDA6-548A-93B2-B58EA842FDCC ;
+    oosp:P101 ooss:Q140-01C11366-B307-527F-B3F7-9BB7EBDAF823,
+        ooss:Q140-3DFC44E0-90CE-5D25-A8A1-1873B645E33C,
+        ooss:Q140-15A5BAC7-7297-5181-9853-460355AEB09C,
+        ooss:Q140-7370B7E7-F0EC-5208-B090-736B7C17363B,
+        ooss:Q140-622958DF-7531-5EEF-A238-50D9DD408BCE ;
+    oosp:P107 ooss:Q140-AB43084A-9C0E-54B8-8E3D-0E15D42626D3 ;
+    oosp:P110 ooss:Q140-B4D527F4-62F0-5CA4-B6C5-D4EE869D6B8E ;
+    oosp:P111 ooss:Q140-9EE14AAE-2C0B-583B-8577-60E59408F96A,
+        ooss:Q140-A806F299-318D-5821-92A9-01FB612A5841 ;
+    oosp:P112 ooss:Q140-77B4AD11-54B9-5F63-AD94-67295830870C ;
+    oosp:P113 ooss:Q140-6A59648C-FF3A-5970-84DC-CFAE34498CE0,
+        ooss:Q140-6F276EE3-A7A8-5478-A0B4-6E79BC1A1873,
+        ooss:Q140-7CEF2C53-0A09-51BA-A43F-85BAFB6C0559,
+        ooss:Q140-42A2FB04-0A07-5B65-AE18-0F91CE1980D4,
+        ooss:Q140-689D8361-4090-5569-B5A4-944F6AB5BDB1,
+        ooss:Q140-1589BA9A-DCFD-59BF-B05E-CC72CABD818D,
+        ooss:Q140-73157F07-79D9-520F-8990-CA9E13E069E0,
+        ooss:Q140-C225F17D-A70A-5D3B-9BB3-87A9C77BCE6B,
+        ooss:Q140-CACD7AA7-7FF7-59EE-AA26-D0BBA132C918,
+        ooss:Q140-CE550B9B-93E8-5E6D-9017-1C0F772DA7E1,
+        ooss:Q140-E37D5744-DB06-5EAA-8EA5-E43791D612A2,
+        ooss:Q140-F66496EB-1636-5D8B-8715-3C4C0B7411FB ;
+    oost:P2 oos:Q100 ;
+    oost:P100 <https://www.openstreetmap.org/node/11677109638> ;
+    oost:P101 <https://www.openstreetmap.org/node/11677109638/history/5> ;
+    oost:P107 <https://www.openstreetmap.org/node/11677109638/history/1> ;
+    oost:P110 "Point(-9.6424841 52.2758388)"^^geo:wktLiteral ;
+    oost:P111 "POINT(-9.6424841 52.2758388)",
+        "POINT(-9.6430769 52.2758257)" ;
+    oost:P112 <http://commons.wikimedia.org/wiki/Special:FilePath/CIIC%20153%20Ballinrannig%20VI.jpg> ;
+    oost:P113 "heritage:operator=IE:smr",
+        "heritage=2",
+        "historic=ogham_stone",
+        "inscription=CCICAMINIvac. MAQ/Q[/I] C[A]TTINI",
+        "moved=yes",
+        "moved_to:wikidata=Q40888587",
+        "name=CIIC 153 (Ballinrannig VI)",
+        "project=ogham.link",
+        "ref:IE:smr=KE042-057011-",
+        "source=survey",
+        "url:sketchfab=https://skfb.ly/oRynM",
+        "wikidata=Q106680820" .
+
+ooss:Q140-01C11366-B307-527F-B3F7-9BB7EBDAF823
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+2"^^xsd:decimal ;
+    oospq:P103 "2024-02-29T16:25:21Z" ;
+    oospq:P104 "148060494" ;
+    oospq:P105 "fthierygeo" ;
+    oospq:P106 "8813335" ;
+    oospqv:P102 oosv:c295f8f927aa4b01b5401a2788a068ea ;
+    oosps:P101 <https://www.openstreetmap.org/node/11677109638/history/2> .
+
+ooss:Q140-3DFC44E0-90CE-5D25-A8A1-1873B645E33C
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2024-02-29T16:11:04Z" ;
+    oospq:P104 "148059858" ;
+    oospq:P105 "fthierygeo" ;
+    oospq:P106 "8813335" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P101 <https://www.openstreetmap.org/node/11677109638/history/1> .
+
+ooss:Q140-5A6A9A11-DDA6-548A-93B2-B58EA842FDCC
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P100 <https://www.openstreetmap.org/node/11677109638> .
+
+ooss:Q140-6A59648C-FF3A-5970-84DC-CFAE34498CE0
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:df895604ba9e2936cf915399d4d8aa0333159a9a ;
+    oosps:P113 "name=CIIC 153 (Ballinrannig VI)" .
+
+ooss:Q140-6F276EE3-A7A8-5478-A0B4-6E79BC1A1873
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:df895604ba9e2936cf915399d4d8aa0333159a9a ;
+    oosps:P113 "url:sketchfab=https://skfb.ly/oRynM" .
+
+ooss:Q140-7CEF2C53-0A09-51BA-A43F-85BAFB6C0559
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:df895604ba9e2936cf915399d4d8aa0333159a9a ;
+    oosps:P113 "source=survey" .
+
+ooss:Q140-9EE14AAE-2C0B-583B-8577-60E59408F96A
+    a wikibase:BestRank,
+        wikibase:Statement,
+        geo:Geometry ;
+    wikibase:rank wikibase:NormalRank ;
+    geo:asWKT "POINT(-9.6424841 52.2758388)"^^geo:wktLiteral ;
+    prov:wasDerivedFrom oosref:df895604ba9e2936cf915399d4d8aa0333159a9a ;
+    oospq:P102 "+5"^^xsd:decimal ;
+    oospq:P103 "2026-05-13T14:29:14Z" ;
+    oospqv:P102 oosv:30e603cac620241526fa9f81268ba25c ;
+    oosps:P111 "POINT(-9.6424841 52.2758388)" .
+
+ooss:Q140-15A5BAC7-7297-5181-9853-460355AEB09C
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:PreferredRank ;
+    oospq:P102 "+5"^^xsd:decimal ;
+    oospq:P103 "2026-05-13T14:29:14Z" ;
+    oospq:P104 "182604950" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:30e603cac620241526fa9f81268ba25c ;
+    oosps:P101 <https://www.openstreetmap.org/node/11677109638/history/5> .
+
+ooss:Q140-42A2FB04-0A07-5B65-AE18-0F91CE1980D4
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:df895604ba9e2936cf915399d4d8aa0333159a9a ;
+    oosps:P113 "project=ogham.link" .
+
+ooss:Q140-77B4AD11-54B9-5F63-AD94-67295830870C
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:df895604ba9e2936cf915399d4d8aa0333159a9a ;
+    oosps:P112 <http://commons.wikimedia.org/wiki/Special:FilePath/CIIC%20153%20Ballinrannig%20VI.jpg> .
+
+ooss:Q140-689D8361-4090-5569-B5A4-944F6AB5BDB1
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:df895604ba9e2936cf915399d4d8aa0333159a9a ;
+    oosps:P113 "heritage:operator=IE:smr" .
+
+ooss:Q140-1589BA9A-DCFD-59BF-B05E-CC72CABD818D
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:df895604ba9e2936cf915399d4d8aa0333159a9a ;
+    oosps:P113 "heritage=2" .
+
+ooss:Q140-7370B7E7-F0EC-5208-B090-736B7C17363B
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+3"^^xsd:decimal ;
+    oospq:P103 "2024-05-06T12:41:18Z" ;
+    oospq:P104 "150963322" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:0bbe1280560b495eac2a68b29e4b1c4e ;
+    oosps:P101 <https://www.openstreetmap.org/node/11677109638/history/3> .
+
+ooss:Q140-73157F07-79D9-520F-8990-CA9E13E069E0
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:df895604ba9e2936cf915399d4d8aa0333159a9a ;
+    oosps:P113 "moved_to:wikidata=Q40888587" .
+
+ooss:Q140-622958DF-7531-5EEF-A238-50D9DD408BCE
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+4"^^xsd:decimal ;
+    oospq:P103 "2024-11-27T14:04:09Z" ;
+    oospq:P104 "159661420" ;
+    oospq:P105 "geozeisig" ;
+    oospq:P106 "66391" ;
+    oospqv:P102 oosv:9eb0a11f783b50f51f04a9fc2aca89fb ;
+    oosps:P101 <https://www.openstreetmap.org/node/11677109638/history/4> .
+
+ooss:Q140-705255D0-85A0-559A-9FC2-ED2A2B466BAB
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P2 oos:Q100 .
+
+ooss:Q140-A806F299-318D-5821-92A9-01FB612A5841
+    a wikibase:BestRank,
+        wikibase:Statement,
+        geo:Geometry ;
+    wikibase:rank wikibase:NormalRank ;
+    geo:asWKT "POINT(-9.6430769 52.2758257)"^^geo:wktLiteral ;
+    prov:wasDerivedFrom oosref:f06ca748e14a8cdde11cbf09bf5ce362a63d580f ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2024-02-29T16:11:04Z" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P111 "POINT(-9.6430769 52.2758257)" .
+
+ooss:Q140-AB43084A-9C0E-54B8-8E3D-0E15D42626D3
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P109 "ogham" ;
+    oosps:P107 <https://www.openstreetmap.org/node/11677109638/history/1> .
+
+ooss:Q140-B4D527F4-62F0-5CA4-B6C5-D4EE869D6B8E
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:df895604ba9e2936cf915399d4d8aa0333159a9a ;
+    oosps:P110 "Point(-9.6424841 52.2758388)"^^geo:wktLiteral ;
+    oospsv:P110 oosv:b33b598d306524740fc1d31b26fc131d .
+
+ooss:Q140-C225F17D-A70A-5D3B-9BB3-87A9C77BCE6B
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:df895604ba9e2936cf915399d4d8aa0333159a9a ;
+    oosps:P113 "moved=yes" .
+
+ooss:Q140-CACD7AA7-7FF7-59EE-AA26-D0BBA132C918
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:df895604ba9e2936cf915399d4d8aa0333159a9a ;
+    oosps:P113 "inscription=CCICAMINIvac. MAQ/Q[/I] C[A]TTINI" .
+
+ooss:Q140-CE550B9B-93E8-5E6D-9017-1C0F772DA7E1
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:df895604ba9e2936cf915399d4d8aa0333159a9a ;
+    oosps:P113 "historic=ogham_stone" .
+
+ooss:Q140-E37D5744-DB06-5EAA-8EA5-E43791D612A2
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:df895604ba9e2936cf915399d4d8aa0333159a9a ;
+    oosps:P113 "ref:IE:smr=KE042-057011-" .
+
+ooss:Q140-F66496EB-1636-5D8B-8715-3C4C0B7411FB
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:df895604ba9e2936cf915399d4d8aa0333159a9a ;
+    oosps:P113 "wikidata=Q106680820" .
+
+oosref:df895604ba9e2936cf915399d4d8aa0333159a9a
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/node/11677109638/history/5> .
+
+oosref:f06ca748e14a8cdde11cbf09bf5ce362a63d580f
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/node/11677109638/history/1> .
+
+oosv:0bbe1280560b495eac2a68b29e4b1c4e
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+3"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:9eb0a11f783b50f51f04a9fc2aca89fb
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+4"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:30e603cac620241526fa9f81268ba25c
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+5"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:aa2e7afcc4dbda508bf34d1e83609f7e
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+1"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:b33b598d306524740fc1d31b26fc131d
+    a wikibase:GlobecoordinateValue ;
+    wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> ;
+    wikibase:geoLatitude "52.2758388"^^xsd:double ;
+    wikibase:geoLongitude "-9.6424841"^^xsd:double ;
+    wikibase:geoPrecision "1e-06"^^xsd:double .
+
+oosv:c295f8f927aa4b01b5401a2788a068ea
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+2"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .

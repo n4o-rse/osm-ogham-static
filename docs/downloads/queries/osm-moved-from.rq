@@ -1,0 +1,12 @@
+PREFIX oosp: <https://n4o-rse.github.io/osm-ogham-static/prop/>
+PREFIX oosps: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/>
+
+SELECT ?from (COUNT(DISTINCT ?item) AS ?stones) WHERE {
+  ?item oosp:P113 ?statement .
+  ?statement oosps:P113 ?tag .
+  FILTER(STRSTARTS(?tag, "moved_from="))
+  BIND(STRAFTER(?tag, "moved_from=") AS ?from)
+}
+GROUP BY ?from
+ORDER BY DESC(?stones) ?from
+LIMIT 50

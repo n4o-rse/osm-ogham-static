@@ -1,5 +1,2352 @@
 sid,subject,property,value,rank,origin
 ,Q100,P1,Q3,,
+,Q101,P2,Q100,,osm
+Q101-P100-1,Q101,P100,https://www.openstreetmap.org/node/10040750611,,osm
+Q101-P101-1,Q101,P101,https://www.openstreetmap.org/node/10040750611/history/1,,osm
+Q101-P101-2,Q101,P101,https://www.openstreetmap.org/node/10040750611/history/2,,osm
+Q101-P101-3,Q101,P101,https://www.openstreetmap.org/node/10040750611/history/3,,osm
+Q101-P101-4,Q101,P101,https://www.openstreetmap.org/node/10040750611/history/4,,osm
+Q101-P101-5,Q101,P101,https://www.openstreetmap.org/node/10040750611/history/5,,osm
+Q101-P101-6,Q101,P101,https://www.openstreetmap.org/node/10040750611/history/6,,osm
+Q101-P101-7,Q101,P101,https://www.openstreetmap.org/node/10040750611/history/7,preferred,osm
+Q101-P107-1,Q101,P107,https://www.openstreetmap.org/node/10040750611/history/1,,osm
+Q101-P110-1,Q101,P110,"53.3439268,-6.2564185",,osm
+Q101-P111-1,Q101,P111,POINT(-6.2564185 53.3439268),,osm
+Q101-P113-1,Q101,P113,heritage=2,,osm
+Q101-P113-2,Q101,P113,heritage:operator=IE:smr,,osm
+Q101-P113-3,Q101,P113,historic=ogham_stone,,osm
+Q101-P113-4,Q101,P113,inscription=ANM VEDLI OIGGOI MACI SEDDOINI,,osm
+Q101-P113-5,Q101,P113,moved=yes,,osm
+Q101-P113-6,Q101,P113,moved_to:wikidata=Q258464,,osm
+Q101-P113-7,Q101,P113,name=CIIC 137 / TCBKD A,,osm
+Q101-P113-8,Q101,P113,project=ogham.link,,osm
+Q101-P113-9,Q101,P113,ref:IE:smr=DU018-294----,,osm
+Q101-P113-10,Q101,P113,source=survey,,osm
+Q101-P113-11,Q101,P113,wikidata=Q70892569,,osm
+,Q102,P2,Q100,,osm
+Q102-P100-1,Q102,P100,https://www.openstreetmap.org/node/10040757680,,osm
+Q102-P101-1,Q102,P101,https://www.openstreetmap.org/node/10040757680/history/1,,osm
+Q102-P101-2,Q102,P101,https://www.openstreetmap.org/node/10040757680/history/2,,osm
+Q102-P101-3,Q102,P101,https://www.openstreetmap.org/node/10040757680/history/3,,osm
+Q102-P101-4,Q102,P101,https://www.openstreetmap.org/node/10040757680/history/4,preferred,osm
+Q102-P107-1,Q102,P107,https://www.openstreetmap.org/node/10040757680/history/1,,osm
+Q102-P110-1,Q102,P110,"52.0767683,-9.5543233",,osm
+Q102-P111-1,Q102,P111,POINT(-9.5543233 52.0767683),,osm
+Q102-P113-1,Q102,P113,heritage=2,,osm
+Q102-P113-2,Q102,P113,heritage:operator=IE:smr,,osm
+Q102-P113-3,Q102,P113,historic=ogham_stone,,osm
+Q102-P113-4,Q102,P113,inscription=BRRUANANN,,osm
+Q102-P113-5,Q102,P113,moved=no,,osm
+Q102-P113-6,Q102,P113,name=CIIC 242,,osm
+Q102-P113-7,Q102,P113,project=ogham.link,,osm
+Q102-P113-8,Q102,P113,ref:IE:smr=KE066-016009-,,osm
+Q102-P113-9,Q102,P113,source=survey,,osm
+Q102-P113-10,Q102,P113,wikidata=Q70892852,,osm
+,Q103,P2,Q100,,osm
+Q103-P100-1,Q103,P100,https://www.openstreetmap.org/node/10041491619,,osm
+Q103-P101-1,Q103,P101,https://www.openstreetmap.org/node/10041491619/history/1,,osm
+Q103-P101-2,Q103,P101,https://www.openstreetmap.org/node/10041491619/history/2,,osm
+Q103-P101-3,Q103,P101,https://www.openstreetmap.org/node/10041491619/history/3,,osm
+Q103-P101-4,Q103,P101,https://www.openstreetmap.org/node/10041491619/history/4,preferred,osm
+Q103-P107-1,Q103,P107,https://www.openstreetmap.org/node/10041491619/history/1,,osm
+Q103-P110-1,Q103,P110,"52.136177,-10.1379247",,osm
+Q103-P111-1,Q103,P111,POINT(-10.1379247 52.136177),,osm
+Q103-P113-1,Q103,P113,heritage=2,,osm
+Q103-P113-2,Q103,P113,heritage:operator=IE:smr,,osm
+Q103-P113-3,Q103,P113,historic=ogham_stone,,osm
+Q103-P113-4,Q103,P113,inscription=... MAQI MAQ[I-...O]GGODIKA,,osm
+Q103-P113-5,Q103,P113,moved=no,,osm
+Q103-P113-6,Q103,P113,name=CIIC 141,,osm
+Q103-P113-7,Q103,P113,project=ogham.link,,osm
+Q103-P113-8,Q103,P113,ref:IE:smr=KE054-032003-,,osm
+Q103-P113-9,Q103,P113,source=survey,,osm
+Q103-P113-10,Q103,P113,wikidata=Q70892578,,osm
+,Q104,P2,Q100,,osm
+Q104-P100-1,Q104,P100,https://www.openstreetmap.org/node/10041927343,,osm
+Q104-P101-1,Q104,P101,https://www.openstreetmap.org/node/10041927343/history/1,,osm
+Q104-P101-2,Q104,P101,https://www.openstreetmap.org/node/10041927343/history/2,,osm
+Q104-P101-3,Q104,P101,https://www.openstreetmap.org/node/10041927343/history/3,,osm
+Q104-P101-4,Q104,P101,https://www.openstreetmap.org/node/10041927343/history/4,,osm
+Q104-P101-5,Q104,P101,https://www.openstreetmap.org/node/10041927343/history/5,,osm
+Q104-P101-6,Q104,P101,https://www.openstreetmap.org/node/10041927343/history/6,preferred,osm
+Q104-P107-1,Q104,P107,https://www.openstreetmap.org/node/10041927343/history/1,,osm
+Q104-P110-1,Q104,P110,"52.1361046,-10.1376772",,osm
+Q104-P111-1,Q104,P111,POINT(-10.1376772 52.1361046),,osm
+Q104-P113-1,Q104,P113,heritage=2,,osm
+Q104-P113-2,Q104,P113,heritage:operator=IE:smr,,osm
+Q104-P113-3,Q104,P113,historic=ogham_stone,,osm
+Q104-P113-4,Q104,P113,inscription=...] CELI AVI VU[...,,osm
+Q104-P113-5,Q104,P113,moved=no,,osm
+Q104-P113-6,Q104,P113,name=CIIC 142,,osm
+Q104-P113-7,Q104,P113,project=ogham.link,,osm
+Q104-P113-8,Q104,P113,ref:IE:smr=KE054-032004,,osm
+Q104-P113-9,Q104,P113,sketchfab=ke054-032004-aglish-oghamstone-ac451e7f6dfb4d1b9effd8017ba6b5cc,,osm
+Q104-P113-10,Q104,P113,source=survey,,osm
+Q104-P113-11,Q104,P113,url:sketchfab=https://skfb.ly/ovOwS,,osm
+Q104-P113-12,Q104,P113,wikidata=Q70892582,,osm
+,Q105,P2,Q100,,osm
+Q105-P100-1,Q105,P100,https://www.openstreetmap.org/node/10560404607,,osm
+Q105-P101-1,Q105,P101,https://www.openstreetmap.org/node/10560404607/history/1,,osm
+Q105-P101-2,Q105,P101,https://www.openstreetmap.org/node/10560404607/history/2,,osm
+Q105-P101-3,Q105,P101,https://www.openstreetmap.org/node/10560404607/history/3,,osm
+Q105-P101-4,Q105,P101,https://www.openstreetmap.org/node/10560404607/history/4,,osm
+Q105-P101-5,Q105,P101,https://www.openstreetmap.org/node/10560404607/history/5,,osm
+Q105-P101-6,Q105,P101,https://www.openstreetmap.org/node/10560404607/history/6,,osm
+Q105-P101-7,Q105,P101,https://www.openstreetmap.org/node/10560404607/history/7,,osm
+Q105-P101-8,Q105,P101,https://www.openstreetmap.org/node/10560404607/history/8,,osm
+Q105-P101-9,Q105,P101,https://www.openstreetmap.org/node/10560404607/history/9,,osm
+Q105-P101-10,Q105,P101,https://www.openstreetmap.org/node/10560404607/history/10,,osm
+Q105-P101-11,Q105,P101,https://www.openstreetmap.org/node/10560404607/history/11,,osm
+Q105-P101-12,Q105,P101,https://www.openstreetmap.org/node/10560404607/history/12,preferred,osm
+Q105-P107-1,Q105,P107,https://www.openstreetmap.org/node/10560404607/history/1,,osm
+Q105-P110-1,Q105,P110,"51.8936981,-8.4924824",,osm
+Q105-P111-1,Q105,P111,POINT(-8.4924007 51.8937334),,osm
+Q105-P111-6,Q105,P111,POINT(-8.4924907 51.8937137),,osm
+Q105-P111-7,Q105,P111,POINT(-8.4924908 51.8937138),,osm
+Q105-P111-8,Q105,P111,POINT(-8.4924922 51.8937134),,osm
+Q105-P111-11,Q105,P111,POINT(-8.4924824 51.8936981),,osm
+Q105-P113-1,Q105,P113,historic=ogham_stone,,osm
+Q105-P113-2,Q105,P113,indoor=yes,,osm
+Q105-P113-3,Q105,P113,inscription=GRILAGNI MAQI SCILAGNI,,osm
+Q105-P113-4,Q105,P113,inscription:pgl-Latn=CLIUCOANAS MAQI MAQI-TR[E]NI,,osm
+Q105-P113-5,Q105,P113,level=0,,osm
+Q105-P113-6,Q105,P113,moved=yes,,osm
+Q105-P113-7,Q105,P113,"moved_from=Ballyknock, Co. Cork",,osm
+Q105-P113-8,Q105,P113,moved_to:wikidata=Q69379477,,osm
+Q105-P113-9,Q105,P113,name=CIIC 86 / UCC 18,,osm
+Q105-P113-10,Q105,P113,project=ogham.link,,osm
+Q105-P113-11,Q105,P113,ref=CIIC 86,,osm
+Q105-P113-12,Q105,P113,ref:IE:smr=CO074-162----,,osm
+Q105-P113-13,Q105,P113,ref:IE:ucc=18,,osm
+Q105-P113-14,Q105,P113,source=survey,,osm
+Q105-P113-15,Q105,P113,source:inscription:pgl-Latn=information panel,,osm
+Q105-P113-16,Q105,P113,wikidata=Q106680741,,osm
+,Q106,P2,Q100,,osm
+Q106-P100-1,Q106,P100,https://www.openstreetmap.org/node/10563395863,,osm
+Q106-P101-1,Q106,P101,https://www.openstreetmap.org/node/10563395863/history/1,,osm
+Q106-P101-2,Q106,P101,https://www.openstreetmap.org/node/10563395863/history/2,,osm
+Q106-P101-3,Q106,P101,https://www.openstreetmap.org/node/10563395863/history/3,,osm
+Q106-P101-4,Q106,P101,https://www.openstreetmap.org/node/10563395863/history/4,,osm
+Q106-P101-5,Q106,P101,https://www.openstreetmap.org/node/10563395863/history/5,preferred,osm
+Q106-P107-1,Q106,P107,https://www.openstreetmap.org/node/10563395863/history/1,,osm
+Q106-P110-1,Q106,P110,"53.3439213,-6.2563912",,osm
+Q106-P111-1,Q106,P111,POINT(-6.2563912 53.3439213),,osm
+Q106-P113-1,Q106,P113,heritage=2,,osm
+Q106-P113-2,Q106,P113,heritage:operator=IE:smr,,osm
+Q106-P113-3,Q106,P113,historic=ogham_stone,,osm
+Q106-P113-4,Q106,P113,inscription=[CO?]BB[A?] AVI VLATIAMI MAQ...,,osm
+Q106-P113-5,Q106,P113,moved=yes,,osm
+Q106-P113-6,Q106,P113,moved_to:wikidata=Q258464,,osm
+Q106-P113-7,Q106,P113,name=CIIC 185 / TCBKD B,,osm
+Q106-P113-8,Q106,P113,project=ogham.link,,osm
+Q106-P113-9,Q106,P113,ref:IE:smr=DU018-294----,,osm
+Q106-P113-10,Q106,P113,source=servey,,osm
+Q106-P113-11,Q106,P113,wikidata=Q106680858,,osm
+,Q107,P2,Q100,,osm
+Q107-P100-1,Q107,P100,https://www.openstreetmap.org/node/10594924965,,osm
+Q107-P101-1,Q107,P101,https://www.openstreetmap.org/node/10594924965/history/1,,osm
+Q107-P101-2,Q107,P101,https://www.openstreetmap.org/node/10594924965/history/2,,osm
+Q107-P101-3,Q107,P101,https://www.openstreetmap.org/node/10594924965/history/3,,osm
+Q107-P101-4,Q107,P101,https://www.openstreetmap.org/node/10594924965/history/4,preferred,osm
+Q107-P107-1,Q107,P107,https://www.openstreetmap.org/node/10594924965/history/1,,osm
+Q107-P110-1,Q107,P110,"52.9442531,-6.613909",,osm
+Q107-P111-1,Q107,P111,POINT(-6.613909 52.9442531),,osm
+Q107-P113-1,Q107,P113,heritage=2,,osm
+Q107-P113-2,Q107,P113,historic=ogham_stone,,osm
+Q107-P113-3,Q107,P113,name=Crossoona Ogham Stone,,osm
+Q107-P113-4,Q107,P113,ref:IE:nm=418,,osm
+Q107-P113-5,Q107,P113,ref:IE:smr=WI027-038002,,osm
+Q107-P113-6,Q107,P113,wikidata=Q28232133,,osm
+Q107-P113-7,Q107,P113,wikipedia=en:Crossoona Rath,,osm
+,Q108,P2,Q100,,osm
+Q108-P100-1,Q108,P100,https://www.openstreetmap.org/node/10594973066,,osm
+Q108-P101-1,Q108,P101,https://www.openstreetmap.org/node/10594973066/history/1,,osm
+Q108-P101-2,Q108,P101,https://www.openstreetmap.org/node/10594973066/history/2,,osm
+Q108-P101-3,Q108,P101,https://www.openstreetmap.org/node/10594973066/history/3,,osm
+Q108-P101-4,Q108,P101,https://www.openstreetmap.org/node/10594973066/history/4,preferred,osm
+Q108-P107-1,Q108,P107,https://www.openstreetmap.org/node/10594973066/history/1,,osm
+Q108-P110-1,Q108,P110,"52.9046431,-6.0714863",,osm
+Q108-P111-1,Q108,P111,POINT(-6.0714863 52.9046431),,osm
+Q108-P113-1,Q108,P113,fixme=check location,,osm
+Q108-P113-2,Q108,P113,heritage=2,,osm
+Q108-P113-3,Q108,P113,historic=ogham_stone,,osm
+Q108-P113-4,Q108,P113,loc_name=The Giant's Stone,,osm
+Q108-P113-5,Q108,P113,name=Castletimon Ogham Stone,,osm
+Q108-P113-6,Q108,P113,ref:IE:nm=304,,osm
+Q108-P113-7,Q108,P113,ref:IE:smr=WI036-010----,,osm
+Q108-P113-8,Q108,P113,wikidata=Q28232123,,osm
+Q108-P113-9,Q108,P113,wikipedia=en:Castletimon Ogham Stone,,osm
+,Q109,P2,Q100,,osm
+Q109-P100-1,Q109,P100,https://www.openstreetmap.org/node/10601966811,,osm
+Q109-P101-1,Q109,P101,https://www.openstreetmap.org/node/10601966811/history/1,,osm
+Q109-P101-2,Q109,P101,https://www.openstreetmap.org/node/10601966811/history/2,,osm
+Q109-P101-3,Q109,P101,https://www.openstreetmap.org/node/10601966811/history/3,,osm
+Q109-P101-4,Q109,P101,https://www.openstreetmap.org/node/10601966811/history/4,preferred,osm
+Q109-P107-1,Q109,P107,https://www.openstreetmap.org/node/10601966811/history/1,,osm
+Q109-P110-1,Q109,P110,"53.8343177,-8.3699177",,osm
+Q109-P111-1,Q109,P111,POINT(-8.3699177 53.8343177),,osm
+Q109-P113-1,Q109,P113,description=white line on Bing could be the fallen ogham stone,,osm
+Q109-P113-2,Q109,P113,heritage=2,,osm
+Q109-P113-3,Q109,P113,historic=ogham_stone,,osm
+Q109-P113-4,Q109,P113,ref:IE:nm=650,,osm
+Q109-P113-5,Q109,P113,ref:IE:smr=RO015-051004-,,osm
+Q109-P113-6,Q109,P113,wikidata=Q116689501,,osm
+,Q110,P2,Q100,,osm
+Q110-P100-1,Q110,P100,https://www.openstreetmap.org/node/10601966825,,osm
+Q110-P101-1,Q110,P101,https://www.openstreetmap.org/node/10601966825/history/1,,osm
+Q110-P101-2,Q110,P101,https://www.openstreetmap.org/node/10601966825/history/2,,osm
+Q110-P101-3,Q110,P101,https://www.openstreetmap.org/node/10601966825/history/3,,osm
+Q110-P101-4,Q110,P101,https://www.openstreetmap.org/node/10601966825/history/4,,osm
+Q110-P101-5,Q110,P101,https://www.openstreetmap.org/node/10601966825/history/5,preferred,osm
+Q110-P107-1,Q110,P107,https://www.openstreetmap.org/node/10601966825/history/1,,osm
+Q110-P110-1,Q110,P110,"53.834366,-8.3698983",,osm
+Q110-P111-1,Q110,P111,POINT(-8.3698983 53.834366),,osm
+Q110-P113-1,Q110,P113,heritage=2,,osm
+Q110-P113-2,Q110,P113,historic=ogham_stone,,osm
+Q110-P113-3,Q110,P113,ref:IE:nm=650,,osm
+Q110-P113-4,Q110,P113,ref:IE:smr=RO015-051001-,,osm
+Q110-P113-5,Q110,P113,related:wikipedia=en:Drummin fort,,osm
+Q110-P113-6,Q110,P113,source=Bing,,osm
+Q110-P113-7,Q110,P113,wikidata=Q116689501,,osm
+,Q111,P2,Q100,,osm
+Q111-P100-1,Q111,P100,https://www.openstreetmap.org/node/10633917137,,osm
+Q111-P101-1,Q111,P101,https://www.openstreetmap.org/node/10633917137/history/1,,osm
+Q111-P101-2,Q111,P101,https://www.openstreetmap.org/node/10633917137/history/2,,osm
+Q111-P101-3,Q111,P101,https://www.openstreetmap.org/node/10633917137/history/3,,osm
+Q111-P101-4,Q111,P101,https://www.openstreetmap.org/node/10633917137/history/4,,osm
+Q111-P101-5,Q111,P101,https://www.openstreetmap.org/node/10633917137/history/5,,osm
+Q111-P101-6,Q111,P101,https://www.openstreetmap.org/node/10633917137/history/6,preferred,osm
+Q111-P107-1,Q111,P107,https://www.openstreetmap.org/node/10633917137/history/1,,osm
+Q111-P110-1,Q111,P110,"52.0780035,-8.6068654",,osm
+Q111-P111-1,Q111,P111,POINT(-8.6068654 52.0780035),,osm
+Q111-P113-1,Q111,P113,heritage=2,,osm
+Q111-P113-2,Q111,P113,heritage:operator=IE:smr;IE:nm,,osm
+Q111-P113-3,Q111,P113,historic=ogham_stone,,osm
+Q111-P113-4,Q111,P113,ref:IE:nm=552,,osm
+Q111-P113-5,Q111,P113,ref:IE:smr=CO042-049001-,,osm
+Q111-P113-6,Q111,P113,wikidata=Q29587056,,osm
+Q111-P113-7,Q111,P113,wikipedia=en:Greenhill Ogham Stones,,osm
+,Q112,P2,Q100,,osm
+Q112-P100-1,Q112,P100,https://www.openstreetmap.org/node/10633917138,,osm
+Q112-P101-1,Q112,P101,https://www.openstreetmap.org/node/10633917138/history/1,,osm
+Q112-P101-2,Q112,P101,https://www.openstreetmap.org/node/10633917138/history/2,,osm
+Q112-P101-3,Q112,P101,https://www.openstreetmap.org/node/10633917138/history/3,,osm
+Q112-P101-4,Q112,P101,https://www.openstreetmap.org/node/10633917138/history/4,,osm
+Q112-P101-5,Q112,P101,https://www.openstreetmap.org/node/10633917138/history/5,,osm
+Q112-P101-6,Q112,P101,https://www.openstreetmap.org/node/10633917138/history/6,preferred,osm
+Q112-P107-1,Q112,P107,https://www.openstreetmap.org/node/10633917138/history/1,,osm
+Q112-P110-1,Q112,P110,"52.0776095,-8.6068319",,osm
+Q112-P111-1,Q112,P111,POINT(-8.6068319 52.0776095),,osm
+Q112-P113-1,Q112,P113,heritage=2,,osm
+Q112-P113-2,Q112,P113,heritage:operator=IE:smr;IE:nm,,osm
+Q112-P113-3,Q112,P113,historic=ogham_stone,,osm
+Q112-P113-4,Q112,P113,ref:IE:nm=552,,osm
+Q112-P113-5,Q112,P113,ref:IE:smr=CO042-049002-,,osm
+Q112-P113-6,Q112,P113,wikidata=Q29587056,,osm
+Q112-P113-7,Q112,P113,wikipedia=en:Greenhill Ogham Stones,,osm
+,Q113,P2,Q100,,osm
+Q113-P100-1,Q113,P100,https://www.openstreetmap.org/node/10639514250,,osm
+Q113-P101-1,Q113,P101,https://www.openstreetmap.org/node/10639514250/history/1,,osm
+Q113-P101-2,Q113,P101,https://www.openstreetmap.org/node/10639514250/history/2,preferred,osm
+Q113-P107-1,Q113,P107,https://www.openstreetmap.org/node/10639514250/history/1,,osm
+Q113-P110-1,Q113,P110,"52.1767439,-10.2225267",,osm
+Q113-P111-1,Q113,P111,POINT(-10.2225267 52.1767439),,osm
+Q113-P113-1,Q113,P113,heritage=2,,osm
+Q113-P113-2,Q113,P113,historic=ogham_stone,,osm
+Q113-P113-3,Q113,P113,name=Ballybowler North Ogham Stone,,osm
+Q113-P113-4,Q113,P113,note=estimated location using wikipedia coordinates,,osm
+Q113-P113-5,Q113,P113,ref:IE:nm=221,,osm
+Q113-P113-6,Q113,P113,wikidata=Q78062999,,osm
+Q113-P113-7,Q113,P113,wikipedia=en:Ballybowler North Ogham Stone,,osm
+,Q114,P2,Q100,,osm
+Q114-P100-1,Q114,P100,https://www.openstreetmap.org/node/10652133873,,osm
+Q114-P101-1,Q114,P101,https://www.openstreetmap.org/node/10652133873/history/1,,osm
+Q114-P101-2,Q114,P101,https://www.openstreetmap.org/node/10652133873/history/2,,osm
+Q114-P101-3,Q114,P101,https://www.openstreetmap.org/node/10652133873/history/3,,osm
+Q114-P101-4,Q114,P101,https://www.openstreetmap.org/node/10652133873/history/4,,osm
+Q114-P101-5,Q114,P101,https://www.openstreetmap.org/node/10652133873/history/5,,osm
+Q114-P101-6,Q114,P101,https://www.openstreetmap.org/node/10652133873/history/6,,osm
+Q114-P101-7,Q114,P101,https://www.openstreetmap.org/node/10652133873/history/7,,osm
+Q114-P101-8,Q114,P101,https://www.openstreetmap.org/node/10652133873/history/8,preferred,osm
+Q114-P107-1,Q114,P107,https://www.openstreetmap.org/node/10652133873/history/1,,osm
+Q114-P110-1,Q114,P110,"51.88842,-10.183724",,osm
+Q114-P111-1,Q114,P111,POINT(-10.1839533 51.8885906),,osm
+Q114-P111-2,Q114,P111,POINT(-10.183724 51.88842),,osm
+Q114-P113-1,Q114,P113,heritage=2,,osm
+Q114-P113-2,Q114,P113,heritage:operator=IE:smr;IE:nm,,osm
+Q114-P113-3,Q114,P113,historic=ogham_stone,,osm
+Q114-P113-4,Q114,P113,moved=yes,,osm
+Q114-P113-5,Q114,P113,ref:IE:nm=228,,osm
+Q114-P113-6,Q114,P113,ref:IE:smr=KE089-011001,,osm
+Q114-P113-7,Q114,P113,sketchfab=cloghanecarhan-ogham-stone-22bec10b6158442f9e5b02d33122d833,,osm
+Q114-P113-8,Q114,P113,url:sketchfab=https://skfb.ly/KqYr,,osm
+Q114-P113-9,Q114,P113,wikidata=Q38251789,,osm
+Q114-P113-10,Q114,P113,wikipedia=en:Cloghanecarhan,,osm
+,Q115,P2,Q100,,osm
+Q115-P100-1,Q115,P100,https://www.openstreetmap.org/node/10652214543,,osm
+Q115-P101-1,Q115,P101,https://www.openstreetmap.org/node/10652214543/history/1,,osm
+Q115-P101-2,Q115,P101,https://www.openstreetmap.org/node/10652214543/history/2,,osm
+Q115-P101-3,Q115,P101,https://www.openstreetmap.org/node/10652214543/history/3,,osm
+Q115-P101-4,Q115,P101,https://www.openstreetmap.org/node/10652214543/history/4,,osm
+Q115-P101-5,Q115,P101,https://www.openstreetmap.org/node/10652214543/history/5,,osm
+Q115-P101-6,Q115,P101,https://www.openstreetmap.org/node/10652214543/history/6,,osm
+Q115-P101-7,Q115,P101,https://www.openstreetmap.org/node/10652214543/history/7,preferred,osm
+Q115-P107-1,Q115,P107,https://www.openstreetmap.org/node/10652214543/history/1,,osm
+Q115-P110-1,Q115,P110,"52.1315518,-10.2160272",,osm
+Q115-P111-1,Q115,P111,POINT(-10.2160272 52.1315518),,osm
+Q115-P112-1,Q115,P112,"CIIC 180. Emlagh East (IMLEACH DHÚN SÉANN), Co. Kerry.png",,osm
+Q115-P113-1,Q115,P113,description=First ogham stone ever to be recorded in Ireland.,,osm
+Q115-P113-2,Q115,P113,heritage=2,,osm
+Q115-P113-3,Q115,P113,heritage:operator=IE:smr;IE:nm,,osm
+Q115-P113-4,Q115,P113,historic=ogham_stone,,osm
+Q115-P113-5,Q115,P113,ref:IE:nm=221.46;10041,,osm
+Q115-P113-6,Q115,P113,ref:IE:smr=KE053-040,,osm
+Q115-P113-7,Q115,P113,sketchfab=ke053-040-emlagh-east-ogham-f71f242e7e614cfaa8265bf44f85837a,,osm
+Q115-P113-8,Q115,P113,url:sketchfab=https://skfb.ly/oMGS7,,osm
+Q115-P113-9,Q115,P113,wikidata=Q96377241,,osm
+Q115-P113-10,Q115,P113,wikipedia=en:Emlagh East Ogham Stone,,osm
+,Q116,P2,Q100,,osm
+Q116-P100-1,Q116,P100,https://www.openstreetmap.org/node/10656139839,,osm
+Q116-P101-1,Q116,P101,https://www.openstreetmap.org/node/10656139839/history/1,,osm
+Q116-P101-2,Q116,P101,https://www.openstreetmap.org/node/10656139839/history/2,,osm
+Q116-P101-3,Q116,P101,https://www.openstreetmap.org/node/10656139839/history/3,,osm
+Q116-P101-4,Q116,P101,https://www.openstreetmap.org/node/10656139839/history/4,,osm
+Q116-P101-5,Q116,P101,https://www.openstreetmap.org/node/10656139839/history/5,preferred,osm
+Q116-P107-1,Q116,P107,https://www.openstreetmap.org/node/10656139839/history/1,,osm
+Q116-P110-1,Q116,P110,"52.0740165,-9.7458977",,osm
+Q116-P111-1,Q116,P111,POINT(-9.7458977 52.0740165),,osm
+Q116-P113-1,Q116,P113,heritage=2,,osm
+Q116-P113-2,Q116,P113,heritage:operator=IE:smr;IE:nm,,osm
+Q116-P113-3,Q116,P113,historic=ogham_stone,,osm
+Q116-P113-4,Q116,P113,moved=yes,,osm
+Q116-P113-5,Q116,P113,note=seven stones,,osm
+Q116-P113-6,Q116,P113,ref:IE:nm=329,,osm
+Q116-P113-7,Q116,P113,ref:IE:smr=KE065-003009-;KE065-003010-;KE065-003007-;KE065-003005-;KE065-003008-;KE065-003002-;KE065-003006-,,osm
+Q116-P113-8,Q116,P113,wikidata=Q40889193,,osm
+Q116-P113-9,Q116,P113,wikipedia=en:Kilcoolaght East ogham stones,,osm
+,Q117,P2,Q100,,osm
+Q117-P100-1,Q117,P100,https://www.openstreetmap.org/node/10709752679,,osm
+Q117-P101-1,Q117,P101,https://www.openstreetmap.org/node/10709752679/history/1,,osm
+Q117-P101-2,Q117,P101,https://www.openstreetmap.org/node/10709752679/history/2,,osm
+Q117-P101-3,Q117,P101,https://www.openstreetmap.org/node/10709752679/history/3,,osm
+Q117-P101-4,Q117,P101,https://www.openstreetmap.org/node/10709752679/history/4,,osm
+Q117-P101-5,Q117,P101,https://www.openstreetmap.org/node/10709752679/history/5,preferred,osm
+Q117-P107-1,Q117,P107,https://www.openstreetmap.org/node/10709752679/history/1,,osm
+Q117-P110-1,Q117,P110,"53.7263566,-8.6974336",,osm
+Q117-P111-1,Q117,P111,POINT(-8.6974221 53.7263413),,osm
+Q117-P111-4,Q117,P111,POINT(-8.6974336 53.7263566),,osm
+Q117-P113-1,Q117,P113,heritage=2,,osm
+Q117-P113-2,Q117,P113,heritage:operator=IE:smr,,osm
+Q117-P113-3,Q117,P113,historic=ogham_stone,,osm
+Q117-P113-4,Q117,P113,ref:IE:smr=MA103-022----,,osm
+Q117-P113-5,Q117,P113,sketchfab=ma103-022-ballybeg-920aa00f87e64bd88fbd0eba5e3f8888,,osm
+Q117-P113-6,Q117,P113,source=British War office map;Bing,,osm
+Q117-P113-7,Q117,P113,url:sketchfab=https://sketchfab.com/3d-models/ma103-022-ballybeg-920aa00f87e64bd88fbd0eba5e3f8888,,osm
+,Q118,P2,Q100,,osm
+Q118-P100-1,Q118,P100,https://www.openstreetmap.org/node/11071324384,,osm
+Q118-P101-1,Q118,P101,https://www.openstreetmap.org/node/11071324384/history/1,,osm
+Q118-P101-2,Q118,P101,https://www.openstreetmap.org/node/11071324384/history/2,,osm
+Q118-P101-3,Q118,P101,https://www.openstreetmap.org/node/11071324384/history/3,,osm
+Q118-P101-4,Q118,P101,https://www.openstreetmap.org/node/11071324384/history/4,,osm
+Q118-P101-5,Q118,P101,https://www.openstreetmap.org/node/11071324384/history/5,preferred,osm
+Q118-P107-1,Q118,P107,https://www.openstreetmap.org/node/11071324384/history/1,,osm
+Q118-P110-1,Q118,P110,"52.1664791,-10.4061674",,osm
+Q118-P111-1,Q118,P111,POINT(-10.4061674 52.1664791),,osm
+Q118-P113-1,Q118,P113,heritage=2,,osm
+Q118-P113-2,Q118,P113,heritage:operator=IE:smr,,osm
+Q118-P113-3,Q118,P113,historic=ogham_stone,,osm
+Q118-P113-4,Q118,P113,inscription=CURCI MAQI MUC(COI) (V),,osm
+Q118-P113-5,Q118,P113,moved=yes,,osm
+Q118-P113-6,Q118,P113,moved_to:wikidata=Q56379441,,osm
+Q118-P113-7,Q118,P113,name=CIIC 195,,osm
+Q118-P113-8,Q118,P113,project=ogham.link,,osm
+Q118-P113-9,Q118,P113,ref:IE:smr=KE042-165----,,osm
+Q118-P113-10,Q118,P113,source=survey,,osm
+Q118-P113-11,Q118,P113,wikidata=Q106680877,,osm
+,Q119,P2,Q100,,osm
+Q119-P100-1,Q119,P100,https://www.openstreetmap.org/node/11071361392,,osm
+Q119-P101-1,Q119,P101,https://www.openstreetmap.org/node/11071361392/history/1,,osm
+Q119-P101-2,Q119,P101,https://www.openstreetmap.org/node/11071361392/history/2,,osm
+Q119-P101-3,Q119,P101,https://www.openstreetmap.org/node/11071361392/history/3,,osm
+Q119-P101-4,Q119,P101,https://www.openstreetmap.org/node/11071361392/history/4,,osm
+Q119-P101-5,Q119,P101,https://www.openstreetmap.org/node/11071361392/history/5,,osm
+Q119-P101-6,Q119,P101,https://www.openstreetmap.org/node/11071361392/history/6,,osm
+Q119-P101-7,Q119,P101,https://www.openstreetmap.org/node/11071361392/history/7,,osm
+Q119-P101-8,Q119,P101,https://www.openstreetmap.org/node/11071361392/history/8,,osm
+Q119-P101-9,Q119,P101,https://www.openstreetmap.org/node/11071361392/history/9,,osm
+Q119-P101-10,Q119,P101,https://www.openstreetmap.org/node/11071361392/history/10,,osm
+Q119-P101-11,Q119,P101,https://www.openstreetmap.org/node/11071361392/history/11,,osm
+Q119-P101-12,Q119,P101,https://www.openstreetmap.org/node/11071361392/history/12,preferred,osm
+Q119-P107-1,Q119,P107,https://www.openstreetmap.org/node/11071361392/history/1,,osm
+Q119-P110-1,Q119,P110,"51.893715,-8.4924208",,osm
+Q119-P111-1,Q119,P111,POINT(-8.4921198 51.8938126),,osm
+Q119-P111-6,Q119,P111,POINT(-8.4924333 51.8937295),,osm
+Q119-P111-8,Q119,P111,POINT(-8.4924306 51.8937303),,osm
+Q119-P111-11,Q119,P111,POINT(-8.4924208 51.893715),,osm
+Q119-P113-1,Q119,P113,historic=ogham_stone,,osm
+Q119-P113-2,Q119,P113,indoor=yes,,osm
+Q119-P113-3,Q119,P113,inscription=C[A]SSITT[A/O]S MAQI MU[CO]I CALLITI,,osm
+Q119-P113-4,Q119,P113,inscription:pgl-Latn=C[A]SSITT[A/O] MAQI MU[CO]I CALLITI,,osm
+Q119-P113-5,Q119,P113,level=0,,osm
+Q119-P113-6,Q119,P113,moved=yes,,osm
+Q119-P113-7,Q119,P113,"moved_from=Garranes, Co. Cork souterrain",,osm
+Q119-P113-8,Q119,P113,moved_to:wikidata=Q69379477,,osm
+Q119-P113-9,Q119,P113,name=CIIC 81 / UCC 4,,osm
+Q119-P113-10,Q119,P113,project=ogham.link,,osm
+Q119-P113-11,Q119,P113,ref:IE:smr=CO074-148----,,osm
+Q119-P113-12,Q119,P113,source=survey,,osm
+Q119-P113-13,Q119,P113,source:inscription:pgl-Latn=information panel,,osm
+Q119-P113-14,Q119,P113,url:sketchfab=https://skfb.ly/oVOIH,,osm
+Q119-P113-15,Q119,P113,wikidata=Q106680733,,osm
+,Q120,P2,Q100,,osm
+Q120-P100-1,Q120,P100,https://www.openstreetmap.org/node/11253027975,,osm
+Q120-P101-1,Q120,P101,https://www.openstreetmap.org/node/11253027975/history/1,,osm
+Q120-P101-2,Q120,P101,https://www.openstreetmap.org/node/11253027975/history/2,preferred,osm
+Q120-P107-1,Q120,P107,https://www.openstreetmap.org/node/11253027975/history/1,,osm
+Q120-P110-1,Q120,P110,"52.1664866,-10.4060895",,osm
+Q120-P111-1,Q120,P111,POINT(-10.4060895 52.1664866),,osm
+Q120-P113-1,Q120,P113,heritage=2,,osm
+Q120-P113-2,Q120,P113,heritage:operator=IE:smr,,osm
+Q120-P113-3,Q120,P113,historic=ogham_stone,,osm
+Q120-P113-4,Q120,P113,indoor=yes,,osm
+Q120-P113-5,Q120,P113,moved=yes,,osm
+Q120-P113-6,Q120,P113,"note=group of several ogham stones, need to be separated",,osm
+Q120-P113-7,Q120,P113,ref:IE:smr=KE042-166----;KE042-164----;KE042-167----;KE042-173----;KE042-180----,,osm
+,Q121,P2,Q100,,osm
+Q121-P100-1,Q121,P100,https://www.openstreetmap.org/node/11269073312,,osm
+Q121-P101-1,Q121,P101,https://www.openstreetmap.org/node/11269073312/history/1,,osm
+Q121-P101-2,Q121,P101,https://www.openstreetmap.org/node/11269073312/history/2,,osm
+Q121-P101-3,Q121,P101,https://www.openstreetmap.org/node/11269073312/history/3,,osm
+Q121-P101-4,Q121,P101,https://www.openstreetmap.org/node/11269073312/history/4,preferred,osm
+Q121-P107-1,Q121,P107,https://www.openstreetmap.org/node/11269073312/history/1,,osm
+Q121-P110-1,Q121,P110,"52.1267787,-10.3059383",,osm
+Q121-P111-1,Q121,P111,POINT(-10.3060158 52.1267666),,osm
+Q121-P111-3,Q121,P111,POINT(-10.3059383 52.1267787),,osm
+Q121-P113-1,Q121,P113,heritage=2,,osm
+Q121-P113-2,Q121,P113,heritage:operator=IE:smr,,osm
+Q121-P113-3,Q121,P113,historic=ogham_stone,,osm
+Q121-P113-4,Q121,P113,inscription=MAQQI CUNITTI,,osm
+Q121-P113-5,Q121,P113,moved=yes,,osm
+Q121-P113-6,Q121,P113,name=Ogham Stone Ballinrannig I,,osm
+Q121-P113-7,Q121,P113,ref:IE:smr=KE053-012004-,,osm
+Q121-P113-8,Q121,P113,related:wikidata=Q130602255,,osm
+Q121-P113-9,Q121,P113,related:wikipedia=en:List of National Monuments in County Kerry,,osm
+,Q122,P2,Q100,,osm
+Q122-P100-1,Q122,P100,https://www.openstreetmap.org/node/11269073313,,osm
+Q122-P101-1,Q122,P101,https://www.openstreetmap.org/node/11269073313/history/1,,osm
+Q122-P101-2,Q122,P101,https://www.openstreetmap.org/node/11269073313/history/2,,osm
+Q122-P101-3,Q122,P101,https://www.openstreetmap.org/node/11269073313/history/3,,osm
+Q122-P101-4,Q122,P101,https://www.openstreetmap.org/node/11269073313/history/4,,osm
+Q122-P101-5,Q122,P101,https://www.openstreetmap.org/node/11269073313/history/5,preferred,osm
+Q122-P107-1,Q122,P107,https://www.openstreetmap.org/node/11269073313/history/1,,osm
+Q122-P110-1,Q122,P110,"52.1267655,-10.3060131",,osm
+Q122-P111-1,Q122,P111,POINT(-10.3059819 52.1267757),,osm
+Q122-P111-4,Q122,P111,POINT(-10.3060131 52.1267655),,osm
+Q122-P113-1,Q122,P113,heritage=2,,osm
+Q122-P113-2,Q122,P113,heritage:operator=IE:smr,,osm
+Q122-P113-3,Q122,P113,historic=ogham_stone,,osm
+Q122-P113-4,Q122,P113,inscription=BROINIONAS,,osm
+Q122-P113-5,Q122,P113,moved=yes,,osm
+Q122-P113-6,Q122,P113,name=Ogham Stone Ballinrannig IV,,osm
+Q122-P113-7,Q122,P113,ref:IE:smr=KE053-012007-,,osm
+Q122-P113-8,Q122,P113,related:wikidata=Q130602118,,osm
+Q122-P113-9,Q122,P113,related:wikipedia=en:List of National Monuments in County Kerry,,osm
+,Q123,P2,Q100,,osm
+Q123-P100-1,Q123,P100,https://www.openstreetmap.org/node/11269073314,,osm
+Q123-P101-1,Q123,P101,https://www.openstreetmap.org/node/11269073314/history/1,,osm
+Q123-P101-2,Q123,P101,https://www.openstreetmap.org/node/11269073314/history/2,,osm
+Q123-P101-3,Q123,P101,https://www.openstreetmap.org/node/11269073314/history/3,,osm
+Q123-P101-4,Q123,P101,https://www.openstreetmap.org/node/11269073314/history/4,,osm
+Q123-P101-5,Q123,P101,https://www.openstreetmap.org/node/11269073314/history/5,,osm
+Q123-P101-6,Q123,P101,https://www.openstreetmap.org/node/11269073314/history/6,preferred,osm
+Q123-P107-1,Q123,P107,https://www.openstreetmap.org/node/11269073314/history/1,,osm
+Q123-P110-1,Q123,P110,"52.1267822,-10.3060068",,osm
+Q123-P111-1,Q123,P111,POINT(-10.3059987 52.1267695),,osm
+Q123-P111-4,Q123,P111,POINT(-10.3060041 52.126783),,osm
+Q123-P111-5,Q123,P111,POINT(-10.3060068 52.1267822),,osm
+Q123-P113-1,Q123,P113,heritage=2,,osm
+Q123-P113-2,Q123,P113,heritage:operator=IE:smr,,osm
+Q123-P113-3,Q123,P113,historic=ogham_stone,,osm
+Q123-P113-4,Q123,P113,inscription=MAQQI-ERCCIA MAQQI MUCOI DOVINIA,,osm
+Q123-P113-5,Q123,P113,moved=yes,,osm
+Q123-P113-6,Q123,P113,name=Ogham Stone CIIC 175. Burnham West,,osm
+Q123-P113-7,Q123,P113,ref:IE:smr=KE053-012001-,,osm
+Q123-P113-8,Q123,P113,related:wikidata=Q6591476,,osm
+Q123-P113-9,Q123,P113,related:wikipedia=en:List of National Monuments in County Kerry,,osm
+,Q124,P2,Q100,,osm
+Q124-P100-1,Q124,P100,https://www.openstreetmap.org/node/11269073315,,osm
+Q124-P101-1,Q124,P101,https://www.openstreetmap.org/node/11269073315/history/1,,osm
+Q124-P101-2,Q124,P101,https://www.openstreetmap.org/node/11269073315/history/2,,osm
+Q124-P101-3,Q124,P101,https://www.openstreetmap.org/node/11269073315/history/3,,osm
+Q124-P101-4,Q124,P101,https://www.openstreetmap.org/node/11269073315/history/4,,osm
+Q124-P101-5,Q124,P101,https://www.openstreetmap.org/node/11269073315/history/5,,osm
+Q124-P101-6,Q124,P101,https://www.openstreetmap.org/node/11269073315/history/6,preferred,osm
+Q124-P107-1,Q124,P107,https://www.openstreetmap.org/node/11269073315/history/1,,osm
+Q124-P110-1,Q124,P110,"52.1267751,-10.305964",,osm
+Q124-P111-1,Q124,P111,POINT(-10.306031 52.1267649),,osm
+Q124-P111-5,Q124,P111,POINT(-10.305964 52.1267751),,osm
+Q124-P113-1,Q124,P113,heritage=2,,osm
+Q124-P113-2,Q124,P113,heritage:operator=IE:smr,,osm
+Q124-P113-3,Q124,P113,historic=ogham_stone,,osm
+Q124-P113-4,Q124,P113,inscription=DUBONIRRAS MAQQI TENAC(I),,osm
+Q124-P113-5,Q124,P113,moved=yes,,osm
+Q124-P113-6,Q124,P113,name=Ogham Stone Ballinrannig II,,osm
+Q124-P113-7,Q124,P113,ref:IE:smr=KE053-012005-,,osm
+Q124-P113-8,Q124,P113,related:wikidata=Q130602277,,osm
+Q124-P113-9,Q124,P113,related:wikipedia=en:List of National Monuments in County Kerry,,osm
+Q124-P113-10,Q124,P113,url:sketchfab=https://skfb.ly/oMGSv,,osm
+,Q125,P2,Q100,,osm
+Q125-P100-1,Q125,P100,https://www.openstreetmap.org/node/11269073316,,osm
+Q125-P101-1,Q125,P101,https://www.openstreetmap.org/node/11269073316/history/1,,osm
+Q125-P101-2,Q125,P101,https://www.openstreetmap.org/node/11269073316/history/2,,osm
+Q125-P101-3,Q125,P101,https://www.openstreetmap.org/node/11269073316/history/3,,osm
+Q125-P101-4,Q125,P101,https://www.openstreetmap.org/node/11269073316/history/4,,osm
+Q125-P101-5,Q125,P101,https://www.openstreetmap.org/node/11269073316/history/5,,osm
+Q125-P101-6,Q125,P101,https://www.openstreetmap.org/node/11269073316/history/6,preferred,osm
+Q125-P107-1,Q125,P107,https://www.openstreetmap.org/node/11269073316/history/1,,osm
+Q125-P110-1,Q125,P110,"52.1267708,-10.305989",,osm
+Q125-P111-1,Q125,P111,POINT(-10.3059686 52.1267783),,osm
+Q125-P111-4,Q125,P111,POINT(-10.305989 52.1267708),,osm
+Q125-P113-1,Q125,P113,heritage=2,,osm
+Q125-P113-2,Q125,P113,heritage:operator=IE:smr,,osm
+Q125-P113-3,Q125,P113,historic=ogham_stone,,osm
+Q125-P113-4,Q125,P113,inscription=NAVVICAS MAQI MUCOI DOVVINAS,,osm
+Q125-P113-5,Q125,P113,moved=yes,,osm
+Q125-P113-6,Q125,P113,name=Ogham Stone Ballinrannig III,,osm
+Q125-P113-7,Q125,P113,ref:IE:smr=KE053-012006-,,osm
+Q125-P113-8,Q125,P113,related:wikidata=Q130602052,,osm
+Q125-P113-9,Q125,P113,related:wikipedia=en:List of National Monuments in County Kerry,,osm
+,Q126,P2,Q100,,osm
+Q126-P100-1,Q126,P100,https://www.openstreetmap.org/node/11269119003,,osm
+Q126-P101-1,Q126,P101,https://www.openstreetmap.org/node/11269119003/history/1,,osm
+Q126-P101-2,Q126,P101,https://www.openstreetmap.org/node/11269119003/history/2,,osm
+Q126-P101-3,Q126,P101,https://www.openstreetmap.org/node/11269119003/history/3,preferred,osm
+Q126-P107-1,Q126,P107,https://www.openstreetmap.org/node/11269119003/history/1,,osm
+Q126-P110-1,Q126,P110,"52.1278156,-10.2433408",,osm
+Q126-P111-1,Q126,P111,POINT(-10.2433408 52.1278156),,osm
+Q126-P113-1,Q126,P113,fixme=move to their respective correct location; HEV only says that they're arranged in a circle with one placed centrally,,osm
+Q126-P113-2,Q126,P113,heritage=2,,osm
+Q126-P113-3,Q126,P113,heritage:operator=IE:smr,,osm
+Q126-P113-4,Q126,P113,historic=ogham_stone,,osm
+Q126-P113-5,Q126,P113,ref:IE:smr=KE053-033008-,,osm
+Q126-P113-6,Q126,P113,url:sketchfab=https://skfb.ly/o7YDL,,osm
+,Q127,P2,Q100,,osm
+Q127-P100-1,Q127,P100,https://www.openstreetmap.org/node/11269119004,,osm
+Q127-P101-1,Q127,P101,https://www.openstreetmap.org/node/11269119004/history/1,,osm
+Q127-P101-2,Q127,P101,https://www.openstreetmap.org/node/11269119004/history/2,,osm
+Q127-P101-3,Q127,P101,https://www.openstreetmap.org/node/11269119004/history/3,preferred,osm
+Q127-P107-1,Q127,P107,https://www.openstreetmap.org/node/11269119004/history/1,,osm
+Q127-P110-1,Q127,P110,"52.1277008,-10.2432032",,osm
+Q127-P111-1,Q127,P111,POINT(-10.2432032 52.1277008),,osm
+Q127-P113-1,Q127,P113,fixme=move to their respective correct location; HEV only says that they're arranged in a circle with one placed centrally,,osm
+Q127-P113-2,Q127,P113,heritage=2,,osm
+Q127-P113-3,Q127,P113,heritage:operator=IE:smr,,osm
+Q127-P113-4,Q127,P113,historic=ogham_stone,,osm
+Q127-P113-5,Q127,P113,ref:IE:smr=KE053-033011-,,osm
+Q127-P113-6,Q127,P113,url:sketchfab=https://skfb.ly/o7YDD,,osm
+,Q128,P2,Q100,,osm
+Q128-P100-1,Q128,P100,https://www.openstreetmap.org/node/11269119005,,osm
+Q128-P101-1,Q128,P101,https://www.openstreetmap.org/node/11269119005/history/1,,osm
+Q128-P101-2,Q128,P101,https://www.openstreetmap.org/node/11269119005/history/2,,osm
+Q128-P101-3,Q128,P101,https://www.openstreetmap.org/node/11269119005/history/3,preferred,osm
+Q128-P107-1,Q128,P107,https://www.openstreetmap.org/node/11269119005/history/1,,osm
+Q128-P110-1,Q128,P110,"52.1278572,-10.2431079",,osm
+Q128-P111-1,Q128,P111,POINT(-10.2431079 52.1278572),,osm
+Q128-P113-1,Q128,P113,fixme=move to their respective correct location; HEV only says that they're arranged in a circle with one placed centrally,,osm
+Q128-P113-2,Q128,P113,heritage=2,,osm
+Q128-P113-3,Q128,P113,heritage:operator=IE:smr,,osm
+Q128-P113-4,Q128,P113,historic=ogham_stone,,osm
+Q128-P113-5,Q128,P113,ref:IE:smr=KE053-033009-,,osm
+Q128-P113-6,Q128,P113,url:sketchfab=https://skfb.ly/o7YDI,,osm
+,Q129,P2,Q100,,osm
+Q129-P100-1,Q129,P100,https://www.openstreetmap.org/node/11269119006,,osm
+Q129-P101-1,Q129,P101,https://www.openstreetmap.org/node/11269119006/history/1,,osm
+Q129-P101-2,Q129,P101,https://www.openstreetmap.org/node/11269119006/history/2,,osm
+Q129-P101-3,Q129,P101,https://www.openstreetmap.org/node/11269119006/history/3,preferred,osm
+Q129-P107-1,Q129,P107,https://www.openstreetmap.org/node/11269119006/history/1,,osm
+Q129-P110-1,Q129,P110,"52.1278094,-10.2430595",,osm
+Q129-P111-1,Q129,P111,POINT(-10.2430595 52.1278094),,osm
+Q129-P113-1,Q129,P113,fixme=move to their respective correct location; HEV only says that they're arranged in a circle with one placed centrally,,osm
+Q129-P113-2,Q129,P113,heritage=2,,osm
+Q129-P113-3,Q129,P113,heritage:operator=IE:smr,,osm
+Q129-P113-4,Q129,P113,historic=ogham_stone,,osm
+Q129-P113-5,Q129,P113,moved=yes,,osm
+Q129-P113-6,Q129,P113,ref:IE:smr=KE053-033006-,,osm
+Q129-P113-7,Q129,P113,url:sketchfab=https://skfb.ly/o7YDW,,osm
+,Q130,P2,Q100,,osm
+Q130-P100-1,Q130,P100,https://www.openstreetmap.org/node/11269119007,,osm
+Q130-P101-1,Q130,P101,https://www.openstreetmap.org/node/11269119007/history/1,,osm
+Q130-P101-2,Q130,P101,https://www.openstreetmap.org/node/11269119007/history/2,,osm
+Q130-P101-3,Q130,P101,https://www.openstreetmap.org/node/11269119007/history/3,preferred,osm
+Q130-P107-1,Q130,P107,https://www.openstreetmap.org/node/11269119007/history/1,,osm
+Q130-P110-1,Q130,P110,"52.1277402,-10.2430849",,osm
+Q130-P111-1,Q130,P111,POINT(-10.2430849 52.1277402),,osm
+Q130-P113-1,Q130,P113,fixme=move to their respective correct location; HEV only says that they're arranged in a circle with one placed centrally,,osm
+Q130-P113-2,Q130,P113,heritage=2,,osm
+Q130-P113-3,Q130,P113,heritage:operator=IE:smr,,osm
+Q130-P113-4,Q130,P113,historic=ogham_stone,,osm
+Q130-P113-5,Q130,P113,ref:IE:smr=KE053-033012-,,osm
+Q130-P113-6,Q130,P113,url:sketchfab=https://skfb.ly/oEyCM,,osm
+,Q131,P2,Q100,,osm
+Q131-P100-1,Q131,P100,https://www.openstreetmap.org/node/11269119008,,osm
+Q131-P101-1,Q131,P101,https://www.openstreetmap.org/node/11269119008/history/1,,osm
+Q131-P101-2,Q131,P101,https://www.openstreetmap.org/node/11269119008/history/2,,osm
+Q131-P101-3,Q131,P101,https://www.openstreetmap.org/node/11269119008/history/3,preferred,osm
+Q131-P107-1,Q131,P107,https://www.openstreetmap.org/node/11269119008/history/1,,osm
+Q131-P110-1,Q131,P110,"52.1278734,-10.2432184",,osm
+Q131-P111-1,Q131,P111,POINT(-10.2432184 52.1278734),,osm
+Q131-P113-1,Q131,P113,fixme=move to their respective correct location; HEV only says that they're arranged in a circle with one placed centrally,,osm
+Q131-P113-2,Q131,P113,heritage=2,,osm
+Q131-P113-3,Q131,P113,heritage:operator=IE:smr,,osm
+Q131-P113-4,Q131,P113,historic=ogham_stone,,osm
+Q131-P113-5,Q131,P113,ref:IE:smr=KE053-033007-,,osm
+Q131-P113-6,Q131,P113,url:sketchfab=https://skfb.ly/o7YDO,,osm
+,Q132,P2,Q100,,osm
+Q132-P100-1,Q132,P100,https://www.openstreetmap.org/node/11269119009,,osm
+Q132-P101-1,Q132,P101,https://www.openstreetmap.org/node/11269119009/history/1,,osm
+Q132-P101-2,Q132,P101,https://www.openstreetmap.org/node/11269119009/history/2,,osm
+Q132-P101-3,Q132,P101,https://www.openstreetmap.org/node/11269119009/history/3,preferred,osm
+Q132-P107-1,Q132,P107,https://www.openstreetmap.org/node/11269119009/history/1,,osm
+Q132-P110-1,Q132,P110,"52.1277098,-10.2432839",,osm
+Q132-P111-1,Q132,P111,POINT(-10.2432839 52.1277098),,osm
+Q132-P113-1,Q132,P113,description=also has a Latin cross on it,,osm
+Q132-P113-2,Q132,P113,fixme=move to their respective correct location; HEV only says that they're arranged in a circle with one placed centrally,,osm
+Q132-P113-3,Q132,P113,heritage=2,,osm
+Q132-P113-4,Q132,P113,heritage:operator=IE:smr,,osm
+Q132-P113-5,Q132,P113,historic=ogham_stone,,osm
+Q132-P113-6,Q132,P113,moved=yes,,osm
+Q132-P113-7,Q132,P113,ref:IE:smr=KE053-033013-,,osm
+Q132-P113-8,Q132,P113,url:sketchfab=https://skfb.ly/oF8P7,,osm
+,Q133,P2,Q100,,osm
+Q133-P100-1,Q133,P100,https://www.openstreetmap.org/node/11269119010,,osm
+Q133-P101-1,Q133,P101,https://www.openstreetmap.org/node/11269119010/history/1,,osm
+Q133-P101-2,Q133,P101,https://www.openstreetmap.org/node/11269119010/history/2,,osm
+Q133-P101-3,Q133,P101,https://www.openstreetmap.org/node/11269119010/history/3,preferred,osm
+Q133-P107-1,Q133,P107,https://www.openstreetmap.org/node/11269119010/history/1,,osm
+Q133-P110-1,Q133,P110,"52.1277724,-10.2431909",,osm
+Q133-P111-1,Q133,P111,POINT(-10.2431909 52.1277724),,osm
+Q133-P113-1,Q133,P113,fixme=move to their respective correct location; HEV only says that they're arranged in a circle with one placed centrally,,osm
+Q133-P113-2,Q133,P113,heritage=2,,osm
+Q133-P113-3,Q133,P113,heritage:operator=IE:smr,,osm
+Q133-P113-4,Q133,P113,historic=ogham_stone,,osm
+Q133-P113-5,Q133,P113,moved=yes,,osm
+Q133-P113-6,Q133,P113,ref:IE:smr=KE053-033010-,,osm
+Q133-P113-7,Q133,P113,url:sketchfab=https://skfb.ly/oMGSt,,osm
+,Q134,P2,Q100,,osm
+Q134-P100-1,Q134,P100,https://www.openstreetmap.org/node/11269119011,,osm
+Q134-P101-1,Q134,P101,https://www.openstreetmap.org/node/11269119011/history/1,,osm
+Q134-P101-2,Q134,P101,https://www.openstreetmap.org/node/11269119011/history/2,,osm
+Q134-P101-3,Q134,P101,https://www.openstreetmap.org/node/11269119011/history/3,preferred,osm
+Q134-P107-1,Q134,P107,https://www.openstreetmap.org/node/11269119011/history/1,,osm
+Q134-P110-1,Q134,P110,"52.1277655,-10.2433317",,osm
+Q134-P111-1,Q134,P111,POINT(-10.2433317 52.1277655),,osm
+Q134-P113-1,Q134,P113,fixme=move to their respective correct location; HEV only says that they're arranged in a circle with one placed centrally,,osm
+Q134-P113-2,Q134,P113,heritage=2,,osm
+Q134-P113-3,Q134,P113,heritage:operator=IE:smr,,osm
+Q134-P113-4,Q134,P113,historic=ogham_stone,,osm
+Q134-P113-5,Q134,P113,moved=yes,,osm
+Q134-P113-6,Q134,P113,ref:IE:smr=KE053-033005-,,osm
+Q134-P113-7,Q134,P113,url:sketchfab=https://skfb.ly/oMGS9,,osm
+,Q135,P2,Q100,,osm
+Q135-P100-1,Q135,P100,https://www.openstreetmap.org/node/11269165789,,osm
+Q135-P101-1,Q135,P101,https://www.openstreetmap.org/node/11269165789/history/1,preferred,osm
+Q135-P107-1,Q135,P107,https://www.openstreetmap.org/node/11269165789/history/1,,osm
+Q135-P110-1,Q135,P110,"52.0744342,-7.8476737",,osm
+Q135-P111-1,Q135,P111,POINT(-7.8476737 52.0744342),,osm
+Q135-P113-1,Q135,P113,fixme=move to exact location,,osm
+Q135-P113-2,Q135,P113,historic=ogham_stone,,osm
+Q135-P113-3,Q135,P113,image=https://ogham.celt.dias.ie/resources/sites/Dromore/266._Dromore_I/266._Dromore_I_thumb.jpg,,osm
+Q135-P113-4,Q135,P113,"inscription=᚛ᚉᚑᚂᚂᚐᚁᚑᚈ ᚋᚒᚉᚖ ᚂᚒᚌᚐ ᚋᚐᚊᚔ ᚂᚑᚁᚐᚉᚉᚑᚅᚐ᚜COLLABOT MUCOI LUGA MAQI LOBACCONA""Of Cóelub of the tribe of Lug, son of Lubchú",,osm
+Q135-P113-5,Q135,P113,ref:IE:smr=WA029-042003-,,osm
+Q135-P113-6,Q135,P113,url:ogham3D=https://ogham.celt.dias.ie/stone.php?lang=en&site=Dromore&stoneinfo=inscription&stone=266._Dromore_I,,osm
+,Q136,P2,Q100,,osm
+Q136-P100-1,Q136,P100,https://www.openstreetmap.org/node/11269165790,,osm
+Q136-P101-1,Q136,P101,https://www.openstreetmap.org/node/11269165790/history/1,preferred,osm
+Q136-P107-1,Q136,P107,https://www.openstreetmap.org/node/11269165790/history/1,,osm
+Q136-P110-1,Q136,P110,"52.0743959,-7.8476997",,osm
+Q136-P111-1,Q136,P111,POINT(-7.8476997 52.0743959),,osm
+Q136-P113-1,Q136,P113,fixme=move to exact location,,osm
+Q136-P113-2,Q136,P113,historic=ogham_stone,,osm
+Q136-P113-3,Q136,P113,inscription=᚛ᚋᚓᚇᚒᚄᚔ ᚋᚒᚉᚖ ᚂᚒᚌᚐ᚜ MEDUSI MUCOI LUGA) Medusi of the tribe of Lug,,osm
+Q136-P113-4,Q136,P113,ref:IE:smr=WA029-042006-,,osm
+Q136-P113-5,Q136,P113,url:ogham3D=https://ogham.celt.dias.ie/stone.php?lang=en&site=Dromore&stone=267._Dromore_II,,osm
+,Q137,P2,Q100,,osm
+Q137-P100-1,Q137,P100,https://www.openstreetmap.org/node/11558269687,,osm
+Q137-P101-1,Q137,P101,https://www.openstreetmap.org/node/11558269687/history/1,,osm
+Q137-P101-2,Q137,P101,https://www.openstreetmap.org/node/11558269687/history/2,preferred,osm
+Q137-P107-1,Q137,P107,https://www.openstreetmap.org/node/11558269687/history/1,,osm
+Q137-P110-1,Q137,P110,"52.0035443,-8.5371333",,osm
+Q137-P111-1,Q137,P111,POINT(-8.5371333 52.0035443),,osm
+Q137-P113-1,Q137,P113,heritage=2,,osm
+Q137-P113-2,Q137,P113,heritage:operator=IE:smr,,osm
+Q137-P113-3,Q137,P113,historic=ogham_stone,,osm
+Q137-P113-4,Q137,P113,name=Long Stone,,osm
+Q137-P113-5,Q137,P113,ref:IE:smr=CO052-014----,,osm
+Q137-P113-6,Q137,P113,source=British War office map;Bing,,osm
+,Q138,P2,Q100,,osm
+Q138-P100-1,Q138,P100,https://www.openstreetmap.org/node/11574593297,,osm
+Q138-P101-1,Q138,P101,https://www.openstreetmap.org/node/11574593297/history/1,,osm
+Q138-P101-2,Q138,P101,https://www.openstreetmap.org/node/11574593297/history/2,preferred,osm
+Q138-P107-1,Q138,P107,https://www.openstreetmap.org/node/11574593297/history/1,,osm
+Q138-P110-1,Q138,P110,"51.9814556,-8.7975611",,osm
+Q138-P111-1,Q138,P111,POINT(-8.7975611 51.9814556),,osm
+Q138-P113-1,Q138,P113,heritage=2,,osm
+Q138-P113-2,Q138,P113,heritage:operator=IE:smr,,osm
+Q138-P113-3,Q138,P113,historic=ogham_stone,,osm
+Q138-P113-4,Q138,P113,ref:IE:smr=CO061-187----,,osm
+Q138-P113-5,Q138,P113,source=British War office map;Bing,,osm
+,Q139,P2,Q100,,osm
+Q139-P100-1,Q139,P100,https://www.openstreetmap.org/node/11575064111,,osm
+Q139-P101-1,Q139,P101,https://www.openstreetmap.org/node/11575064111/history/1,,osm
+Q139-P101-2,Q139,P101,https://www.openstreetmap.org/node/11575064111/history/2,preferred,osm
+Q139-P107-1,Q139,P107,https://www.openstreetmap.org/node/11575064111/history/1,,osm
+Q139-P110-1,Q139,P110,"51.9521517,-8.8152966",,osm
+Q139-P111-1,Q139,P111,POINT(-8.8152966 51.9521517),,osm
+Q139-P113-1,Q139,P113,heritage=2,,osm
+Q139-P113-2,Q139,P113,heritage:operator=IE:smr,,osm
+Q139-P113-3,Q139,P113,historic=ogham_stone,,osm
+Q139-P113-4,Q139,P113,name=St. Olan's Cap,,osm
+Q139-P113-5,Q139,P113,ref:IE:smr=CO061-080005-,,osm
+,Q140,P2,Q100,,osm
+Q140-P100-1,Q140,P100,https://www.openstreetmap.org/node/11677109638,,osm
+Q140-P101-1,Q140,P101,https://www.openstreetmap.org/node/11677109638/history/1,,osm
+Q140-P101-2,Q140,P101,https://www.openstreetmap.org/node/11677109638/history/2,,osm
+Q140-P101-3,Q140,P101,https://www.openstreetmap.org/node/11677109638/history/3,,osm
+Q140-P101-4,Q140,P101,https://www.openstreetmap.org/node/11677109638/history/4,,osm
+Q140-P101-5,Q140,P101,https://www.openstreetmap.org/node/11677109638/history/5,preferred,osm
+Q140-P107-1,Q140,P107,https://www.openstreetmap.org/node/11677109638/history/1,,osm
+Q140-P110-1,Q140,P110,"52.2758388,-9.6424841",,osm
+Q140-P111-1,Q140,P111,POINT(-9.6430769 52.2758257),,osm
+Q140-P111-5,Q140,P111,POINT(-9.6424841 52.2758388),,osm
+Q140-P112-1,Q140,P112,CIIC 153 Ballinrannig VI.jpg,,osm
+Q140-P113-1,Q140,P113,heritage=2,,osm
+Q140-P113-2,Q140,P113,heritage:operator=IE:smr,,osm
+Q140-P113-3,Q140,P113,historic=ogham_stone,,osm
+Q140-P113-4,Q140,P113,inscription=CCICAMINIvac. MAQ/Q[/I] C[A]TTINI,,osm
+Q140-P113-5,Q140,P113,moved=yes,,osm
+Q140-P113-6,Q140,P113,moved_to:wikidata=Q40888587,,osm
+Q140-P113-7,Q140,P113,name=CIIC 153 (Ballinrannig VI),,osm
+Q140-P113-8,Q140,P113,project=ogham.link,,osm
+Q140-P113-9,Q140,P113,ref:IE:smr=KE042-057011-,,osm
+Q140-P113-10,Q140,P113,source=survey,,osm
+Q140-P113-11,Q140,P113,url:sketchfab=https://skfb.ly/oRynM,,osm
+Q140-P113-12,Q140,P113,wikidata=Q106680820,,osm
+,Q141,P2,Q100,,osm
+Q141-P100-1,Q141,P100,https://www.openstreetmap.org/node/11677113764,,osm
+Q141-P101-1,Q141,P101,https://www.openstreetmap.org/node/11677113764/history/1,,osm
+Q141-P101-2,Q141,P101,https://www.openstreetmap.org/node/11677113764/history/2,,osm
+Q141-P101-3,Q141,P101,https://www.openstreetmap.org/node/11677113764/history/3,,osm
+Q141-P101-4,Q141,P101,https://www.openstreetmap.org/node/11677113764/history/4,,osm
+Q141-P101-5,Q141,P101,https://www.openstreetmap.org/node/11677113764/history/5,preferred,osm
+Q141-P107-1,Q141,P107,https://www.openstreetmap.org/node/11677113764/history/1,,osm
+Q141-P110-1,Q141,P110,"52.2758438,-9.6424533",,osm
+Q141-P111-1,Q141,P111,POINT(-9.6430461 52.2758307),,osm
+Q141-P111-5,Q141,P111,POINT(-9.6424533 52.2758438),,osm
+Q141-P112-1,Q141,P112,CIIC 152 Ballinrannig V.jpg,,osm
+Q141-P113-1,Q141,P113,heritage=2,,osm
+Q141-P113-2,Q141,P113,heritage:operator=IE:smr,,osm
+Q141-P113-3,Q141,P113,historic=ogham_stone,,osm
+Q141-P113-4,Q141,P113,inscription=G̣/̣Ḷ[U]BB[IA]S MAQQ[I]/ [D(?)]N/ỊẠ?̣S,,osm
+Q141-P113-5,Q141,P113,moved=yes,,osm
+Q141-P113-6,Q141,P113,moved_to:wikidata=Q40888587,,osm
+Q141-P113-7,Q141,P113,name=CIIC 152 (Ballinrannig V),,osm
+Q141-P113-8,Q141,P113,project=ogham.link,,osm
+Q141-P113-9,Q141,P113,ref:IE:smr=KE042-057010-,,osm
+Q141-P113-10,Q141,P113,source=survey,,osm
+Q141-P113-11,Q141,P113,url:sketchfab=https://skfb.ly/oRBCy,,osm
+Q141-P113-12,Q141,P113,wikidata=Q106680819,,osm
+,Q142,P2,Q100,,osm
+Q142-P100-1,Q142,P100,https://www.openstreetmap.org/node/11952692355,,osm
+Q142-P101-1,Q142,P101,https://www.openstreetmap.org/node/11952692355/history/1,preferred,osm
+Q142-P107-1,Q142,P107,https://www.openstreetmap.org/node/11952692355/history/1,,osm
+Q142-P110-1,Q142,P110,"53.8962144,-8.6749037",,osm
+Q142-P111-1,Q142,P111,POINT(-8.6749037 53.8962144),,osm
+Q142-P113-1,Q142,P113,historic=ogham_stone,,osm
+Q142-P113-2,Q142,P113,source=British War office map,,osm
+,Q143,P2,Q100,,osm
+Q143-P100-1,Q143,P100,https://www.openstreetmap.org/node/11955662684,,osm
+Q143-P101-1,Q143,P101,https://www.openstreetmap.org/node/11955662684/history/1,,osm
+Q143-P101-2,Q143,P101,https://www.openstreetmap.org/node/11955662684/history/2,,osm
+Q143-P101-3,Q143,P101,https://www.openstreetmap.org/node/11955662684/history/3,,osm
+Q143-P101-4,Q143,P101,https://www.openstreetmap.org/node/11955662684/history/4,,osm
+Q143-P101-5,Q143,P101,https://www.openstreetmap.org/node/11955662684/history/5,,osm
+Q143-P101-6,Q143,P101,https://www.openstreetmap.org/node/11955662684/history/6,,osm
+Q143-P101-7,Q143,P101,https://www.openstreetmap.org/node/11955662684/history/7,,osm
+Q143-P101-8,Q143,P101,https://www.openstreetmap.org/node/11955662684/history/8,,osm
+Q143-P101-9,Q143,P101,https://www.openstreetmap.org/node/11955662684/history/9,preferred,osm
+Q143-P107-1,Q143,P107,https://www.openstreetmap.org/node/11955662684/history/1,,osm
+Q143-P110-1,Q143,P110,"51.8937282,-8.492376",,osm
+Q143-P111-1,Q143,P111,POINT(-8.4923935 51.8937432),,osm
+Q143-P111-2,Q143,P111,POINT(-8.4923915 51.8937425),,osm
+Q143-P111-5,Q143,P111,POINT(-8.4923858 51.8937435),,osm
+Q143-P111-7,Q143,P111,POINT(-8.492376 51.8937282),,osm
+Q143-P113-1,Q143,P113,colour=red,,osm
+Q143-P113-2,Q143,P113,depth=0.47,,osm
+Q143-P113-3,Q143,P113,historic=ogham_stone,,osm
+Q143-P113-4,Q143,P113,indoor=yes,,osm
+Q143-P113-5,Q143,P113,inscription:pgl-Latn=BRANI MAQQI MU[ ]C...,,osm
+Q143-P113-6,Q143,P113,level=0,,osm
+Q143-P113-7,Q143,P113,material=sandstone,,osm
+Q143-P113-8,Q143,P113,moved=yes,,osm
+Q143-P113-9,Q143,P113,"moved_from=Knockshanawee, Co. Cork souterrain",,osm
+Q143-P113-10,Q143,P113,moved_from:wikidata=Q69383268,,osm
+Q143-P113-11,Q143,P113,name=UCC 6,,osm
+Q143-P113-12,Q143,P113,ref:IE:ciic=116,,osm
+Q143-P113-13,Q143,P113,ref:IE:ucc=6,,osm
+Q143-P113-14,Q143,P113,source=survey,,osm
+Q143-P113-15,Q143,P113,width=0.38,,osm
+Q143-P113-16,Q143,P113,wikidata=Q70382438,,osm
+,Q144,P2,Q100,,osm
+Q144-P100-1,Q144,P100,https://www.openstreetmap.org/node/11955662685,,osm
+Q144-P101-1,Q144,P101,https://www.openstreetmap.org/node/11955662685/history/1,,osm
+Q144-P101-2,Q144,P101,https://www.openstreetmap.org/node/11955662685/history/2,,osm
+Q144-P101-3,Q144,P101,https://www.openstreetmap.org/node/11955662685/history/3,,osm
+Q144-P101-4,Q144,P101,https://www.openstreetmap.org/node/11955662685/history/4,,osm
+Q144-P101-5,Q144,P101,https://www.openstreetmap.org/node/11955662685/history/5,,osm
+Q144-P101-6,Q144,P101,https://www.openstreetmap.org/node/11955662685/history/6,,osm
+Q144-P101-7,Q144,P101,https://www.openstreetmap.org/node/11955662685/history/7,,osm
+Q144-P101-8,Q144,P101,https://www.openstreetmap.org/node/11955662685/history/8,,osm
+Q144-P101-9,Q144,P101,https://www.openstreetmap.org/node/11955662685/history/9,preferred,osm
+Q144-P107-1,Q144,P107,https://www.openstreetmap.org/node/11955662685/history/1,,osm
+Q144-P110-1,Q144,P110,"51.8937317,-8.4923642",,osm
+Q144-P111-1,Q144,P111,POINT(-8.4923858 51.8937438),,osm
+Q144-P111-2,Q144,P111,POINT(-8.4923847 51.8937443),,osm
+Q144-P111-5,Q144,P111,POINT(-8.492374 51.893747),,osm
+Q144-P111-7,Q144,P111,POINT(-8.4923642 51.8937317),,osm
+Q144-P113-1,Q144,P113,depth=0.62,,osm
+Q144-P113-2,Q144,P113,historic=ogham_stone,,osm
+Q144-P113-3,Q144,P113,indoor=yes,,osm
+Q144-P113-4,Q144,P113,inscription:pgl-Latn=UCANAVVI MAQ[ ] LUGUN[I],,osm
+Q144-P113-5,Q144,P113,level=0,,osm
+Q144-P113-6,Q144,P113,moved=yes,,osm
+Q144-P113-7,Q144,P113,"moved_from=Knockshanawee, Co. Cork souterrain",,osm
+Q144-P113-8,Q144,P113,name=UCC 27,,osm
+Q144-P113-9,Q144,P113,ref:IE:smr=CO074-138----,,osm
+Q144-P113-10,Q144,P113,source=survey,,osm
+Q144-P113-11,Q144,P113,width=0.23,,osm
+Q144-P113-12,Q144,P113,wikidata=Q70885739,,osm
+,Q145,P2,Q100,,osm
+Q145-P100-1,Q145,P100,https://www.openstreetmap.org/node/11955670771,,osm
+Q145-P101-1,Q145,P101,https://www.openstreetmap.org/node/11955670771/history/1,,osm
+Q145-P101-2,Q145,P101,https://www.openstreetmap.org/node/11955670771/history/2,,osm
+Q145-P101-3,Q145,P101,https://www.openstreetmap.org/node/11955670771/history/3,,osm
+Q145-P101-4,Q145,P101,https://www.openstreetmap.org/node/11955670771/history/4,,osm
+Q145-P101-5,Q145,P101,https://www.openstreetmap.org/node/11955670771/history/5,,osm
+Q145-P101-6,Q145,P101,https://www.openstreetmap.org/node/11955670771/history/6,preferred,osm
+Q145-P107-1,Q145,P107,https://www.openstreetmap.org/node/11955670771/history/1,,osm
+Q145-P110-1,Q145,P110,"51.8937168,-8.4922616",,osm
+Q145-P111-1,Q145,P111,POINT(-8.4920457 51.893778),,osm
+Q145-P111-5,Q145,P111,POINT(-8.4922616 51.8937168),,osm
+Q145-P113-1,Q145,P113,depth=0.39,,osm
+Q145-P113-2,Q145,P113,historic=ogham_stone,,osm
+Q145-P113-3,Q145,P113,indoor=yes,,osm
+Q145-P113-4,Q145,P113,inscription:pgl-Latn=CULRIGANI MAQI MENUMAQ...,,osm
+Q145-P113-5,Q145,P113,level=0,,osm
+Q145-P113-6,Q145,P113,"moved_from=Knockshanawee, Co. Cork souterrain",,osm
+Q145-P113-7,Q145,P113,name=UCC 2,,osm
+Q145-P113-8,Q145,P113,source=survey,,osm
+Q145-P113-9,Q145,P113,width=0.28,,osm
+,Q146,P2,Q100,,osm
+Q146-P100-1,Q146,P100,https://www.openstreetmap.org/node/11955670773,,osm
+Q146-P101-1,Q146,P101,https://www.openstreetmap.org/node/11955670773/history/1,,osm
+Q146-P101-2,Q146,P101,https://www.openstreetmap.org/node/11955670773/history/2,,osm
+Q146-P101-3,Q146,P101,https://www.openstreetmap.org/node/11955670773/history/3,,osm
+Q146-P101-4,Q146,P101,https://www.openstreetmap.org/node/11955670773/history/4,,osm
+Q146-P101-5,Q146,P101,https://www.openstreetmap.org/node/11955670773/history/5,,osm
+Q146-P101-6,Q146,P101,https://www.openstreetmap.org/node/11955670773/history/6,preferred,osm
+Q146-P107-1,Q146,P107,https://www.openstreetmap.org/node/11955670773/history/1,,osm
+Q146-P110-1,Q146,P110,"51.8937029,-8.4923006",,osm
+Q146-P111-1,Q146,P111,POINT(-8.4922989 51.8937001),,osm
+Q146-P111-2,Q146,P111,POINT(-8.4923006 51.8937029),,osm
+Q146-P113-1,Q146,P113,depth=0.47,,osm
+Q146-P113-2,Q146,P113,historic=ogham_stone,,osm
+Q146-P113-3,Q146,P113,indoor=yes,,osm
+Q146-P113-4,Q146,P113,inscription:pgl-Latn=COLLI,,osm
+Q146-P113-5,Q146,P113,level=0,,osm
+Q146-P113-6,Q146,P113,material=claystone,,osm
+Q146-P113-7,Q146,P113,moved=yes,,osm
+Q146-P113-8,Q146,P113,"moved_from=Knockshanawee, Co. Cork souterrain",,osm
+Q146-P113-9,Q146,P113,moved_from:wikidata=Q69383268,,osm
+Q146-P113-10,Q146,P113,name=UCC 3,,osm
+Q146-P113-11,Q146,P113,source=survey,,osm
+Q146-P113-12,Q146,P113,width=0.24,,osm
+Q146-P113-13,Q146,P113,wikidata=Q69385241,,osm
+,Q147,P2,Q100,,osm
+Q147-P100-1,Q147,P100,https://www.openstreetmap.org/node/11955670774,,osm
+Q147-P101-1,Q147,P101,https://www.openstreetmap.org/node/11955670774/history/1,,osm
+Q147-P101-2,Q147,P101,https://www.openstreetmap.org/node/11955670774/history/2,,osm
+Q147-P101-3,Q147,P101,https://www.openstreetmap.org/node/11955670774/history/3,,osm
+Q147-P101-4,Q147,P101,https://www.openstreetmap.org/node/11955670774/history/4,,osm
+Q147-P101-5,Q147,P101,https://www.openstreetmap.org/node/11955670774/history/5,,osm
+Q147-P101-6,Q147,P101,https://www.openstreetmap.org/node/11955670774/history/6,preferred,osm
+Q147-P107-1,Q147,P107,https://www.openstreetmap.org/node/11955670774/history/1,,osm
+Q147-P110-1,Q147,P110,"51.8936993,-8.4923118",,osm
+Q147-P111-1,Q147,P111,POINT(-8.4923112 51.8936959),,osm
+Q147-P111-2,Q147,P111,POINT(-8.4923118 51.8936993),,osm
+Q147-P113-1,Q147,P113,depth=0.4,,osm
+Q147-P113-2,Q147,P113,historic=ogham_stone,,osm
+Q147-P113-3,Q147,P113,indoor=yes,,osm
+Q147-P113-4,Q147,P113,inscription:pgl-Latn=VEQIKAMI MAQI LUGUNI,,osm
+Q147-P113-5,Q147,P113,level=0,,osm
+Q147-P113-6,Q147,P113,moved=yes,,osm
+Q147-P113-7,Q147,P113,"moved_from=Knockshanawee, Co. Cork souterrain",,osm
+Q147-P113-8,Q147,P113,name=UCC 5,,osm
+Q147-P113-9,Q147,P113,source=survey,,osm
+Q147-P113-10,Q147,P113,width=0.23,,osm
+,Q148,P2,Q100,,osm
+Q148-P100-1,Q148,P100,https://www.openstreetmap.org/node/11955670775,,osm
+Q148-P101-1,Q148,P101,https://www.openstreetmap.org/node/11955670775/history/1,,osm
+Q148-P101-2,Q148,P101,https://www.openstreetmap.org/node/11955670775/history/2,,osm
+Q148-P101-3,Q148,P101,https://www.openstreetmap.org/node/11955670775/history/3,,osm
+Q148-P101-4,Q148,P101,https://www.openstreetmap.org/node/11955670775/history/4,,osm
+Q148-P101-5,Q148,P101,https://www.openstreetmap.org/node/11955670775/history/5,,osm
+Q148-P101-6,Q148,P101,https://www.openstreetmap.org/node/11955670775/history/6,,osm
+Q148-P101-7,Q148,P101,https://www.openstreetmap.org/node/11955670775/history/7,,osm
+Q148-P101-8,Q148,P101,https://www.openstreetmap.org/node/11955670775/history/8,preferred,osm
+Q148-P107-1,Q148,P107,https://www.openstreetmap.org/node/11955670775/history/1,,osm
+Q148-P110-1,Q148,P110,"51.8936954,-8.4923217",,osm
+Q148-P111-1,Q148,P111,POINT(-8.4923284 51.8936933),,osm
+Q148-P111-2,Q148,P111,POINT(-8.4923217 51.8936954),,osm
+Q148-P113-1,Q148,P113,depth=0.48,,osm
+Q148-P113-2,Q148,P113,height=1.24,,osm
+Q148-P113-3,Q148,P113,historic=ogham_stone,,osm
+Q148-P113-4,Q148,P113,indoor=yes,,osm
+Q148-P113-5,Q148,P113,inscription:pgl-Latn=ERCAGNI MAC/Q[I] E[R]CIAS,,osm
+Q148-P113-6,Q148,P113,level=0,,osm
+Q148-P113-7,Q148,P113,moved=yes,,osm
+Q148-P113-8,Q148,P113,"moved_from=Seemochuda, Co. Waterford cairn",,osm
+Q148-P113-9,Q148,P113,name=UCC 12,,osm
+Q148-P113-10,Q148,P113,ref:IE:smr=CO074-140----,,osm
+Q148-P113-11,Q148,P113,source=survey,,osm
+Q148-P113-12,Q148,P113,url:sketchfab=https://skfb.ly/oWnRy,,osm
+Q148-P113-13,Q148,P113,width=0.22,,osm
+Q148-P113-14,Q148,P113,wikidata=Q70885701,,osm
+,Q149,P2,Q100,,osm
+Q149-P100-1,Q149,P100,https://www.openstreetmap.org/node/11955670776,,osm
+Q149-P101-1,Q149,P101,https://www.openstreetmap.org/node/11955670776/history/1,,osm
+Q149-P101-2,Q149,P101,https://www.openstreetmap.org/node/11955670776/history/2,,osm
+Q149-P101-3,Q149,P101,https://www.openstreetmap.org/node/11955670776/history/3,,osm
+Q149-P101-4,Q149,P101,https://www.openstreetmap.org/node/11955670776/history/4,,osm
+Q149-P101-5,Q149,P101,https://www.openstreetmap.org/node/11955670776/history/5,,osm
+Q149-P101-6,Q149,P101,https://www.openstreetmap.org/node/11955670776/history/6,,osm
+Q149-P101-7,Q149,P101,https://www.openstreetmap.org/node/11955670776/history/7,,osm
+Q149-P101-8,Q149,P101,https://www.openstreetmap.org/node/11955670776/history/8,,osm
+Q149-P101-9,Q149,P101,https://www.openstreetmap.org/node/11955670776/history/9,preferred,osm
+Q149-P107-1,Q149,P107,https://www.openstreetmap.org/node/11955670776/history/1,,osm
+Q149-P110-1,Q149,P110,"51.8936822,-8.4923711",,osm
+Q149-P111-1,Q149,P111,POINT(-8.4923708 51.8936801),,osm
+Q149-P111-3,Q149,P111,POINT(-8.4923711 51.8936822),,osm
+Q149-P113-1,Q149,P113,historic=ogham_stone,,osm
+Q149-P113-2,Q149,P113,indoor=yes,,osm
+Q149-P113-3,Q149,P113,inscription:pgl-Latn=OLAGNI MAQ,,osm
+Q149-P113-4,Q149,P113,moved=yes,,osm
+Q149-P113-5,Q149,P113,"moved_from=Bishop's Island, Co. Cork gate pier",,osm
+Q149-P113-6,Q149,P113,moved_from:wikidata=Q85393915,,osm
+Q149-P113-7,Q149,P113,name=UCC 24,,osm
+Q149-P113-8,Q149,P113,ref:IE:smr=CO074-151----,,osm
+Q149-P113-9,Q149,P113,ref:IE:ucc=24,,osm
+Q149-P113-10,Q149,P113,source=survey,,osm
+Q149-P113-11,Q149,P113,source:inscription:pgl-Latn=information panel,,osm
+Q149-P113-12,Q149,P113,url:sketchfab=https://skfb.ly/oVMSE,,osm
+Q149-P113-13,Q149,P113,wikidata=Q70885730,,osm
+,Q150,P2,Q100,,osm
+Q150-P100-1,Q150,P100,https://www.openstreetmap.org/node/11955670777,,osm
+Q150-P101-1,Q150,P101,https://www.openstreetmap.org/node/11955670777/history/1,,osm
+Q150-P101-2,Q150,P101,https://www.openstreetmap.org/node/11955670777/history/2,,osm
+Q150-P101-3,Q150,P101,https://www.openstreetmap.org/node/11955670777/history/3,,osm
+Q150-P101-4,Q150,P101,https://www.openstreetmap.org/node/11955670777/history/4,,osm
+Q150-P101-5,Q150,P101,https://www.openstreetmap.org/node/11955670777/history/5,,osm
+Q150-P101-6,Q150,P101,https://www.openstreetmap.org/node/11955670777/history/6,,osm
+Q150-P101-7,Q150,P101,https://www.openstreetmap.org/node/11955670777/history/7,,osm
+Q150-P101-8,Q150,P101,https://www.openstreetmap.org/node/11955670777/history/8,preferred,osm
+Q150-P107-1,Q150,P107,https://www.openstreetmap.org/node/11955670777/history/1,,osm
+Q150-P110-1,Q150,P110,"51.8936788,-8.4923806",,osm
+Q150-P111-1,Q150,P111,POINT(-8.4923853 51.8936783),,osm
+Q150-P111-3,Q150,P111,POINT(-8.4923806 51.893679),,osm
+Q150-P111-4,Q150,P111,POINT(-8.4923806 51.8936788),,osm
+Q150-P113-1,Q150,P113,historic=ogham_stone,,osm
+Q150-P113-2,Q150,P113,indoor=yes,,osm
+Q150-P113-3,Q150,P113,inscription:pgl-Latn=[MI]MNACCANNI MAQI AILLUATT[A]N,,osm
+Q150-P113-4,Q150,P113,moved=yes,,osm
+Q150-P113-5,Q150,P113,"moved_from=Mountmusic, Co. Cork",,osm
+Q150-P113-6,Q150,P113,name=UCC 28,,osm
+Q150-P113-7,Q150,P113,ref:IE:ucc=28,,osm
+Q150-P113-8,Q150,P113,source=survey,,osm
+Q150-P113-9,Q150,P113,source:inscription:pgl-Latn=information panel,,osm
+,Q151,P2,Q100,,osm
+Q151-P100-1,Q151,P100,https://www.openstreetmap.org/node/11955670778,,osm
+Q151-P101-1,Q151,P101,https://www.openstreetmap.org/node/11955670778/history/1,,osm
+Q151-P101-2,Q151,P101,https://www.openstreetmap.org/node/11955670778/history/2,,osm
+Q151-P101-3,Q151,P101,https://www.openstreetmap.org/node/11955670778/history/3,,osm
+Q151-P101-4,Q151,P101,https://www.openstreetmap.org/node/11955670778/history/4,,osm
+Q151-P101-5,Q151,P101,https://www.openstreetmap.org/node/11955670778/history/5,,osm
+Q151-P101-6,Q151,P101,https://www.openstreetmap.org/node/11955670778/history/6,,osm
+Q151-P101-7,Q151,P101,https://www.openstreetmap.org/node/11955670778/history/7,,osm
+Q151-P101-8,Q151,P101,https://www.openstreetmap.org/node/11955670778/history/8,preferred,osm
+Q151-P107-1,Q151,P107,https://www.openstreetmap.org/node/11955670778/history/1,,osm
+Q151-P110-1,Q151,P110,"51.8936754,-8.4923901",,osm
+Q151-P111-1,Q151,P111,POINT(-8.492396 51.8936745),,osm
+Q151-P111-3,Q151,P111,POINT(-8.4923901 51.8936754),,osm
+Q151-P113-1,Q151,P113,historic=ogham_stone,,osm
+Q151-P113-2,Q151,P113,indoor=yes,,osm
+Q151-P113-3,Q151,P113,inscription:pgl-Latn=VIDETT[ ]S,,osm
+Q151-P113-4,Q151,P113,moved=yes,,osm
+Q151-P113-5,Q151,P113,moved_date=1838,,osm
+Q151-P113-6,Q151,P113,"moved_from=Coolineagh, Co. Cork St Olan's Church",,osm
+Q151-P113-7,Q151,P113,name=UCC 23,,osm
+Q151-P113-8,Q151,P113,source=survey,,osm
+Q151-P113-9,Q151,P113,source:inscription:pgl-Latn=information panel,,osm
+,Q152,P2,Q100,,osm
+Q152-P100-1,Q152,P100,https://www.openstreetmap.org/node/11955670779,,osm
+Q152-P101-1,Q152,P101,https://www.openstreetmap.org/node/11955670779/history/1,,osm
+Q152-P101-2,Q152,P101,https://www.openstreetmap.org/node/11955670779/history/2,,osm
+Q152-P101-3,Q152,P101,https://www.openstreetmap.org/node/11955670779/history/3,,osm
+Q152-P101-4,Q152,P101,https://www.openstreetmap.org/node/11955670779/history/4,,osm
+Q152-P101-5,Q152,P101,https://www.openstreetmap.org/node/11955670779/history/5,,osm
+Q152-P101-6,Q152,P101,https://www.openstreetmap.org/node/11955670779/history/6,preferred,osm
+Q152-P107-1,Q152,P107,https://www.openstreetmap.org/node/11955670779/history/1,,osm
+Q152-P110-1,Q152,P110,"51.8936642,-8.4924247",,osm
+Q152-P111-1,Q152,P111,POINT(-8.4924253 51.8936649),,osm
+Q152-P111-3,Q152,P111,POINT(-8.4924247 51.8936642),,osm
+Q152-P113-1,Q152,P113,historic=ogham_stone,,osm
+Q152-P113-2,Q152,P113,indoor=yes,,osm
+Q152-P113-3,Q152,P113,inscription:pgl-Latn=CUNAGUSSOS MA...,,osm
+Q152-P113-4,Q152,P113,moved=yes,,osm
+Q152-P113-5,Q152,P113,"moved_from=Glounaglock, Co. Cork Stone circle",,osm
+Q152-P113-6,Q152,P113,moved_from:wikidata=Q85394126,,osm
+Q152-P113-7,Q152,P113,name=UCC 22,,osm
+Q152-P113-8,Q152,P113,ref:IE:ciic=107,,osm
+Q152-P113-9,Q152,P113,ref:IE:ucc=22,,osm
+Q152-P113-10,Q152,P113,source=survey,,osm
+Q152-P113-11,Q152,P113,source:inscription:pgl-Latn=information panel,,osm
+Q152-P113-12,Q152,P113,wikidata=Q70885727,,osm
+,Q153,P2,Q100,,osm
+Q153-P100-1,Q153,P100,https://www.openstreetmap.org/node/11955670780,,osm
+Q153-P101-1,Q153,P101,https://www.openstreetmap.org/node/11955670780/history/1,,osm
+Q153-P101-2,Q153,P101,https://www.openstreetmap.org/node/11955670780/history/2,,osm
+Q153-P101-3,Q153,P101,https://www.openstreetmap.org/node/11955670780/history/3,,osm
+Q153-P101-4,Q153,P101,https://www.openstreetmap.org/node/11955670780/history/4,,osm
+Q153-P101-5,Q153,P101,https://www.openstreetmap.org/node/11955670780/history/5,,osm
+Q153-P101-6,Q153,P101,https://www.openstreetmap.org/node/11955670780/history/6,,osm
+Q153-P101-7,Q153,P101,https://www.openstreetmap.org/node/11955670780/history/7,,osm
+Q153-P101-8,Q153,P101,https://www.openstreetmap.org/node/11955670780/history/8,preferred,osm
+Q153-P107-1,Q153,P107,https://www.openstreetmap.org/node/11955670780/history/1,,osm
+Q153-P110-1,Q153,P110,"51.8936618,-8.4924339",,osm
+Q153-P111-1,Q153,P111,POINT(-8.4924395 51.8936622),,osm
+Q153-P111-3,Q153,P111,POINT(-8.4924336 51.8936624),,osm
+Q153-P111-4,Q153,P111,POINT(-8.4924339 51.8936618),,osm
+Q153-P113-1,Q153,P113,discovery:date=1841,,osm
+Q153-P113-2,Q153,P113,historic=ogham_stone,,osm
+Q153-P113-3,Q153,P113,indoor=yes,,osm
+Q153-P113-4,Q153,P113,"inscription:pgl-Latn=MAQI LAS?OG, B/M[ ]TTM[ ]CGE EGS[ ]MVV[ ]?/M",,osm
+Q153-P113-5,Q153,P113,moved=yes,,osm
+Q153-P113-6,Q153,P113,"moved_from=Tuligmore, Co. Cork",,osm
+Q153-P113-7,Q153,P113,name=UCC 20,,osm
+Q153-P113-8,Q153,P113,ref:IE:smr=CO074-144----,,osm
+Q153-P113-9,Q153,P113,ref:IE:ucc=20,,osm
+Q153-P113-10,Q153,P113,source=survey,,osm
+Q153-P113-11,Q153,P113,source:inscription:pgl-Latn=information panel,,osm
+Q153-P113-12,Q153,P113,url:sketchfab=https://skfb.ly/oVOML,,osm
+Q153-P113-13,Q153,P113,wikidata=Q70885722,,osm
+,Q154,P2,Q100,,osm
+Q154-P100-1,Q154,P100,https://www.openstreetmap.org/node/11955670781,,osm
+Q154-P101-1,Q154,P101,https://www.openstreetmap.org/node/11955670781/history/1,,osm
+Q154-P101-2,Q154,P101,https://www.openstreetmap.org/node/11955670781/history/2,,osm
+Q154-P101-3,Q154,P101,https://www.openstreetmap.org/node/11955670781/history/3,,osm
+Q154-P101-4,Q154,P101,https://www.openstreetmap.org/node/11955670781/history/4,,osm
+Q154-P101-5,Q154,P101,https://www.openstreetmap.org/node/11955670781/history/5,,osm
+Q154-P101-6,Q154,P101,https://www.openstreetmap.org/node/11955670781/history/6,,osm
+Q154-P101-7,Q154,P101,https://www.openstreetmap.org/node/11955670781/history/7,preferred,osm
+Q154-P107-1,Q154,P107,https://www.openstreetmap.org/node/11955670781/history/1,,osm
+Q154-P110-1,Q154,P110,"51.8936593,-8.4924431",,osm
+Q154-P111-1,Q154,P111,POINT(-8.4924486 51.8936591),,osm
+Q154-P111-3,Q154,P111,POINT(-8.4924425 51.8936586),,osm
+Q154-P111-4,Q154,P111,POINT(-8.4924431 51.8936593),,osm
+Q154-P113-1,Q154,P113,historic=ogham_stone,,osm
+Q154-P113-2,Q154,P113,indoor=yes,,osm
+Q154-P113-3,Q154,P113,inscription:pgl-Latn=C[A]RRTTACC MMAQI MO/U CAGG,,osm
+Q154-P113-4,Q154,P113,moved=yes,,osm
+Q154-P113-5,Q154,P113,"moved_from=Barrachaurin, Co. Cork souterrain",,osm
+Q154-P113-6,Q154,P113,name=UCC 1,,osm
+Q154-P113-7,Q154,P113,ref:IE:ucc=1,,osm
+Q154-P113-8,Q154,P113,source=survey,,osm
+Q154-P113-9,Q154,P113,source:inscription:pgk-Latn=Information panel,,osm
+Q154-P113-10,Q154,P113,wikidata=Q69377850,,osm
+,Q155,P2,Q100,,osm
+Q155-P100-1,Q155,P100,https://www.openstreetmap.org/node/11955670784,,osm
+Q155-P101-1,Q155,P101,https://www.openstreetmap.org/node/11955670784/history/1,,osm
+Q155-P101-2,Q155,P101,https://www.openstreetmap.org/node/11955670784/history/2,,osm
+Q155-P101-3,Q155,P101,https://www.openstreetmap.org/node/11955670784/history/3,,osm
+Q155-P101-4,Q155,P101,https://www.openstreetmap.org/node/11955670784/history/4,,osm
+Q155-P101-5,Q155,P101,https://www.openstreetmap.org/node/11955670784/history/5,,osm
+Q155-P101-6,Q155,P101,https://www.openstreetmap.org/node/11955670784/history/6,,osm
+Q155-P101-7,Q155,P101,https://www.openstreetmap.org/node/11955670784/history/7,preferred,osm
+Q155-P107-1,Q155,P107,https://www.openstreetmap.org/node/11955670784/history/1,,osm
+Q155-P110-1,Q155,P110,"51.89369,-8.4925217",,osm
+Q155-P111-1,Q155,P111,POINT(-8.4925315 51.8937053),,osm
+Q155-P111-6,Q155,P111,POINT(-8.4925217 51.89369),,osm
+Q155-P113-1,Q155,P113,historic=ogham_stone,,osm
+Q155-P113-2,Q155,P113,indoor=yes,,osm
+Q155-P113-3,Q155,P113,inscription:pgl-Latn=BRUSC[O MAQI] DOVALESC[I] COLOMAGNI []V[]DU[]U,,osm
+Q155-P113-4,Q155,P113,level=0,,osm
+Q155-P113-5,Q155,P113,moved=yes,,osm
+Q155-P113-6,Q155,P113,"moved_from=Glenawillin, Co. Cork souterrain",,osm
+Q155-P113-7,Q155,P113,moved_from:wikidata=Q85393995,,osm
+Q155-P113-8,Q155,P113,name=UCC 21,,osm
+Q155-P113-9,Q155,P113,ref:IE:ciic=63,,osm
+Q155-P113-10,Q155,P113,ref:IE:ucc=21,,osm
+Q155-P113-11,Q155,P113,source=survey,,osm
+Q155-P113-12,Q155,P113,source:inscription:pgl-Latn=information panel,,osm
+Q155-P113-13,Q155,P113,wikidata=Q70885723,,osm
+,Q156,P2,Q100,,osm
+Q156-P100-1,Q156,P100,https://www.openstreetmap.org/node/11955670785,,osm
+Q156-P101-1,Q156,P101,https://www.openstreetmap.org/node/11955670785/history/1,,osm
+Q156-P101-2,Q156,P101,https://www.openstreetmap.org/node/11955670785/history/2,,osm
+Q156-P101-3,Q156,P101,https://www.openstreetmap.org/node/11955670785/history/3,,osm
+Q156-P101-4,Q156,P101,https://www.openstreetmap.org/node/11955670785/history/4,,osm
+Q156-P101-5,Q156,P101,https://www.openstreetmap.org/node/11955670785/history/5,,osm
+Q156-P101-6,Q156,P101,https://www.openstreetmap.org/node/11955670785/history/6,,osm
+Q156-P101-7,Q156,P101,https://www.openstreetmap.org/node/11955670785/history/7,preferred,osm
+Q156-P107-1,Q156,P107,https://www.openstreetmap.org/node/11955670785/history/1,,osm
+Q156-P110-1,Q156,P110,"51.8936926,-8.4925108",,osm
+Q156-P111-1,Q156,P111,POINT(-8.4925206 51.8937079),,osm
+Q156-P111-6,Q156,P111,POINT(-8.4925108 51.8936926),,osm
+Q156-P113-1,Q156,P113,historic=ogham_stone,,osm
+Q156-P113-2,Q156,P113,indoor=yes,,osm
+Q156-P113-3,Q156,P113,inscription:pgl-Latn=C[O]VALUTI,,osm
+Q156-P113-4,Q156,P113,level=0,,osm
+Q156-P113-5,Q156,P113,moved=yes,,osm
+Q156-P113-6,Q156,P113,"moved_from=Ballyknock, Co. Cork",,osm
+Q156-P113-7,Q156,P113,name=UCC 10,,osm
+Q156-P113-8,Q156,P113,ref:IE:ciic=96,,osm
+Q156-P113-9,Q156,P113,ref:IE:ucc=10,,osm
+Q156-P113-10,Q156,P113,source=survey,,osm
+Q156-P113-11,Q156,P113,source:inscription:pgl-Latn=information panel,,osm
+Q156-P113-12,Q156,P113,wikidata=Q70885697,,osm
+,Q157,P2,Q100,,osm
+Q157-P100-1,Q157,P100,https://www.openstreetmap.org/node/11955670786,,osm
+Q157-P101-1,Q157,P101,https://www.openstreetmap.org/node/11955670786/history/1,,osm
+Q157-P101-2,Q157,P101,https://www.openstreetmap.org/node/11955670786/history/2,,osm
+Q157-P101-3,Q157,P101,https://www.openstreetmap.org/node/11955670786/history/3,,osm
+Q157-P101-4,Q157,P101,https://www.openstreetmap.org/node/11955670786/history/4,,osm
+Q157-P101-5,Q157,P101,https://www.openstreetmap.org/node/11955670786/history/5,,osm
+Q157-P101-6,Q157,P101,https://www.openstreetmap.org/node/11955670786/history/6,,osm
+Q157-P101-7,Q157,P101,https://www.openstreetmap.org/node/11955670786/history/7,,osm
+Q157-P101-8,Q157,P101,https://www.openstreetmap.org/node/11955670786/history/8,,osm
+Q157-P101-9,Q157,P101,https://www.openstreetmap.org/node/11955670786/history/9,,osm
+Q157-P101-10,Q157,P101,https://www.openstreetmap.org/node/11955670786/history/10,,osm
+Q157-P101-11,Q157,P101,https://www.openstreetmap.org/node/11955670786/history/11,preferred,osm
+Q157-P107-1,Q157,P107,https://www.openstreetmap.org/node/11955670786/history/1,,osm
+Q157-P110-1,Q157,P110,"51.8936964,-8.4924886",,osm
+Q157-P111-1,Q157,P111,POINT(-8.4924994 51.893713),,osm
+Q157-P111-3,Q157,P111,POINT(-8.4924984 51.8937116),,osm
+Q157-P111-4,Q157,P111,POINT(-8.4924984 51.8937117),,osm
+Q157-P111-8,Q157,P111,POINT(-8.4924886 51.8936964),,osm
+Q157-P113-1,Q157,P113,historic=ogham_stone,,osm
+Q157-P113-2,Q157,P113,indoor=yes,,osm
+Q157-P113-3,Q157,P113,inscription:pgl-Latn=BRANAN MAQI OQOLI,,osm
+Q157-P113-4,Q157,P113,level=0,,osm
+Q157-P113-5,Q157,P113,moved=yes,,osm
+Q157-P113-6,Q157,P113,"moved_from=Ballyknock, Co. Cork",,osm
+Q157-P113-7,Q157,P113,name=UCC 19,,osm
+Q157-P113-8,Q157,P113,ref:IE:ciic=88,,osm
+Q157-P113-9,Q157,P113,ref:IE:ucc=19,,osm
+Q157-P113-10,Q157,P113,source=survey,,osm
+Q157-P113-11,Q157,P113,source:inscription:pgl-Latn=information panel,,osm
+Q157-P113-12,Q157,P113,wikidata=Q70885720,,osm
+,Q158,P2,Q100,,osm
+Q158-P100-1,Q158,P100,https://www.openstreetmap.org/node/11955670788,,osm
+Q158-P101-1,Q158,P101,https://www.openstreetmap.org/node/11955670788/history/1,,osm
+Q158-P101-2,Q158,P101,https://www.openstreetmap.org/node/11955670788/history/2,,osm
+Q158-P101-3,Q158,P101,https://www.openstreetmap.org/node/11955670788/history/3,,osm
+Q158-P101-4,Q158,P101,https://www.openstreetmap.org/node/11955670788/history/4,,osm
+Q158-P101-5,Q158,P101,https://www.openstreetmap.org/node/11955670788/history/5,,osm
+Q158-P101-6,Q158,P101,https://www.openstreetmap.org/node/11955670788/history/6,,osm
+Q158-P101-7,Q158,P101,https://www.openstreetmap.org/node/11955670788/history/7,,osm
+Q158-P101-8,Q158,P101,https://www.openstreetmap.org/node/11955670788/history/8,,osm
+Q158-P101-9,Q158,P101,https://www.openstreetmap.org/node/11955670788/history/9,preferred,osm
+Q158-P107-1,Q158,P107,https://www.openstreetmap.org/node/11955670788/history/1,,osm
+Q158-P110-1,Q158,P110,"51.8936998,-8.4924763",,osm
+Q158-P111-1,Q158,P111,POINT(-8.4924841 51.8937161),,osm
+Q158-P111-3,Q158,P111,POINT(-8.4924838 51.8937156),,osm
+Q158-P111-4,Q158,P111,POINT(-8.4924838 51.8937157),,osm
+Q158-P111-5,Q158,P111,POINT(-8.4924861 51.8937151),,osm
+Q158-P111-7,Q158,P111,POINT(-8.4924763 51.8936998),,osm
+Q158-P113-1,Q158,P113,historic=ogham_stone,,osm
+Q158-P113-2,Q158,P113,indoor=yes,,osm
+Q158-P113-3,Q158,P113,inscription:pgl-Latn=ACTO MAQI M[]MAGO,,osm
+Q158-P113-4,Q158,P113,level=0,,osm
+Q158-P113-5,Q158,P113,moved=yes,,osm
+Q158-P113-6,Q158,P113,"moved_from=Ballyknock, Co. Cork",,osm
+Q158-P113-7,Q158,P113,name=UCC 17,,osm
+Q158-P113-8,Q158,P113,source=survey,,osm
+Q158-P113-9,Q158,P113,source:inscription:pgl-Latn=information panel,,osm
+,Q159,P2,Q100,,osm
+Q159-P100-1,Q159,P100,https://www.openstreetmap.org/node/11955670789,,osm
+Q159-P101-1,Q159,P101,https://www.openstreetmap.org/node/11955670789/history/1,,osm
+Q159-P101-2,Q159,P101,https://www.openstreetmap.org/node/11955670789/history/2,,osm
+Q159-P101-3,Q159,P101,https://www.openstreetmap.org/node/11955670789/history/3,,osm
+Q159-P101-4,Q159,P101,https://www.openstreetmap.org/node/11955670789/history/4,,osm
+Q159-P101-5,Q159,P101,https://www.openstreetmap.org/node/11955670789/history/5,,osm
+Q159-P101-6,Q159,P101,https://www.openstreetmap.org/node/11955670789/history/6,,osm
+Q159-P101-7,Q159,P101,https://www.openstreetmap.org/node/11955670789/history/7,,osm
+Q159-P101-8,Q159,P101,https://www.openstreetmap.org/node/11955670789/history/8,,osm
+Q159-P101-9,Q159,P101,https://www.openstreetmap.org/node/11955670789/history/9,,osm
+Q159-P101-10,Q159,P101,https://www.openstreetmap.org/node/11955670789/history/10,,osm
+Q159-P101-11,Q159,P101,https://www.openstreetmap.org/node/11955670789/history/11,preferred,osm
+Q159-P107-1,Q159,P107,https://www.openstreetmap.org/node/11955670789/history/1,,osm
+Q159-P110-1,Q159,P110,"51.8937015,-8.4924701",,osm
+Q159-P111-1,Q159,P111,POINT(-8.4924781 51.893718),,osm
+Q159-P111-3,Q159,P111,POINT(-8.4924776 51.8937173),,osm
+Q159-P111-4,Q159,P111,POINT(-8.4924776 51.8937174),,osm
+Q159-P111-5,Q159,P111,POINT(-8.4924799 51.8937168),,osm
+Q159-P111-8,Q159,P111,POINT(-8.4924701 51.8937015),,osm
+Q159-P113-1,Q159,P113,historic=ogham_stone,,osm
+Q159-P113-2,Q159,P113,indoor=yes,,osm
+Q159-P113-3,Q159,P113,inscription:pgl-Latn=CRONUN MAC BAIT,,osm
+Q159-P113-4,Q159,P113,level=0,,osm
+Q159-P113-5,Q159,P113,moved=yes,,osm
+Q159-P113-6,Q159,P113,"moved_from=Ballyknock, Co. Cork",,osm
+Q159-P113-7,Q159,P113,name=UCC 16,,osm
+Q159-P113-8,Q159,P113,ref:IE:smr=CO074-157----,,osm
+Q159-P113-9,Q159,P113,source=survey,,osm
+Q159-P113-10,Q159,P113,source:inscription:pgl-Latn=information panel,,osm
+Q159-P113-11,Q159,P113,wikidata=Q70885712,,osm
+,Q160,P2,Q100,,osm
+Q160-P100-1,Q160,P100,https://www.openstreetmap.org/node/11955670790,,osm
+Q160-P101-1,Q160,P101,https://www.openstreetmap.org/node/11955670790/history/1,,osm
+Q160-P101-2,Q160,P101,https://www.openstreetmap.org/node/11955670790/history/2,,osm
+Q160-P101-3,Q160,P101,https://www.openstreetmap.org/node/11955670790/history/3,,osm
+Q160-P101-4,Q160,P101,https://www.openstreetmap.org/node/11955670790/history/4,,osm
+Q160-P101-5,Q160,P101,https://www.openstreetmap.org/node/11955670790/history/5,,osm
+Q160-P101-6,Q160,P101,https://www.openstreetmap.org/node/11955670790/history/6,,osm
+Q160-P101-7,Q160,P101,https://www.openstreetmap.org/node/11955670790/history/7,,osm
+Q160-P101-8,Q160,P101,https://www.openstreetmap.org/node/11955670790/history/8,,osm
+Q160-P101-9,Q160,P101,https://www.openstreetmap.org/node/11955670790/history/9,preferred,osm
+Q160-P107-1,Q160,P107,https://www.openstreetmap.org/node/11955670790/history/1,,osm
+Q160-P110-1,Q160,P110,"51.8937032,-8.4924639",,osm
+Q160-P111-1,Q160,P111,POINT(-8.4924705 51.8937184),,osm
+Q160-P111-3,Q160,P111,POINT(-8.492471 51.8937191),,osm
+Q160-P111-4,Q160,P111,POINT(-8.4924711 51.8937192),,osm
+Q160-P111-5,Q160,P111,POINT(-8.4924737 51.8937185),,osm
+Q160-P111-8,Q160,P111,POINT(-8.4924639 51.8937032),,osm
+Q160-P113-1,Q160,P113,historic=ogham_stone,,osm
+Q160-P113-2,Q160,P113,indoor=yes,,osm
+Q160-P113-3,Q160,P113,inscription:pgl-Latn=D[ ]MM[ ]MACI [ ]ERI,,osm
+Q160-P113-4,Q160,P113,level=0,,osm
+Q160-P113-5,Q160,P113,moved=yes,,osm
+Q160-P113-6,Q160,P113,"moved_from=Ballyknock, Co. Cork",,osm
+Q160-P113-7,Q160,P113,name=CIIC 94/ UCC 15,,osm
+Q160-P113-8,Q160,P113,ref:IE:smr=CO074-158----,,osm
+Q160-P113-9,Q160,P113,ref:IE:ucc=15,,osm
+Q160-P113-10,Q160,P113,source=survey,,osm
+Q160-P113-11,Q160,P113,source:inscription:pgl-Latn=information panel,,osm
+Q160-P113-12,Q160,P113,url:sketchfab=https://skfb.ly/oVMUC,,osm
+Q160-P113-13,Q160,P113,wikidata=Q70885706,,osm
+,Q161,P2,Q100,,osm
+Q161-P100-1,Q161,P100,https://www.openstreetmap.org/node/11955670791,,osm
+Q161-P101-1,Q161,P101,https://www.openstreetmap.org/node/11955670791/history/1,,osm
+Q161-P101-2,Q161,P101,https://www.openstreetmap.org/node/11955670791/history/2,,osm
+Q161-P101-3,Q161,P101,https://www.openstreetmap.org/node/11955670791/history/3,,osm
+Q161-P101-4,Q161,P101,https://www.openstreetmap.org/node/11955670791/history/4,,osm
+Q161-P101-5,Q161,P101,https://www.openstreetmap.org/node/11955670791/history/5,,osm
+Q161-P101-6,Q161,P101,https://www.openstreetmap.org/node/11955670791/history/6,,osm
+Q161-P101-7,Q161,P101,https://www.openstreetmap.org/node/11955670791/history/7,,osm
+Q161-P101-8,Q161,P101,https://www.openstreetmap.org/node/11955670791/history/8,,osm
+Q161-P101-9,Q161,P101,https://www.openstreetmap.org/node/11955670791/history/9,preferred,osm
+Q161-P107-1,Q161,P107,https://www.openstreetmap.org/node/11955670791/history/1,,osm
+Q161-P110-1,Q161,P110,"51.8937049,-8.4924578",,osm
+Q161-P111-1,Q161,P111,POINT(-8.4924665 51.89372),,osm
+Q161-P111-3,Q161,P111,POINT(-8.4924667 51.8937203),,osm
+Q161-P111-4,Q161,P111,POINT(-8.4924667 51.8937204),,osm
+Q161-P111-5,Q161,P111,POINT(-8.4924676 51.8937202),,osm
+Q161-P111-8,Q161,P111,POINT(-8.4924578 51.8937049),,osm
+Q161-P113-1,Q161,P113,historic=ogham_stone,,osm
+Q161-P113-2,Q161,P113,indoor=yes,,osm
+Q161-P113-3,Q161,P113,inscription:pgl-Latn=L[A]MADULICCI MAC[ ]CBROCC,,osm
+Q161-P113-4,Q161,P113,level=0,,osm
+Q161-P113-5,Q161,P113,moved=yes,,osm
+Q161-P113-6,Q161,P113,"moved_from=Ballyknock, Co. Cork",,osm
+Q161-P113-7,Q161,P113,name=UCC 14,,osm
+Q161-P113-8,Q161,P113,ref:IE:smr=CO074-159----,,osm
+Q161-P113-9,Q161,P113,source=survey,,osm
+Q161-P113-10,Q161,P113,source:inscription:pgl-Latn=information panel,,osm
+Q161-P113-11,Q161,P113,url:sketchfab=https://skfb.ly/oVMV9,,osm
+Q161-P113-12,Q161,P113,wikidata=Q70885704,,osm
+,Q162,P2,Q100,,osm
+Q162-P100-1,Q162,P100,https://www.openstreetmap.org/node/11955670792,,osm
+Q162-P101-1,Q162,P101,https://www.openstreetmap.org/node/11955670792/history/1,,osm
+Q162-P101-2,Q162,P101,https://www.openstreetmap.org/node/11955670792/history/2,,osm
+Q162-P101-3,Q162,P101,https://www.openstreetmap.org/node/11955670792/history/3,,osm
+Q162-P101-4,Q162,P101,https://www.openstreetmap.org/node/11955670792/history/4,,osm
+Q162-P101-5,Q162,P101,https://www.openstreetmap.org/node/11955670792/history/5,,osm
+Q162-P101-6,Q162,P101,https://www.openstreetmap.org/node/11955670792/history/6,,osm
+Q162-P101-7,Q162,P101,https://www.openstreetmap.org/node/11955670792/history/7,,osm
+Q162-P101-8,Q162,P101,https://www.openstreetmap.org/node/11955670792/history/8,,osm
+Q162-P101-9,Q162,P101,https://www.openstreetmap.org/node/11955670792/history/9,preferred,osm
+Q162-P107-1,Q162,P107,https://www.openstreetmap.org/node/11955670792/history/1,,osm
+Q162-P110-1,Q162,P110,"51.8937066,-8.4924516",,osm
+Q162-P111-1,Q162,P111,POINT(-8.4924615 51.8937217),,osm
+Q162-P111-4,Q162,P111,POINT(-8.4924616 51.8937218),,osm
+Q162-P111-5,Q162,P111,POINT(-8.4924614 51.8937219),,osm
+Q162-P111-8,Q162,P111,POINT(-8.4924516 51.8937066),,osm
+Q162-P113-1,Q162,P113,historic=ogham_stone,,osm
+Q162-P113-2,Q162,P113,indoor=yes,,osm
+Q162-P113-3,Q162,P113,inscription:pgl-Latn=ANM MEDDOGENI,,osm
+Q162-P113-4,Q162,P113,level=0,,osm
+Q162-P113-5,Q162,P113,moved=yes,,osm
+Q162-P113-6,Q162,P113,"moved_from=Ballyknock, Co. Cork",,osm
+Q162-P113-7,Q162,P113,name=UCC 13,,osm
+Q162-P113-8,Q162,P113,ref:IE:smr=CO074-160----,,osm
+Q162-P113-9,Q162,P113,source=survey,,osm
+Q162-P113-10,Q162,P113,source:inscription:pgl-Latn=information panel,,osm
+Q162-P113-11,Q162,P113,url:sketchfab=https://skfb.ly/oVMpN,,osm
+Q162-P113-12,Q162,P113,wikidata=Q70885703,,osm
+,Q163,P2,Q100,,osm
+Q163-P100-1,Q163,P100,https://www.openstreetmap.org/node/11955670793,,osm
+Q163-P101-1,Q163,P101,https://www.openstreetmap.org/node/11955670793/history/1,,osm
+Q163-P101-2,Q163,P101,https://www.openstreetmap.org/node/11955670793/history/2,,osm
+Q163-P101-3,Q163,P101,https://www.openstreetmap.org/node/11955670793/history/3,,osm
+Q163-P101-4,Q163,P101,https://www.openstreetmap.org/node/11955670793/history/4,,osm
+Q163-P101-5,Q163,P101,https://www.openstreetmap.org/node/11955670793/history/5,,osm
+Q163-P101-6,Q163,P101,https://www.openstreetmap.org/node/11955670793/history/6,,osm
+Q163-P101-7,Q163,P101,https://www.openstreetmap.org/node/11955670793/history/7,,osm
+Q163-P101-8,Q163,P101,https://www.openstreetmap.org/node/11955670793/history/8,preferred,osm
+Q163-P107-1,Q163,P107,https://www.openstreetmap.org/node/11955670793/history/1,,osm
+Q163-P110-1,Q163,P110,"51.8937082,-8.4924454",,osm
+Q163-P111-1,Q163,P111,POINT(-8.4924578 51.8937229),,osm
+Q163-P111-3,Q163,P111,POINT(-8.4924577 51.8937228),,osm
+Q163-P111-4,Q163,P111,POINT(-8.4924552 51.8937235),,osm
+Q163-P111-7,Q163,P111,POINT(-8.4924454 51.8937082),,osm
+Q163-P113-1,Q163,P113,historic=ogham_stone,,osm
+Q163-P113-2,Q163,P113,indoor=yes,,osm
+Q163-P113-3,Q163,P113,inscription:pgl-Latn=D[ ]G[ ]TE/QUL[ ]Q... or DRUTIQUILI MAQI MAQI-RODAGNI,,osm
+Q163-P113-4,Q163,P113,level=0,,osm
+Q163-P113-5,Q163,P113,moved=yes,,osm
+Q163-P113-6,Q163,P113,"moved_from=Ballyknock, Co. Cork",,osm
+Q163-P113-7,Q163,P113,name=UCC 11,,osm
+Q163-P113-8,Q163,P113,source=survey,,osm
+Q163-P113-9,Q163,P113,source:inscription:pgl-Latn=information panel,,osm
+,Q164,P2,Q100,,osm
+Q164-P100-1,Q164,P100,https://www.openstreetmap.org/node/11955670794,,osm
+Q164-P101-1,Q164,P101,https://www.openstreetmap.org/node/11955670794/history/1,,osm
+Q164-P101-2,Q164,P101,https://www.openstreetmap.org/node/11955670794/history/2,,osm
+Q164-P101-3,Q164,P101,https://www.openstreetmap.org/node/11955670794/history/3,,osm
+Q164-P101-4,Q164,P101,https://www.openstreetmap.org/node/11955670794/history/4,,osm
+Q164-P101-5,Q164,P101,https://www.openstreetmap.org/node/11955670794/history/5,,osm
+Q164-P101-6,Q164,P101,https://www.openstreetmap.org/node/11955670794/history/6,,osm
+Q164-P101-7,Q164,P101,https://www.openstreetmap.org/node/11955670794/history/7,,osm
+Q164-P101-8,Q164,P101,https://www.openstreetmap.org/node/11955670794/history/8,,osm
+Q164-P101-9,Q164,P101,https://www.openstreetmap.org/node/11955670794/history/9,,osm
+Q164-P101-10,Q164,P101,https://www.openstreetmap.org/node/11955670794/history/10,,osm
+Q164-P101-11,Q164,P101,https://www.openstreetmap.org/node/11955670794/history/11,preferred,osm
+Q164-P107-1,Q164,P107,https://www.openstreetmap.org/node/11955670794/history/1,,osm
+Q164-P110-1,Q164,P110,"51.8937167,-8.4924146",,osm
+Q164-P111-1,Q164,P111,POINT(-8.4924253 51.8937333),,osm
+Q164-P111-3,Q164,P111,POINT(-8.4924243 51.8937319),,osm
+Q164-P111-4,Q164,P111,POINT(-8.4924244 51.893732),,osm
+Q164-P111-8,Q164,P111,POINT(-8.4924146 51.8937167),,osm
+Q164-P113-1,Q164,P113,historic=ogham_stone,,osm
+Q164-P113-2,Q164,P113,indoor=yes,,osm
+Q164-P113-3,Q164,P113,inscription:pgl-Latn=DOVED/TI [MA]Q[I] LOCARENAS C[ ]U MAQI CULIDOVI,,osm
+Q164-P113-4,Q164,P113,level=0,,osm
+Q164-P113-5,Q164,P113,moved=yes,,osm
+Q164-P113-6,Q164,P113,"moved_from=Carrigagulla, Co. Cork bog",,osm
+Q164-P113-7,Q164,P113,moved_from:wikidata=Q85394128,,osm
+Q164-P113-8,Q164,P113,name=UCC 25,,osm
+Q164-P113-9,Q164,P113,ref:IE:smr=CO074-147----,,osm
+Q164-P113-10,Q164,P113,source=survey,,osm
+Q164-P113-11,Q164,P113,source:inscription:pgl-Latn=information panel,,osm
+Q164-P113-12,Q164,P113,url:sketchfab=https://skfb.ly/oVOqB,,osm
+Q164-P113-13,Q164,P113,wikidata=Q70885734,,osm
+,Q165,P2,Q100,,osm
+Q165-P100-1,Q165,P100,https://www.openstreetmap.org/node/11955670796,,osm
+Q165-P101-1,Q165,P101,https://www.openstreetmap.org/node/11955670796/history/1,,osm
+Q165-P101-2,Q165,P101,https://www.openstreetmap.org/node/11955670796/history/2,,osm
+Q165-P101-3,Q165,P101,https://www.openstreetmap.org/node/11955670796/history/3,,osm
+Q165-P101-4,Q165,P101,https://www.openstreetmap.org/node/11955670796/history/4,,osm
+Q165-P101-5,Q165,P101,https://www.openstreetmap.org/node/11955670796/history/5,,osm
+Q165-P101-6,Q165,P101,https://www.openstreetmap.org/node/11955670796/history/6,,osm
+Q165-P101-7,Q165,P101,https://www.openstreetmap.org/node/11955670796/history/7,,osm
+Q165-P101-8,Q165,P101,https://www.openstreetmap.org/node/11955670796/history/8,,osm
+Q165-P101-9,Q165,P101,https://www.openstreetmap.org/node/11955670796/history/9,,osm
+Q165-P101-10,Q165,P101,https://www.openstreetmap.org/node/11955670796/history/10,,osm
+Q165-P101-11,Q165,P101,https://www.openstreetmap.org/node/11955670796/history/11,preferred,osm
+Q165-P107-1,Q165,P107,https://www.openstreetmap.org/node/11955670796/history/1,,osm
+Q165-P110-1,Q165,P110,"51.8937133,-8.4924269",,osm
+Q165-P111-1,Q165,P111,POINT(-8.49244 51.893726),,osm
+Q165-P111-3,Q165,P111,POINT(-8.492441 51.8937274),,osm
+Q165-P111-6,Q165,P111,POINT(-8.4924367 51.8937286),,osm
+Q165-P111-8,Q165,P111,POINT(-8.4924269 51.8937133),,osm
+Q165-P113-1,Q165,P113,historic=ogham_stone,,osm
+Q165-P113-2,Q165,P113,indoor=yes,,osm
+Q165-P113-3,Q165,P113,inscription:pgl-Latn=BOGAI MAQI BIRAC...,,osm
+Q165-P113-4,Q165,P113,level=0,,osm
+Q165-P113-5,Q165,P113,moved=yes,,osm
+Q165-P113-6,Q165,P113,"moved_from=Ballyknock, Co. Cork",,osm
+Q165-P113-7,Q165,P113,name=UCC 7,,osm
+Q165-P113-8,Q165,P113,ref:IE:smr=CO074-164—,,osm
+Q165-P113-9,Q165,P113,ref:IE:ucc=7,,osm
+Q165-P113-10,Q165,P113,source=survey,,osm
+Q165-P113-11,Q165,P113,source:inscription:pgl-Latn=information panel,,osm
+Q165-P113-12,Q165,P113,url:sketchfab=https://skfb.ly/oVMpr,,osm
+Q165-P113-13,Q165,P113,wikidata=Q70885690,,osm
+,Q166,P2,Q100,,osm
+Q166-P100-1,Q166,P100,https://www.openstreetmap.org/node/11955670797,,osm
+Q166-P101-1,Q166,P101,https://www.openstreetmap.org/node/11955670797/history/1,,osm
+Q166-P101-2,Q166,P101,https://www.openstreetmap.org/node/11955670797/history/2,,osm
+Q166-P101-3,Q166,P101,https://www.openstreetmap.org/node/11955670797/history/3,,osm
+Q166-P101-4,Q166,P101,https://www.openstreetmap.org/node/11955670797/history/4,,osm
+Q166-P101-5,Q166,P101,https://www.openstreetmap.org/node/11955670797/history/5,,osm
+Q166-P101-6,Q166,P101,https://www.openstreetmap.org/node/11955670797/history/6,,osm
+Q166-P101-7,Q166,P101,https://www.openstreetmap.org/node/11955670797/history/7,,osm
+Q166-P101-8,Q166,P101,https://www.openstreetmap.org/node/11955670797/history/8,,osm
+Q166-P101-9,Q166,P101,https://www.openstreetmap.org/node/11955670797/history/9,preferred,osm
+Q166-P107-1,Q166,P107,https://www.openstreetmap.org/node/11955670797/history/1,,osm
+Q166-P110-1,Q166,P110,"51.8937116,-8.4924331",,osm
+Q166-P111-1,Q166,P111,POINT(-8.4924454 51.8937241),,osm
+Q166-P111-3,Q166,P111,POINT(-8.4924466 51.8937258),,osm
+Q166-P111-4,Q166,P111,POINT(-8.4924466 51.8937259),,osm
+Q166-P111-5,Q166,P111,POINT(-8.4924429 51.8937269),,osm
+Q166-P111-8,Q166,P111,POINT(-8.4924331 51.8937116),,osm
+Q166-P113-1,Q166,P113,historic=ogham_stone,,osm
+Q166-P113-2,Q166,P113,indoor=yes,,osm
+Q166-P113-3,Q166,P113,inscription:pgl-Latn=ERCAIDANA,,osm
+Q166-P113-4,Q166,P113,level=0,,osm
+Q166-P113-5,Q166,P113,moved=yes,,osm
+Q166-P113-6,Q166,P113,"moved_from=Ballyknock, Co. Cork",,osm
+Q166-P113-7,Q166,P113,name=UCC 8,,osm
+Q166-P113-8,Q166,P113,ref:IE:smr=CO074-163----,,osm
+Q166-P113-9,Q166,P113,source=survey,,osm
+Q166-P113-10,Q166,P113,source:inscription:pgl-Latn=information panel,,osm
+Q166-P113-11,Q166,P113,url:sketchfab=https://skfb.ly/oVM7t,,osm
+Q166-P113-12,Q166,P113,wikidata=Q70885692,,osm
+,Q167,P2,Q100,,osm
+Q167-P100-1,Q167,P100,https://www.openstreetmap.org/node/11955670798,,osm
+Q167-P101-1,Q167,P101,https://www.openstreetmap.org/node/11955670798/history/1,,osm
+Q167-P101-2,Q167,P101,https://www.openstreetmap.org/node/11955670798/history/2,,osm
+Q167-P101-3,Q167,P101,https://www.openstreetmap.org/node/11955670798/history/3,,osm
+Q167-P101-4,Q167,P101,https://www.openstreetmap.org/node/11955670798/history/4,,osm
+Q167-P101-5,Q167,P101,https://www.openstreetmap.org/node/11955670798/history/5,,osm
+Q167-P101-6,Q167,P101,https://www.openstreetmap.org/node/11955670798/history/6,,osm
+Q167-P101-7,Q167,P101,https://www.openstreetmap.org/node/11955670798/history/7,,osm
+Q167-P101-8,Q167,P101,https://www.openstreetmap.org/node/11955670798/history/8,,osm
+Q167-P101-9,Q167,P101,https://www.openstreetmap.org/node/11955670798/history/9,,osm
+Q167-P101-10,Q167,P101,https://www.openstreetmap.org/node/11955670798/history/10,preferred,osm
+Q167-P107-1,Q167,P107,https://www.openstreetmap.org/node/11955670798/history/1,,osm
+Q167-P110-1,Q167,P110,"51.8937099,-8.4924393",,osm
+Q167-P111-1,Q167,P111,POINT(-8.4924504 51.8937218),,osm
+Q167-P111-3,Q167,P111,POINT(-8.4924522 51.8937243),,osm
+Q167-P111-5,Q167,P111,POINT(-8.4924491 51.8937252),,osm
+Q167-P111-7,Q167,P111,POINT(-8.4924393 51.8937099),,osm
+Q167-P113-1,Q167,P113,historic=ogham_stone,,osm
+Q167-P113-2,Q167,P113,indoor=yes,,osm
+Q167-P113-3,Q167,P113,inscription:pgl-Latn=GRILAGNI MAQI SCILAGNI,,osm
+Q167-P113-4,Q167,P113,level=0,,osm
+Q167-P113-5,Q167,P113,moved=yes,,osm
+Q167-P113-6,Q167,P113,"moved_from=Ballyknock, Co. Cork",,osm
+Q167-P113-7,Q167,P113,name=UCC 9,,osm
+Q167-P113-8,Q167,P113,source=survey,,osm
+Q167-P113-9,Q167,P113,source:inscription:pgl-Latn=information panel,,osm
+Q167-P113-10,Q167,P113,wikidata=Q70885695,,osm
+,Q168,P2,Q100,,osm
+Q168-P100-1,Q168,P100,https://www.openstreetmap.org/node/11966423819,,osm
+Q168-P101-1,Q168,P101,https://www.openstreetmap.org/node/11966423819/history/1,preferred,osm
+Q168-P107-1,Q168,P107,https://www.openstreetmap.org/node/11966423819/history/1,,osm
+Q168-P110-1,Q168,P110,"51.8961577,-8.4943171",,osm
+Q168-P111-1,Q168,P111,POINT(-8.4943171 51.8961577),,osm
+Q168-P113-1,Q168,P113,historic=ogham_stone,,osm
+Q168-P113-2,Q168,P113,indoor=yes,,osm
+Q168-P113-3,Q168,P113,level=0,,osm
+Q168-P113-4,Q168,P113,moved=yes,,osm
+Q168-P113-5,Q168,P113,name=Kilbrittain Fragment,,osm
+Q168-P113-6,Q168,P113,ref:IE:cpm=1993.16,,osm
+Q168-P113-7,Q168,P113,source=survey,,osm
+,Q169,P2,Q100,,osm
+Q169-P100-1,Q169,P100,https://www.openstreetmap.org/node/11966430251,,osm
+Q169-P101-1,Q169,P101,https://www.openstreetmap.org/node/11966430251/history/1,,osm
+Q169-P101-2,Q169,P101,https://www.openstreetmap.org/node/11966430251/history/2,,osm
+Q169-P101-3,Q169,P101,https://www.openstreetmap.org/node/11966430251/history/3,preferred,osm
+Q169-P107-1,Q169,P107,https://www.openstreetmap.org/node/11966430251/history/1,,osm
+Q169-P110-1,Q169,P110,"51.8960881,-8.4943144",,osm
+Q169-P111-1,Q169,P111,POINT(-8.4943144 51.8960881),,osm
+Q169-P113-1,Q169,P113,historic=ogham_stone,,osm
+Q169-P113-2,Q169,P113,indoor=ogham,,osm
+Q169-P113-3,Q169,P113,inscription:pgl-Latn=BECCCDINN MACI RI[T(T)A]VVECASS,,osm
+Q169-P113-4,Q169,P113,level=0,,osm
+Q169-P113-5,Q169,P113,moved=yes,,osm
+Q169-P113-6,Q169,P113,name=CHUIS/1,,osm
+Q169-P113-7,Q169,P113,ref:IE:cpm=G1094,,osm
+Q169-P113-8,Q169,P113,source=survey,,osm
+Q169-P113-9,Q169,P113,source:inscription:pgl-Latn=information panel,,osm
+Q169-P113-10,Q169,P113,url:sketchfab=https://skfb.ly/oW6RU,,osm
+,Q170,P2,Q100,,osm
+Q170-P100-1,Q170,P100,https://www.openstreetmap.org/node/11966441102,,osm
+Q170-P101-1,Q170,P101,https://www.openstreetmap.org/node/11966441102/history/1,preferred,osm
+Q170-P107-1,Q170,P107,https://www.openstreetmap.org/node/11966441102/history/1,,osm
+Q170-P110-1,Q170,P110,"51.896151,-8.4942742",,osm
+Q170-P111-1,Q170,P111,POINT(-8.4942742 51.896151),,osm
+Q170-P113-1,Q170,P113,historic=ogham_stone,,osm
+Q170-P113-2,Q170,P113,indoor=yes,,osm
+Q170-P113-3,Q170,P113,inscription:pgl-Latn=BRANADDOV MA[QI] MAQIQOLI MUCOI DOVI[NIAS],,osm
+Q170-P113-4,Q170,P113,level=0,,osm
+Q170-P113-5,Q170,P113,moved=yes,,osm
+Q170-P113-6,Q170,P113,name=GEARS/1,,osm
+Q170-P113-7,Q170,P113,ref:IE:cpm=L.1954.3,,osm
+Q170-P113-8,Q170,P113,source=survey,,osm
+Q170-P113-9,Q170,P113,source:inscription:pgl-Latn=McManus/1991,,osm
+Q170-P113-10,Q170,P113,url:sketchfab=https://skfb.ly/oW6QR,,osm
+,Q171,P2,Q100,,osm
+Q171-P100-1,Q171,P100,https://www.openstreetmap.org/node/12276963607,,osm
+Q171-P101-1,Q171,P101,https://www.openstreetmap.org/node/12276963607/history/1,,osm
+Q171-P101-2,Q171,P101,https://www.openstreetmap.org/node/12276963607/history/2,,osm
+Q171-P101-3,Q171,P101,https://www.openstreetmap.org/node/12276963607/history/3,preferred,osm
+Q171-P107-1,Q171,P107,https://www.openstreetmap.org/node/12276963607/history/1,,osm
+Q171-P110-1,Q171,P110,"52.126787,-10.3059796",,osm
+Q171-P111-1,Q171,P111,POINT(-10.3059709 52.1267919),,osm
+Q171-P111-2,Q171,P111,POINT(-10.3059796 52.126787),,osm
+Q171-P113-1,Q171,P113,heritage=2,,osm
+Q171-P113-2,Q171,P113,heritage:operator=IE:smr,,osm
+Q171-P113-3,Q171,P113,historic=ogham_stone,,osm
+Q171-P113-4,Q171,P113,inscription=MOINENA MAQI OLACON,,osm
+Q171-P113-5,Q171,P113,moved=yes,,osm
+Q171-P113-6,Q171,P113,name=Ogham Stone CIIC 147. Ballineesteenigh,,osm
+Q171-P113-7,Q171,P113,ref:IE:smr=KE053-012002-,,osm
+,Q172,P2,Q100,,osm
+Q172-P100-1,Q172,P100,https://www.openstreetmap.org/node/12276982960,,osm
+Q172-P101-1,Q172,P101,https://www.openstreetmap.org/node/12276982960/history/1,preferred,osm
+Q172-P107-1,Q172,P107,https://www.openstreetmap.org/node/12276982960/history/1,,osm
+Q172-P110-1,Q172,P110,"52.1267635,-10.3060326",,osm
+Q172-P111-1,Q172,P111,POINT(-10.3060326 52.1267635),,osm
+Q172-P113-1,Q172,P113,historic=ogham_stone,,osm
+Q172-P113-2,Q172,P113,name=Ogham Stone BURNHAM EAST V,,osm
+Q172-P113-3,Q172,P113,url=https://www.megalithicmonumentsofireland.com/COUNTIES/KERRY/BurnhamEast5_OghamStone.html,,osm
+,Q173,P2,Q100,,osm
+Q173-P100-1,Q173,P100,https://www.openstreetmap.org/node/12661114455,,osm
+Q173-P101-1,Q173,P101,https://www.openstreetmap.org/node/12661114455/history/1,preferred,osm
+Q173-P107-1,Q173,P107,https://www.openstreetmap.org/node/12661114455/history/1,,osm
+Q173-P110-1,Q173,P110,"52.5298176,-7.6332085",,osm
+Q173-P111-1,Q173,P111,POINT(-7.6332085 52.5298176),,osm
+Q173-P113-1,Q173,P113,fixme=check whether it's still here,,osm
+Q173-P113-2,Q173,P113,historic=ogham_stone,,osm
+Q173-P113-3,Q173,P113,source=British war office map,,osm
+,Q174,P2,Q100,,osm
+Q174-P100-1,Q174,P100,https://www.openstreetmap.org/node/1275923177,,osm
+Q174-P101-1,Q174,P101,https://www.openstreetmap.org/node/1275923177/history/1,,osm
+Q174-P101-2,Q174,P101,https://www.openstreetmap.org/node/1275923177/history/2,,osm
+Q174-P101-3,Q174,P101,https://www.openstreetmap.org/node/1275923177/history/3,,osm
+Q174-P101-4,Q174,P101,https://www.openstreetmap.org/node/1275923177/history/4,,osm
+Q174-P101-5,Q174,P101,https://www.openstreetmap.org/node/1275923177/history/5,,osm
+Q174-P101-6,Q174,P101,https://www.openstreetmap.org/node/1275923177/history/6,,osm
+Q174-P101-7,Q174,P101,https://www.openstreetmap.org/node/1275923177/history/7,,osm
+Q174-P101-8,Q174,P101,https://www.openstreetmap.org/node/1275923177/history/8,,osm
+Q174-P101-9,Q174,P101,https://www.openstreetmap.org/node/1275923177/history/9,,osm
+Q174-P101-10,Q174,P101,https://www.openstreetmap.org/node/1275923177/history/10,,osm
+Q174-P101-11,Q174,P101,https://www.openstreetmap.org/node/1275923177/history/11,,osm
+Q174-P101-12,Q174,P101,https://www.openstreetmap.org/node/1275923177/history/12,preferred,osm
+Q174-P107-1,Q174,P107,https://www.openstreetmap.org/node/1275923177/history/1,,osm
+Q174-P107-8,Q174,P107,https://www.openstreetmap.org/node/1275923177/history/8,,osm
+Q174-P110-1,Q174,P110,"52.2578184,-10.2484763",,osm
+Q174-P111-1,Q174,P111,POINT(-10.2484481 52.2578397),,osm
+Q174-P111-9,Q174,P111,POINT(-10.2484763 52.2578184),,osm
+Q174-P112-1,Q174,P112,Ogham Stone (geograph 2391021).jpg,,osm
+Q174-P113-1,Q174,P113,alt_name=Brandon Monument,,osm
+Q174-P113-2,Q174,P113,heritage=2,,osm
+Q174-P113-3,Q174,P113,historic=ogham_stone,,osm
+Q174-P113-4,Q174,P113,inscription:la=QRIMITIR RO/Ṇ[A]/ṆN MAQ̣ COMOGANN,,osm
+Q174-P113-5,Q174,P113,name=Arraglen Ogham Stone,,osm
+Q174-P113-6,Q174,P113,ref:IE:nm=221.01;10029,,osm
+Q174-P113-7,Q174,P113,ref:IE:smr=KE025-002----,,osm
+Q174-P113-8,Q174,P113,source:inscription=wikipedia,,osm
+Q174-P113-9,Q174,P113,wikidata=Q48797670,,osm
+Q174-P113-10,Q174,P113,wikipedia=en:Arraglen Ogham Stone,,osm
+,Q175,P2,Q100,,osm
+Q175-P100-1,Q175,P100,https://www.openstreetmap.org/node/12879271025,,osm
+Q175-P101-1,Q175,P101,https://www.openstreetmap.org/node/12879271025/history/1,,osm
+Q175-P101-2,Q175,P101,https://www.openstreetmap.org/node/12879271025/history/2,preferred,osm
+Q175-P107-2,Q175,P107,https://www.openstreetmap.org/node/12879271025/history/2,,osm
+Q175-P110-1,Q175,P110,"52.4700706,-7.2226406",,osm
+Q175-P111-1,Q175,P111,POINT(-7.2226406 52.4700706),,osm
+Q175-P113-1,Q175,P113,alt_name=Kilcurl Ogham Stone,,osm
+Q175-P113-2,Q175,P113,historic=ogham_stone,,osm
+Q175-P113-3,Q175,P113,name=Ballyboodan Ogham Stone,,osm
+Q175-P113-4,Q175,P113,wikidata=Q28232281,,osm
+Q175-P113-5,Q175,P113,wikipedia=en:Ballyboodan Ogham Stone,,osm
+,Q176,P2,Q100,,osm
+Q176-P100-1,Q176,P100,https://www.openstreetmap.org/node/13666664175,,osm
+Q176-P101-1,Q176,P101,https://www.openstreetmap.org/node/13666664175/history/1,,osm
+Q176-P101-2,Q176,P101,https://www.openstreetmap.org/node/13666664175/history/2,preferred,osm
+Q176-P107-1,Q176,P107,https://www.openstreetmap.org/node/13666664175/history/1,,osm
+Q176-P110-1,Q176,P110,"51.9351465,-9.1529528",,osm
+Q176-P111-1,Q176,P111,POINT(-9.1529692 51.9351635),,osm
+Q176-P111-2,Q176,P111,POINT(-9.1529528 51.9351465),,osm
+Q176-P113-1,Q176,P113,"description=one of three upright stones, looking at the bullaun stone, it is immediately to the left",,osm
+Q176-P113-2,Q176,P113,historic=ogham_stone,,osm
+,Q177,P2,Q100,,osm
+Q177-P100-1,Q177,P100,https://www.openstreetmap.org/node/13667800673,,osm
+Q177-P101-1,Q177,P101,https://www.openstreetmap.org/node/13667800673/history/1,preferred,osm
+Q177-P107-1,Q177,P107,https://www.openstreetmap.org/node/13667800673/history/1,,osm
+Q177-P110-1,Q177,P110,"51.9351719,-9.1529384",,osm
+Q177-P111-1,Q177,P111,POINT(-9.1529384 51.9351719),,osm
+Q177-P113-1,Q177,P113,historic=ogham_stone,,osm
+,Q178,P2,Q100,,osm
+Q178-P100-1,Q178,P100,https://www.openstreetmap.org/node/13667800674,,osm
+Q178-P101-1,Q178,P101,https://www.openstreetmap.org/node/13667800674/history/1,preferred,osm
+Q178-P107-1,Q178,P107,https://www.openstreetmap.org/node/13667800674/history/1,,osm
+Q178-P110-1,Q178,P110,"51.9351996,-9.1529592",,osm
+Q178-P111-1,Q178,P111,POINT(-9.1529592 51.9351996),,osm
+Q178-P113-1,Q178,P113,historic=ogham_stone,,osm
+,Q179,P2,Q100,,osm
+Q179-P100-1,Q179,P100,https://www.openstreetmap.org/node/14265977755,,osm
+Q179-P101-1,Q179,P101,https://www.openstreetmap.org/node/14265977755/history/1,preferred,osm
+Q179-P107-1,Q179,P107,https://www.openstreetmap.org/node/14265977755/history/1,,osm
+Q179-P110-1,Q179,P110,"52.5226177,-7.0378821",,osm
+Q179-P111-1,Q179,P111,POINT(-7.0378821 52.5226177),,osm
+Q179-P113-1,Q179,P113,historic=ogham_stone,,osm
+Q179-P113-2,Q179,P113,source=Bing,,osm
+Q179-P113-3,Q179,P113,wikidata=Q85391658,,osm
+,Q180,P2,Q100,,osm
+Q180-P100-1,Q180,P100,https://www.openstreetmap.org/node/2428911148,,osm
+Q180-P101-1,Q180,P101,https://www.openstreetmap.org/node/2428911148/history/1,,osm
+Q180-P101-2,Q180,P101,https://www.openstreetmap.org/node/2428911148/history/2,,osm
+Q180-P101-3,Q180,P101,https://www.openstreetmap.org/node/2428911148/history/3,,osm
+Q180-P101-4,Q180,P101,https://www.openstreetmap.org/node/2428911148/history/4,,osm
+Q180-P101-5,Q180,P101,https://www.openstreetmap.org/node/2428911148/history/5,,osm
+Q180-P101-6,Q180,P101,https://www.openstreetmap.org/node/2428911148/history/6,,osm
+Q180-P101-7,Q180,P101,https://www.openstreetmap.org/node/2428911148/history/7,,osm
+Q180-P101-8,Q180,P101,https://www.openstreetmap.org/node/2428911148/history/8,preferred,osm
+Q180-P107-6,Q180,P107,https://www.openstreetmap.org/node/2428911148/history/6,,osm
+Q180-P110-1,Q180,P110,"52.8273179,-6.570098",,osm
+Q180-P111-1,Q180,P111,POINT(-6.5697895 52.8272659),,osm
+Q180-P111-2,Q180,P111,POINT(-6.5700661 52.8273458),,osm
+Q180-P111-3,Q180,P111,POINT(-6.570098 52.8273179),,osm
+Q180-P113-1,Q180,P113,heritage=2,,osm
+Q180-P113-2,Q180,P113,heritage:operator=IE:smr,,osm
+Q180-P113-3,Q180,P113,historic=ogham_stone,,osm
+Q180-P113-4,Q180,P113,note=temporary trial re DIAS permission BH/NW,,osm
+Q180-P113-5,Q180,P113,ref:IE:smr=CW009-028021,,osm
+Q180-P113-6,Q180,P113,website=https://ogham.celt.dias.ie/search.php?ciic=15,,osm
+,Q181,P2,Q100,,osm
+Q181-P100-1,Q181,P100,https://www.openstreetmap.org/node/3220290865,,osm
+Q181-P101-1,Q181,P101,https://www.openstreetmap.org/node/3220290865/history/1,,osm
+Q181-P101-2,Q181,P101,https://www.openstreetmap.org/node/3220290865/history/2,,osm
+Q181-P101-3,Q181,P101,https://www.openstreetmap.org/node/3220290865/history/3,preferred,osm
+Q181-P107-2,Q181,P107,https://www.openstreetmap.org/node/3220290865/history/2,,osm
+Q181-P110-1,Q181,P110,"54.2465,-9.2536375",,osm
+Q181-P111-1,Q181,P111,POINT(-9.2536536 54.2464875),,osm
+Q181-P111-2,Q181,P111,POINT(-9.2536375 54.2465),,osm
+Q181-P113-1,Q181,P113,heritage=2,,osm
+Q181-P113-2,Q181,P113,heritage:operator=IE:smr,,osm
+Q181-P113-3,Q181,P113,historic=ogham_stone,,osm
+Q181-P113-4,Q181,P113,name=Breastagh Ogham Stone,,osm
+Q181-P113-5,Q181,P113,ref:IE:smr=MA015-018001,,osm
+Q181-P113-6,Q181,P113,wikidata=Q28232526,,osm
+Q181-P113-7,Q181,P113,wikipedia=en:Breastagh Ogham Stone,,osm
+,Q182,P2,Q100,,osm
+Q182-P100-1,Q182,P100,https://www.openstreetmap.org/node/3621783646,,osm
+Q182-P101-1,Q182,P101,https://www.openstreetmap.org/node/3621783646/history/1,,osm
+Q182-P101-2,Q182,P101,https://www.openstreetmap.org/node/3621783646/history/2,,osm
+Q182-P101-3,Q182,P101,https://www.openstreetmap.org/node/3621783646/history/3,,osm
+Q182-P101-4,Q182,P101,https://www.openstreetmap.org/node/3621783646/history/4,,osm
+Q182-P101-5,Q182,P101,https://www.openstreetmap.org/node/3621783646/history/5,preferred,osm
+Q182-P107-4,Q182,P107,https://www.openstreetmap.org/node/3621783646/history/4,,osm
+Q182-P110-1,Q182,P110,"53.0215908,-6.613205",,osm
+Q182-P111-1,Q182,P111,POINT(-6.613205 53.0215908),,osm
+Q182-P113-1,Q182,P113,heritage=2,,osm
+Q182-P113-2,Q182,P113,heritage:operator=IE:smr,,osm
+Q182-P113-3,Q182,P113,historic=ogham_stone,,osm
+Q182-P113-4,Q182,P113,moved=yes,,osm
+Q182-P113-5,Q182,P113,note=Ogham Stone (OSM Historical),,osm
+Q182-P113-6,Q182,P113,ref:IE:smr=WI021-004,,osm
+Q182-P113-7,Q182,P113,website=https://ogham.celt.dias.ie/search.php?ciic=48,,osm
+,Q183,P2,Q100,,osm
+Q183-P100-1,Q183,P100,https://www.openstreetmap.org/node/3663314804,,osm
+Q183-P101-1,Q183,P101,https://www.openstreetmap.org/node/3663314804/history/1,,osm
+Q183-P101-2,Q183,P101,https://www.openstreetmap.org/node/3663314804/history/2,,osm
+Q183-P101-3,Q183,P101,https://www.openstreetmap.org/node/3663314804/history/3,,osm
+Q183-P101-4,Q183,P101,https://www.openstreetmap.org/node/3663314804/history/4,,osm
+Q183-P101-5,Q183,P101,https://www.openstreetmap.org/node/3663314804/history/5,preferred,osm
+Q183-P107-3,Q183,P107,https://www.openstreetmap.org/node/3663314804/history/3,,osm
+Q183-P110-1,Q183,P110,"51.6447272,-8.8857259",,osm
+Q183-P111-1,Q183,P111,POINT(-8.8857259 51.6447272),,osm
+Q183-P113-1,Q183,P113,heritage=2,,osm
+Q183-P113-2,Q183,P113,heritage:operator=IE:smr,,osm
+Q183-P113-3,Q183,P113,historic=ogham_stone,,osm
+Q183-P113-4,Q183,P113,name=Templebryan North Ogham Stone,,osm
+Q183-P113-5,Q183,P113,ref:IE:smr=CO122-075004-,,osm
+Q183-P113-6,Q183,P113,wikidata=Q21036926,,osm
+Q183-P113-7,Q183,P113,wikipedia=de:Oghamstein von Templebryan North,,osm
+,Q184,P2,Q100,,osm
+Q184-P100-1,Q184,P100,https://www.openstreetmap.org/node/4395991496,,osm
+Q184-P101-1,Q184,P101,https://www.openstreetmap.org/node/4395991496/history/1,,osm
+Q184-P101-2,Q184,P101,https://www.openstreetmap.org/node/4395991496/history/2,,osm
+Q184-P101-3,Q184,P101,https://www.openstreetmap.org/node/4395991496/history/3,,osm
+Q184-P101-4,Q184,P101,https://www.openstreetmap.org/node/4395991496/history/4,,osm
+Q184-P101-5,Q184,P101,https://www.openstreetmap.org/node/4395991496/history/5,preferred,osm
+Q184-P107-3,Q184,P107,https://www.openstreetmap.org/node/4395991496/history/3,,osm
+Q184-P110-1,Q184,P110,"52.1357501,-10.1307379",,osm
+Q184-P111-1,Q184,P111,POINT(-10.1307379 52.1357501),,osm
+Q184-P113-1,Q184,P113,fixme=separate two ogham stones and map as two nodes,,osm
+Q184-P113-2,Q184,P113,heritage=2,,osm
+Q184-P113-3,Q184,P113,heritage:operator=IE:smr,,osm
+Q184-P113-4,Q184,P113,historic=ogham_stone,,osm
+Q184-P113-5,Q184,P113,name=Lugnagappul Ogham Stones,,osm
+Q184-P113-6,Q184,P113,name:en=Lugnagappul Ogham Stones,,osm
+Q184-P113-7,Q184,P113,note=two ogham stones,,osm
+Q184-P113-8,Q184,P113,ref:IE:smr=KE054-033004-;KE054-033002-,,osm
+Q184-P113-9,Q184,P113,wikidata=Q2016156,,osm
+,Q185,P2,Q100,,osm
+Q185-P100-1,Q185,P100,https://www.openstreetmap.org/node/452289802,,osm
+Q185-P101-1,Q185,P101,https://www.openstreetmap.org/node/452289802/history/1,,osm
+Q185-P101-2,Q185,P101,https://www.openstreetmap.org/node/452289802/history/2,,osm
+Q185-P101-3,Q185,P101,https://www.openstreetmap.org/node/452289802/history/3,,osm
+Q185-P101-4,Q185,P101,https://www.openstreetmap.org/node/452289802/history/4,,osm
+Q185-P101-5,Q185,P101,https://www.openstreetmap.org/node/452289802/history/5,,osm
+Q185-P101-6,Q185,P101,https://www.openstreetmap.org/node/452289802/history/6,preferred,osm
+Q185-P107-2,Q185,P107,https://www.openstreetmap.org/node/452289802/history/2,,osm
+Q185-P110-1,Q185,P110,"51.7640921,-10.1218702",,osm
+Q185-P111-1,Q185,P111,POINT(-10.1219719 51.7640887),,osm
+Q185-P111-2,Q185,P111,POINT(-10.1218702 51.7640921),,osm
+Q185-P113-1,Q185,P113,heritage=2,,osm
+Q185-P113-2,Q185,P113,heritage:operator=IE:smr;IE:nm,,osm
+Q185-P113-3,Q185,P113,historic=ogham_stone,,osm
+Q185-P113-4,Q185,P113,name=Darrynane Beg Ogham Stone,,osm
+Q185-P113-5,Q185,P113,name:ga=Cloch Oghaim Dhoire Fhíonáin Beag,,osm
+Q185-P113-6,Q185,P113,ref:IE:nm=346,,osm
+Q185-P113-7,Q185,P113,ref:IE:smr=KE106-113,,osm
+Q185-P113-8,Q185,P113,wikidata=Q42377707,,osm
+Q185-P113-9,Q185,P113,wikipedia=en:Darrynane Beg Ogham Stone,,osm
+,Q186,P2,Q100,,osm
+Q186-P100-1,Q186,P100,https://www.openstreetmap.org/node/473149586,,osm
+Q186-P101-1,Q186,P101,https://www.openstreetmap.org/node/473149586/history/1,,osm
+Q186-P101-2,Q186,P101,https://www.openstreetmap.org/node/473149586/history/2,,osm
+Q186-P101-3,Q186,P101,https://www.openstreetmap.org/node/473149586/history/3,,osm
+Q186-P101-4,Q186,P101,https://www.openstreetmap.org/node/473149586/history/4,,osm
+Q186-P101-5,Q186,P101,https://www.openstreetmap.org/node/473149586/history/5,,osm
+Q186-P101-6,Q186,P101,https://www.openstreetmap.org/node/473149586/history/6,,osm
+Q186-P101-7,Q186,P101,https://www.openstreetmap.org/node/473149586/history/7,,osm
+Q186-P101-8,Q186,P101,https://www.openstreetmap.org/node/473149586/history/8,,osm
+Q186-P101-9,Q186,P101,https://www.openstreetmap.org/node/473149586/history/9,,osm
+Q186-P101-10,Q186,P101,https://www.openstreetmap.org/node/473149586/history/10,,osm
+Q186-P101-11,Q186,P101,https://www.openstreetmap.org/node/473149586/history/11,,osm
+Q186-P101-12,Q186,P101,https://www.openstreetmap.org/node/473149586/history/12,preferred,osm
+Q186-P107-6,Q186,P107,https://www.openstreetmap.org/node/473149586/history/6,,osm
+Q186-P110-1,Q186,P110,"51.7129549,-9.9441746",,osm
+Q186-P111-1,Q186,P111,POINT(-9.9441562 51.712994),,osm
+Q186-P111-7,Q186,P111,POINT(-9.9441746 51.7129549),,osm
+Q186-P113-1,Q186,P113,heritage=2,,osm
+Q186-P113-2,Q186,P113,heritage:operator=IE:smr;IE:nm,,osm
+Q186-P113-3,Q186,P113,historic=ogham_stone,,osm
+Q186-P113-4,Q186,P113,name=Ballycrovane Ogham Stone,,osm
+Q186-P113-5,Q186,P113,ref:IE:nm=426,,osm
+Q186-P113-6,Q186,P113,ref:IE:smr=CO102-013----,,osm
+Q186-P113-7,Q186,P113,sketchfab=co102-013-ogham-faunkill-and-the-woods-78f64a9071d441a8bb97eb8e8447b45a,,osm
+Q186-P113-8,Q186,P113,tourism=attraction,,osm
+Q186-P113-9,Q186,P113,url:sketchfab=https://skfb.ly/oMGRU,,osm
+Q186-P113-10,Q186,P113,wikidata=Q805400,,osm
+Q186-P113-11,Q186,P113,wikipedia=en:Ballycrovane Ogham Stone,,osm
+,Q187,P2,Q100,,osm
+Q187-P100-1,Q187,P100,https://www.openstreetmap.org/node/5111098877,,osm
+Q187-P101-1,Q187,P101,https://www.openstreetmap.org/node/5111098877/history/1,,osm
+Q187-P101-2,Q187,P101,https://www.openstreetmap.org/node/5111098877/history/2,,osm
+Q187-P101-3,Q187,P101,https://www.openstreetmap.org/node/5111098877/history/3,,osm
+Q187-P101-4,Q187,P101,https://www.openstreetmap.org/node/5111098877/history/4,,osm
+Q187-P101-5,Q187,P101,https://www.openstreetmap.org/node/5111098877/history/5,,osm
+Q187-P101-6,Q187,P101,https://www.openstreetmap.org/node/5111098877/history/6,,osm
+Q187-P101-7,Q187,P101,https://www.openstreetmap.org/node/5111098877/history/7,preferred,osm
+Q187-P107-3,Q187,P107,https://www.openstreetmap.org/node/5111098877/history/3,,osm
+Q187-P110-1,Q187,P110,"52.4465553,-7.365915",,osm
+Q187-P111-1,Q187,P111,POINT(-7.365915 52.4465553),,osm
+Q187-P113-1,Q187,P113,description=lying flat on the ground,,osm
+Q187-P113-2,Q187,P113,heritage=2,,osm
+Q187-P113-3,Q187,P113,heritage:operator=IE:smr,,osm
+Q187-P113-4,Q187,P113,historic=ogham_stone,,osm
+Q187-P113-5,Q187,P113,name=Lamoge Ogham Stone 1,,osm
+Q187-P113-6,Q187,P113,ref:IE:smr=KK034-013004-,,osm
+Q187-P113-7,Q187,P113,sketchfab=lamogue-kk034-013004-905ec11e2d6b46ac8e1948353c04e55f,,osm
+Q187-P113-8,Q187,P113,url:sketchfab=https://skfb.ly/oMGSG,,osm
+,Q188,P2,Q100,,osm
+Q188-P100-1,Q188,P100,https://www.openstreetmap.org/node/5111098878,,osm
+Q188-P101-1,Q188,P101,https://www.openstreetmap.org/node/5111098878/history/1,,osm
+Q188-P101-2,Q188,P101,https://www.openstreetmap.org/node/5111098878/history/2,,osm
+Q188-P101-3,Q188,P101,https://www.openstreetmap.org/node/5111098878/history/3,,osm
+Q188-P101-4,Q188,P101,https://www.openstreetmap.org/node/5111098878/history/4,,osm
+Q188-P101-5,Q188,P101,https://www.openstreetmap.org/node/5111098878/history/5,,osm
+Q188-P101-6,Q188,P101,https://www.openstreetmap.org/node/5111098878/history/6,,osm
+Q188-P101-7,Q188,P101,https://www.openstreetmap.org/node/5111098878/history/7,,osm
+Q188-P101-8,Q188,P101,https://www.openstreetmap.org/node/5111098878/history/8,preferred,osm
+Q188-P107-3,Q188,P107,https://www.openstreetmap.org/node/5111098878/history/3,,osm
+Q188-P110-1,Q188,P110,"52.4465447,-7.3658922",,osm
+Q188-P111-1,Q188,P111,POINT(-7.3658922 52.4465447),,osm
+Q188-P113-1,Q188,P113,"description=lying flat on the ground, more triangular in shape",,osm
+Q188-P113-2,Q188,P113,heritage=2,,osm
+Q188-P113-3,Q188,P113,heritage:operator=IE:smr,,osm
+Q188-P113-4,Q188,P113,historic=ogham_stone,,osm
+Q188-P113-5,Q188,P113,name=Lamoge Ogham Stone 2,,osm
+Q188-P113-6,Q188,P113,ref:IE:smr=KK034-013003-,,osm
+Q188-P113-7,Q188,P113,sketchfab=lamogue-kk034-013003-8a67b4b09dc0435c8b74c8f44811738c,,osm
+Q188-P113-8,Q188,P113,url:sketchfab=https://skfb.ly/oMGSF,,osm
+,Q189,P2,Q100,,osm
+Q189-P100-1,Q189,P100,https://www.openstreetmap.org/node/5145413640,,osm
+Q189-P101-1,Q189,P101,https://www.openstreetmap.org/node/5145413640/history/1,,osm
+Q189-P101-2,Q189,P101,https://www.openstreetmap.org/node/5145413640/history/2,,osm
+Q189-P101-3,Q189,P101,https://www.openstreetmap.org/node/5145413640/history/3,,osm
+Q189-P101-4,Q189,P101,https://www.openstreetmap.org/node/5145413640/history/4,,osm
+Q189-P101-5,Q189,P101,https://www.openstreetmap.org/node/5145413640/history/5,,osm
+Q189-P101-6,Q189,P101,https://www.openstreetmap.org/node/5145413640/history/6,,osm
+Q189-P101-7,Q189,P101,https://www.openstreetmap.org/node/5145413640/history/7,,osm
+Q189-P101-8,Q189,P101,https://www.openstreetmap.org/node/5145413640/history/8,,osm
+Q189-P101-9,Q189,P101,https://www.openstreetmap.org/node/5145413640/history/9,,osm
+Q189-P101-10,Q189,P101,https://www.openstreetmap.org/node/5145413640/history/10,preferred,osm
+Q189-P107-3,Q189,P107,https://www.openstreetmap.org/node/5145413640/history/3,,osm
+Q189-P110-1,Q189,P110,"52.1102541,-10.4731829",,osm
+Q189-P111-1,Q189,P111,POINT(-10.4731913 52.1102476),,osm
+Q189-P111-9,Q189,P111,POINT(-10.4731829 52.1102541),,osm
+Q189-P112-1,Q189,P112,Coumeenoole Ogham Stone (Dunmore Head).jpg,,osm
+Q189-P113-1,Q189,P113,heritage=2,,osm
+Q189-P113-2,Q189,P113,heritage:operator=IE:smr,,osm
+Q189-P113-3,Q189,P113,historic=ogham_stone,,osm
+Q189-P113-4,Q189,P113,inscription=ERC MAQI MAQI-ERCIAS MU DOVINIA,,osm
+Q189-P113-5,Q189,P113,moved=no,,osm
+Q189-P113-6,Q189,P113,name=CIIC 178,,osm
+Q189-P113-7,Q189,P113,project=ogham.link,,osm
+Q189-P113-8,Q189,P113,ref:IE:smr=KE052-059002-,,osm
+Q189-P113-9,Q189,P113,source=survey,,osm
+Q189-P113-10,Q189,P113,wikidata=Q70892682,,osm
+,Q190,P2,Q100,,osm
+Q190-P100-1,Q190,P100,https://www.openstreetmap.org/node/5965037771,,osm
+Q190-P101-1,Q190,P101,https://www.openstreetmap.org/node/5965037771/history/1,,osm
+Q190-P101-2,Q190,P101,https://www.openstreetmap.org/node/5965037771/history/2,,osm
+Q190-P101-3,Q190,P101,https://www.openstreetmap.org/node/5965037771/history/3,,osm
+Q190-P101-4,Q190,P101,https://www.openstreetmap.org/node/5965037771/history/4,,osm
+Q190-P101-5,Q190,P101,https://www.openstreetmap.org/node/5965037771/history/5,,osm
+Q190-P101-6,Q190,P101,https://www.openstreetmap.org/node/5965037771/history/6,,osm
+Q190-P101-7,Q190,P101,https://www.openstreetmap.org/node/5965037771/history/7,,osm
+Q190-P101-8,Q190,P101,https://www.openstreetmap.org/node/5965037771/history/8,,osm
+Q190-P101-9,Q190,P101,https://www.openstreetmap.org/node/5965037771/history/9,,osm
+Q190-P101-10,Q190,P101,https://www.openstreetmap.org/node/5965037771/history/10,,osm
+Q190-P101-11,Q190,P101,https://www.openstreetmap.org/node/5965037771/history/11,,osm
+Q190-P101-12,Q190,P101,https://www.openstreetmap.org/node/5965037771/history/12,,osm
+Q190-P101-13,Q190,P101,https://www.openstreetmap.org/node/5965037771/history/13,,osm
+Q190-P101-14,Q190,P101,https://www.openstreetmap.org/node/5965037771/history/14,,osm
+Q190-P101-15,Q190,P101,https://www.openstreetmap.org/node/5965037771/history/15,,osm
+Q190-P101-16,Q190,P101,https://www.openstreetmap.org/node/5965037771/history/16,preferred,osm
+Q190-P107-4,Q190,P107,https://www.openstreetmap.org/node/5965037771/history/4,,osm
+Q190-P110-1,Q190,P110,"52.579261,-7.1300141",,osm
+Q190-P111-1,Q190,P111,POINT(-7.130007 52.5792514),,osm
+Q190-P111-6,Q190,P111,POINT(-7.1300531 52.579266),,osm
+Q190-P111-8,Q190,P111,POINT(-7.1300145 52.5792684),,osm
+Q190-P111-11,Q190,P111,POINT(-7.1300141 52.579261),,osm
+Q190-P113-1,Q190,P113,access=yes,,osm
+Q190-P113-2,Q190,P113,alt_name=Loughboreen Ogham Stone,,osm
+Q190-P113-3,Q190,P113,description=Standing upright. Measurements taken at widest and tallest point above ground level,,osm
+Q190-P113-4,Q190,P113,height=1.64,,osm
+Q190-P113-5,Q190,P113,heritage=2,,osm
+Q190-P113-6,Q190,P113,heritage:operator=IE:smr,,osm
+Q190-P113-7,Q190,P113,historic=ogham_stone,,osm
+Q190-P113-8,Q190,P113,image=http://www.megalithicireland.com/Ogham%20stones/Tullaherin%20Ogham%20Stone.jpg,,osm
+Q190-P113-9,Q190,P113,moved=yes,,osm
+Q190-P113-10,Q190,P113,moved:from=Loughboreen,,osm
+Q190-P113-11,Q190,P113,name=Tullaherin Ogham Stone II,,osm
+Q190-P113-12,Q190,P113,ref:IE:smr=KK024-062009-,,osm
+Q190-P113-13,Q190,P113,source=local knowledge,,osm
+Q190-P113-14,Q190,P113,"source_ref=""In the Shadow of the Steeple"" Vol 1. 1987",,osm
+Q190-P113-15,Q190,P113,url:sketchfab=https://skfb.ly/oRsN8,,osm
+Q190-P113-16,Q190,P113,width=0.54,,osm
+Q190-P113-17,Q190,P113,wikidata=Q106674357,,osm
+,Q191,P2,Q100,,osm
+Q191-P100-1,Q191,P100,https://www.openstreetmap.org/node/600221596,,osm
+Q191-P101-1,Q191,P101,https://www.openstreetmap.org/node/600221596/history/1,,osm
+Q191-P101-2,Q191,P101,https://www.openstreetmap.org/node/600221596/history/2,,osm
+Q191-P101-3,Q191,P101,https://www.openstreetmap.org/node/600221596/history/3,,osm
+Q191-P101-4,Q191,P101,https://www.openstreetmap.org/node/600221596/history/4,,osm
+Q191-P101-5,Q191,P101,https://www.openstreetmap.org/node/600221596/history/5,,osm
+Q191-P101-6,Q191,P101,https://www.openstreetmap.org/node/600221596/history/6,,osm
+Q191-P101-7,Q191,P101,https://www.openstreetmap.org/node/600221596/history/7,,osm
+Q191-P101-8,Q191,P101,https://www.openstreetmap.org/node/600221596/history/8,,osm
+Q191-P101-9,Q191,P101,https://www.openstreetmap.org/node/600221596/history/9,preferred,osm
+Q191-P107-6,Q191,P107,https://www.openstreetmap.org/node/600221596/history/6,,osm
+Q191-P110-1,Q191,P110,"52.9958374,-6.5363958",,osm
+Q191-P111-1,Q191,P111,POINT(-6.5357657 52.9962822),,osm
+Q191-P111-2,Q191,P111,POINT(-6.5365693 52.9958844),,osm
+Q191-P111-3,Q191,P111,POINT(-6.5364604 52.9958305),,osm
+Q191-P111-9,Q191,P111,POINT(-6.5363958 52.9958374),,osm
+Q191-P113-1,Q191,P113,heritage=2,,osm
+Q191-P113-2,Q191,P113,heritage:operator=IE:smr,,osm
+Q191-P113-3,Q191,P113,historic=ogham_stone,,osm
+Q191-P113-4,Q191,P113,material=granite,,osm
+Q191-P113-5,Q191,P113,name=The Long Stone,,osm
+Q191-P113-6,Q191,P113,ref:IE:smr=WI022-012----,,osm
+Q191-P113-7,Q191,P113,website=https://ogham.celt.dias.ie/search.php?ciic=51,,osm
+,Q192,P2,Q100,,osm
+Q192-P100-1,Q192,P100,https://www.openstreetmap.org/node/6810674728,,osm
+Q192-P101-1,Q192,P101,https://www.openstreetmap.org/node/6810674728/history/1,,osm
+Q192-P101-2,Q192,P101,https://www.openstreetmap.org/node/6810674728/history/2,,osm
+Q192-P101-3,Q192,P101,https://www.openstreetmap.org/node/6810674728/history/3,,osm
+Q192-P101-4,Q192,P101,https://www.openstreetmap.org/node/6810674728/history/4,,osm
+Q192-P101-5,Q192,P101,https://www.openstreetmap.org/node/6810674728/history/5,,osm
+Q192-P101-6,Q192,P101,https://www.openstreetmap.org/node/6810674728/history/6,,osm
+Q192-P101-7,Q192,P101,https://www.openstreetmap.org/node/6810674728/history/7,preferred,osm
+Q192-P107-2,Q192,P107,https://www.openstreetmap.org/node/6810674728/history/2,,osm
+Q192-P110-1,Q192,P110,"52.0607426,-9.6334553",,osm
+Q192-P111-1,Q192,P111,POINT(-9.6334553 52.0607426),,osm
+Q192-P113-1,Q192,P113,heritage=2,,osm
+Q192-P113-2,Q192,P113,heritage:operator=IE:smr;IE:nm,,osm
+Q192-P113-3,Q192,P113,historic=ogham_stone,,osm
+Q192-P113-4,Q192,P113,inscription=MAQI-DECEDA MAQ̣[I],,osm
+Q192-P113-5,Q192,P113,material=stone,,osm
+Q192-P113-6,Q192,P113,name=CIIC 203,,osm
+Q192-P113-7,Q192,P113,ref:IE:nm=385,,osm
+Q192-P113-8,Q192,P113,ref:IE:smr=KE065-078008-,,osm
+Q192-P113-9,Q192,P113,wikidata=Q67978531,,osm
+Q192-P113-10,Q192,P113,wikipedia=en:Dunloe Ogham Stones,,osm
+,Q193,P2,Q100,,osm
+Q193-P100-1,Q193,P100,https://www.openstreetmap.org/node/7082293699,,osm
+Q193-P101-1,Q193,P101,https://www.openstreetmap.org/node/7082293699/history/1,,osm
+Q193-P101-2,Q193,P101,https://www.openstreetmap.org/node/7082293699/history/2,,osm
+Q193-P101-3,Q193,P101,https://www.openstreetmap.org/node/7082293699/history/3,,osm
+Q193-P101-4,Q193,P101,https://www.openstreetmap.org/node/7082293699/history/4,,osm
+Q193-P101-5,Q193,P101,https://www.openstreetmap.org/node/7082293699/history/5,,osm
+Q193-P101-6,Q193,P101,https://www.openstreetmap.org/node/7082293699/history/6,,osm
+Q193-P101-7,Q193,P101,https://www.openstreetmap.org/node/7082293699/history/7,,osm
+Q193-P101-8,Q193,P101,https://www.openstreetmap.org/node/7082293699/history/8,,osm
+Q193-P101-9,Q193,P101,https://www.openstreetmap.org/node/7082293699/history/9,preferred,osm
+Q193-P107-2,Q193,P107,https://www.openstreetmap.org/node/7082293699/history/2,,osm
+Q193-P110-1,Q193,P110,"52.2670369,-9.6818467",,osm
+Q193-P111-1,Q193,P111,POINT(-9.6818467 52.2670369),,osm
+Q193-P113-1,Q193,P113,heritage=2,,osm
+Q193-P113-2,Q193,P113,historic=ogham_stone,,osm
+Q193-P113-3,Q193,P113,inscription=[A]NM SILLANN MAQ VATTILLOGG,,osm
+Q193-P113-4,Q193,P113,material=sandstone,,osm
+Q193-P113-5,Q193,P113,ref:IE:nm=57,,osm
+Q193-P113-6,Q193,P113,ref:IE:smr=KE029-157002-,,osm
+Q193-P113-7,Q193,P113,"website=http://megalithicireland.com/Ratass%20Church,%20Tralee,%20Kerry.html?src=gpx",,osm
+Q193-P113-8,Q193,P113,wikidata=Q30247114,,osm
+Q193-P113-9,Q193,P113,wikipedia=en:Ratass Church,,osm
+,Q194,P2,Q100,,osm
+Q194-P100-1,Q194,P100,https://www.openstreetmap.org/node/7110849500,,osm
+Q194-P101-1,Q194,P101,https://www.openstreetmap.org/node/7110849500/history/1,,osm
+Q194-P101-2,Q194,P101,https://www.openstreetmap.org/node/7110849500/history/2,,osm
+Q194-P101-3,Q194,P101,https://www.openstreetmap.org/node/7110849500/history/3,,osm
+Q194-P101-4,Q194,P101,https://www.openstreetmap.org/node/7110849500/history/4,,osm
+Q194-P101-5,Q194,P101,https://www.openstreetmap.org/node/7110849500/history/5,,osm
+Q194-P101-6,Q194,P101,https://www.openstreetmap.org/node/7110849500/history/6,,osm
+Q194-P101-7,Q194,P101,https://www.openstreetmap.org/node/7110849500/history/7,,osm
+Q194-P101-8,Q194,P101,https://www.openstreetmap.org/node/7110849500/history/8,,osm
+Q194-P101-9,Q194,P101,https://www.openstreetmap.org/node/7110849500/history/9,,osm
+Q194-P101-10,Q194,P101,https://www.openstreetmap.org/node/7110849500/history/10,,osm
+Q194-P101-11,Q194,P101,https://www.openstreetmap.org/node/7110849500/history/11,,osm
+Q194-P101-12,Q194,P101,https://www.openstreetmap.org/node/7110849500/history/12,,osm
+Q194-P101-13,Q194,P101,https://www.openstreetmap.org/node/7110849500/history/13,preferred,osm
+Q194-P107-3,Q194,P107,https://www.openstreetmap.org/node/7110849500/history/3,,osm
+Q194-P107-5,Q194,P107,https://www.openstreetmap.org/node/7110849500/history/5,,osm
+Q194-P110-1,Q194,P110,"52.6554723,-7.1460975",,osm
+Q194-P111-1,Q194,P111,POINT(-7.146078 52.6554683),,osm
+Q194-P111-2,Q194,P111,POINT(-7.1460785 52.655473),,osm
+Q194-P111-13,Q194,P111,POINT(-7.1460975 52.6554723),,osm
+Q194-P113-1,Q194,P113,access=yes,,osm
+Q194-P113-2,Q194,P113,"description=Part of the church wall, low in the wall, left of the entrance.",,osm
+Q194-P113-3,Q194,P113,height=0.23,,osm
+Q194-P113-4,Q194,P113,heritage=2,,osm
+Q194-P113-5,Q194,P113,heritage:operator=IE:smr,,osm
+Q194-P113-6,Q194,P113,historic=ogham_stone,,osm
+Q194-P113-7,Q194,P113,inscription:en=f Gelán grandson of..?,,osm
+Q194-P113-8,Q194,P113,inscription:pgl-Latn=G[E]LẠGN[I A]V[I ̣ ̣ ? ̣ ̣,,osm
+Q194-P113-9,Q194,P113,material=sandstone,,osm
+Q194-P113-10,Q194,P113,moved=yes,,osm
+Q194-P113-11,Q194,P113,moved_to:wikidata=Q123024121,,osm
+Q194-P113-12,Q194,P113,name=Churchclara Ogham Stone II,,osm
+Q194-P113-13,Q194,P113,ref:IE:smr=KK020-017010-,,osm
+Q194-P113-14,Q194,P113,source=survey;https://ogham.celt.dias.ie,,osm
+Q194-P113-15,Q194,P113,source:inscription=https://ogham.celt.dias.ie,,osm
+Q194-P113-16,Q194,P113,source_ref=https://ogham.celt.dias.ie/stone.php?lang=en&site=Churchclara&stone=Churchclara_II,,osm
+Q194-P113-17,Q194,P113,url:sketchfab=https://skfb.ly/oM87P,,osm
+Q194-P113-18,Q194,P113,width=1.12,,osm
+,Q195,P2,Q100,,osm
+Q195-P100-1,Q195,P100,https://www.openstreetmap.org/node/7110849501,,osm
+Q195-P101-1,Q195,P101,https://www.openstreetmap.org/node/7110849501/history/1,,osm
+Q195-P101-2,Q195,P101,https://www.openstreetmap.org/node/7110849501/history/2,,osm
+Q195-P101-3,Q195,P101,https://www.openstreetmap.org/node/7110849501/history/3,,osm
+Q195-P101-4,Q195,P101,https://www.openstreetmap.org/node/7110849501/history/4,,osm
+Q195-P101-5,Q195,P101,https://www.openstreetmap.org/node/7110849501/history/5,,osm
+Q195-P101-6,Q195,P101,https://www.openstreetmap.org/node/7110849501/history/6,,osm
+Q195-P101-7,Q195,P101,https://www.openstreetmap.org/node/7110849501/history/7,,osm
+Q195-P101-8,Q195,P101,https://www.openstreetmap.org/node/7110849501/history/8,,osm
+Q195-P101-9,Q195,P101,https://www.openstreetmap.org/node/7110849501/history/9,,osm
+Q195-P101-10,Q195,P101,https://www.openstreetmap.org/node/7110849501/history/10,,osm
+Q195-P101-11,Q195,P101,https://www.openstreetmap.org/node/7110849501/history/11,preferred,osm
+Q195-P107-3,Q195,P107,https://www.openstreetmap.org/node/7110849501/history/3,,osm
+Q195-P107-5,Q195,P107,https://www.openstreetmap.org/node/7110849501/history/5,,osm
+Q195-P110-1,Q195,P110,"52.6554369,-7.1459396",,osm
+Q195-P111-1,Q195,P111,POINT(-7.1458294 52.6554413),,osm
+Q195-P111-2,Q195,P111,POINT(-7.1458376 52.655441),,osm
+Q195-P111-11,Q195,P111,POINT(-7.1459396 52.6554369),,osm
+Q195-P113-1,Q195,P113,access=yes,,osm
+Q195-P113-2,Q195,P113,height=0.22,,osm
+Q195-P113-3,Q195,P113,heritage=2,,osm
+Q195-P113-4,Q195,P113,heritage:operator=IE:smr,,osm
+Q195-P113-5,Q195,P113,historic=ogham_stone,,osm
+Q195-P113-6,Q195,P113,inscription:pgl-Latn=TAṢ[EGA]GN[I]/ [MAQ(?)]/ Ị MUC[O]Ị MAC̣[O]Ṛ[BO],,osm
+Q195-P113-7,Q195,P113,location=east window on the outside of the wall,,osm
+Q195-P113-8,Q195,P113,material=sandstone,,osm
+Q195-P113-9,Q195,P113,moved=yes,,osm
+Q195-P113-10,Q195,P113,moved_to:wikidata=Q123024121,,osm
+Q195-P113-11,Q195,P113,name=Churchclara Ogham Stone I,,osm
+Q195-P113-12,Q195,P113,ref:IE:smr=KK020-017003-,,osm
+Q195-P113-13,Q195,P113,source=survey;O'Kelly's Placenames p. 66,,osm
+Q195-P113-14,Q195,P113,source:inscription=https://ogham.celt.dias.ie,,osm
+Q195-P113-15,Q195,P113,source_ref=https://ogham.celt.dias.ie/stone.php?lang=en&site=Churchclara&stone=28._Churchclara_I,,osm
+Q195-P113-16,Q195,P113,width=1.56,,osm
+,Q196,P2,Q100,,osm
+Q196-P100-1,Q196,P100,https://www.openstreetmap.org/node/7203972860,,osm
+Q196-P101-1,Q196,P101,https://www.openstreetmap.org/node/7203972860/history/1,,osm
+Q196-P101-2,Q196,P101,https://www.openstreetmap.org/node/7203972860/history/2,,osm
+Q196-P101-3,Q196,P101,https://www.openstreetmap.org/node/7203972860/history/3,,osm
+Q196-P101-4,Q196,P101,https://www.openstreetmap.org/node/7203972860/history/4,preferred,osm
+Q196-P107-4,Q196,P107,https://www.openstreetmap.org/node/7203972860/history/4,,osm
+Q196-P110-1,Q196,P110,"52.1788809,-10.3881606",,osm
+Q196-P111-1,Q196,P111,POINT(-10.3881606 52.1788809),,osm
+Q196-P112-1,Q196,P112,County Kerry - Ballinrannig Stone - 20060103222940.jpg,,osm
+Q196-P113-1,Q196,P113,archaeological_site=megalith,,osm
+Q196-P113-2,Q196,P113,heritage=yes,,osm
+Q196-P113-3,Q196,P113,historic=ogham_stone,,osm
+Q196-P113-4,Q196,P113,inscription=CUNAMAQQI CORBBI MAQQ[I MUCCOI DOVVINIA]S,,osm
+Q196-P113-5,Q196,P113,moved=no,,osm
+Q196-P113-6,Q196,P113,name=Ballinrannig Stone VII (CIIC 154),,osm
+Q196-P113-7,Q196,P113,project=ogham.link,,osm
+Q196-P113-8,Q196,P113,ref:IE:smr=KE042-057003-,,osm
+Q196-P113-9,Q196,P113,source=survey,,osm
+Q196-P113-10,Q196,P113,wikidata=Q30247257,,osm
+,Q197,P2,Q100,,osm
+Q197-P100-1,Q197,P100,https://www.openstreetmap.org/node/7925063785,,osm
+Q197-P101-1,Q197,P101,https://www.openstreetmap.org/node/7925063785/history/1,,osm
+Q197-P101-2,Q197,P101,https://www.openstreetmap.org/node/7925063785/history/2,,osm
+Q197-P101-3,Q197,P101,https://www.openstreetmap.org/node/7925063785/history/3,,osm
+Q197-P101-4,Q197,P101,https://www.openstreetmap.org/node/7925063785/history/4,preferred,osm
+Q197-P107-3,Q197,P107,https://www.openstreetmap.org/node/7925063785/history/3,,osm
+Q197-P110-1,Q197,P110,"51.9488162,-7.7259219",,osm
+Q197-P111-1,Q197,P111,POINT(-7.7258898 51.9488499),,osm
+Q197-P111-2,Q197,P111,POINT(-7.7259219 51.9488162),,osm
+Q197-P113-1,Q197,P113,historic=ogham_stone,,osm
+Q197-P113-2,Q197,P113,name=Lugudeccas Stone,,osm
+Q197-P113-3,Q197,P113,ref:IE:smr=WA040-008025-,,osm
+Q197-P113-4,Q197,P113,wikidata=Q19297554,,osm
+,Q198,P2,Q100,,osm
+Q198-P100-1,Q198,P100,https://www.openstreetmap.org/node/8308921075,,osm
+Q198-P101-1,Q198,P101,https://www.openstreetmap.org/node/8308921075/history/1,,osm
+Q198-P101-2,Q198,P101,https://www.openstreetmap.org/node/8308921075/history/2,,osm
+Q198-P101-3,Q198,P101,https://www.openstreetmap.org/node/8308921075/history/3,,osm
+Q198-P101-4,Q198,P101,https://www.openstreetmap.org/node/8308921075/history/4,,osm
+Q198-P101-5,Q198,P101,https://www.openstreetmap.org/node/8308921075/history/5,,osm
+Q198-P101-6,Q198,P101,https://www.openstreetmap.org/node/8308921075/history/6,,osm
+Q198-P101-7,Q198,P101,https://www.openstreetmap.org/node/8308921075/history/7,,osm
+Q198-P101-8,Q198,P101,https://www.openstreetmap.org/node/8308921075/history/8,,osm
+Q198-P101-9,Q198,P101,https://www.openstreetmap.org/node/8308921075/history/9,,osm
+Q198-P101-10,Q198,P101,https://www.openstreetmap.org/node/8308921075/history/10,,osm
+Q198-P101-11,Q198,P101,https://www.openstreetmap.org/node/8308921075/history/11,preferred,osm
+Q198-P107-2,Q198,P107,https://www.openstreetmap.org/node/8308921075/history/2,,osm
+Q198-P110-1,Q198,P110,"52.4642462,-7.2251274",,osm
+Q198-P111-1,Q198,P111,POINT(-7.2251274 52.4642462),,osm
+Q198-P113-1,Q198,P113,access=yes,,osm
+Q198-P113-2,Q198,P113,"description=Lying flat on the ground, surrounded by wooden fence.",,osm
+Q198-P113-3,Q198,P113,heritage=2,,osm
+Q198-P113-4,Q198,P113,historic=ogham_stone,,osm
+Q198-P113-5,Q198,P113,name=Ballyboodan Ogham Stone,,osm
+Q198-P113-6,Q198,P113,ref:IE:nm=599,,osm
+Q198-P113-7,Q198,P113,ref:IE:smr=KK031-058,,osm
+Q198-P113-8,Q198,P113,sketchfab=ballyboodan-ogham-stone-6b733b9fd210496bbe555b3c426ff182,,osm
+Q198-P113-9,Q198,P113,url:sketchfab=https://skfb.ly/FJFG,,osm
+Q198-P113-10,Q198,P113,wikidata=Q28232281,,osm
+Q198-P113-11,Q198,P113,wikipedia=en:Ballyboodan Ogham Stone,,osm
+,Q199,P2,Q100,,osm
+Q199-P100-1,Q199,P100,https://www.openstreetmap.org/node/8355471227,,osm
+Q199-P101-1,Q199,P101,https://www.openstreetmap.org/node/8355471227/history/1,,osm
+Q199-P101-2,Q199,P101,https://www.openstreetmap.org/node/8355471227/history/2,,osm
+Q199-P101-3,Q199,P101,https://www.openstreetmap.org/node/8355471227/history/3,,osm
+Q199-P101-4,Q199,P101,https://www.openstreetmap.org/node/8355471227/history/4,preferred,osm
+Q199-P107-2,Q199,P107,https://www.openstreetmap.org/node/8355471227/history/2,,osm
+Q199-P110-1,Q199,P110,"52.5619056,-8.7788645",,osm
+Q199-P111-1,Q199,P111,POINT(-8.7772246 52.5620909),,osm
+Q199-P111-3,Q199,P111,POINT(-8.7788752 52.5619399),,osm
+Q199-P111-4,Q199,P111,POINT(-8.7788645 52.5619056),,osm
+Q199-P113-1,Q199,P113,fixme=heights need to be measured and context shot taken to identify them and attribute ref:IE:smr,,osm
+Q199-P113-2,Q199,P113,historic=ogham_stone,,osm
+Q199-P113-3,Q199,P113,moved=yes,,osm
+,Q200,P2,Q100,,osm
+Q200-P100-1,Q200,P100,https://www.openstreetmap.org/node/8355471228,,osm
+Q200-P101-1,Q200,P101,https://www.openstreetmap.org/node/8355471228/history/1,,osm
+Q200-P101-2,Q200,P101,https://www.openstreetmap.org/node/8355471228/history/2,,osm
+Q200-P101-3,Q200,P101,https://www.openstreetmap.org/node/8355471228/history/3,,osm
+Q200-P101-4,Q200,P101,https://www.openstreetmap.org/node/8355471228/history/4,preferred,osm
+Q200-P107-2,Q200,P107,https://www.openstreetmap.org/node/8355471228/history/2,,osm
+Q200-P110-1,Q200,P110,"52.5619303,-8.7788896",,osm
+Q200-P111-1,Q200,P111,POINT(-8.7771696 52.5620803),,osm
+Q200-P111-3,Q200,P111,POINT(-8.7789003 52.5619646),,osm
+Q200-P111-4,Q200,P111,POINT(-8.7788896 52.5619303),,osm
+Q200-P113-1,Q200,P113,fixme=heights need to be measured and context shot taken to identify them and attribute ref:IE:smr,,osm
+Q200-P113-2,Q200,P113,historic=ogham_stone,,osm
+Q200-P113-3,Q200,P113,moved=yes,,osm
+,Q201,P2,Q100,,osm
+Q201-P100-1,Q201,P100,https://www.openstreetmap.org/node/8355471229,,osm
+Q201-P101-1,Q201,P101,https://www.openstreetmap.org/node/8355471229/history/1,,osm
+Q201-P101-2,Q201,P101,https://www.openstreetmap.org/node/8355471229/history/2,,osm
+Q201-P101-3,Q201,P101,https://www.openstreetmap.org/node/8355471229/history/3,,osm
+Q201-P101-4,Q201,P101,https://www.openstreetmap.org/node/8355471229/history/4,preferred,osm
+Q201-P107-2,Q201,P107,https://www.openstreetmap.org/node/8355471229/history/2,,osm
+Q201-P110-1,Q201,P110,"52.561976,-8.7788418",,osm
+Q201-P111-1,Q201,P111,POINT(-8.7771843 52.562117),,osm
+Q201-P111-3,Q201,P111,POINT(-8.7788525 52.5620103),,osm
+Q201-P111-4,Q201,P111,POINT(-8.7788418 52.561976),,osm
+Q201-P113-1,Q201,P113,fixme=heights need to be measured and context shot taken to identify them and attribute ref:IE:smr,,osm
+Q201-P113-2,Q201,P113,historic=ogham_stone,,osm
+Q201-P113-3,Q201,P113,moved=yes,,osm
+,Q202,P2,Q100,,osm
+Q202-P100-1,Q202,P100,https://www.openstreetmap.org/node/8355471230,,osm
+Q202-P101-1,Q202,P101,https://www.openstreetmap.org/node/8355471230/history/1,,osm
+Q202-P101-2,Q202,P101,https://www.openstreetmap.org/node/8355471230/history/2,,osm
+Q202-P101-3,Q202,P101,https://www.openstreetmap.org/node/8355471230/history/3,,osm
+Q202-P101-4,Q202,P101,https://www.openstreetmap.org/node/8355471230/history/4,preferred,osm
+Q202-P107-2,Q202,P107,https://www.openstreetmap.org/node/8355471230/history/2,,osm
+Q202-P110-1,Q202,P110,"52.561926,-8.778782",,osm
+Q202-P111-1,Q202,P111,POINT(-8.7772299 52.5621341),,osm
+Q202-P111-3,Q202,P111,POINT(-8.7787927 52.5619603),,osm
+Q202-P111-4,Q202,P111,POINT(-8.778782 52.561926),,osm
+Q202-P113-1,Q202,P113,fixme=heights need to be measured and context shot taken to identify them and attribute ref:IE:smr,,osm
+Q202-P113-2,Q202,P113,historic=ogham_stone,,osm
+Q202-P113-3,Q202,P113,moved=yes,,osm
+,Q203,P2,Q100,,osm
+Q203-P100-1,Q203,P100,https://www.openstreetmap.org/node/8355471231,,osm
+Q203-P101-1,Q203,P101,https://www.openstreetmap.org/node/8355471231/history/1,,osm
+Q203-P101-2,Q203,P101,https://www.openstreetmap.org/node/8355471231/history/2,,osm
+Q203-P101-3,Q203,P101,https://www.openstreetmap.org/node/8355471231/history/3,,osm
+Q203-P101-4,Q203,P101,https://www.openstreetmap.org/node/8355471231/history/4,preferred,osm
+Q203-P107-2,Q203,P107,https://www.openstreetmap.org/node/8355471231/history/2,,osm
+Q203-P110-1,Q203,P110,"52.5619817,-8.7787799",,osm
+Q203-P111-1,Q203,P111,POINT(-8.7772755 52.5621227),,osm
+Q203-P111-3,Q203,P111,POINT(-8.7787906 52.562016),,osm
+Q203-P111-4,Q203,P111,POINT(-8.7787799 52.5619817),,osm
+Q203-P113-1,Q203,P113,height=1.4,,osm
+Q203-P113-2,Q203,P113,historic=ogham_stone,,osm
+,Q204,P2,Q100,,osm
+Q204-P100-1,Q204,P100,https://www.openstreetmap.org/node/8494707479,,osm
+Q204-P101-1,Q204,P101,https://www.openstreetmap.org/node/8494707479/history/1,,osm
+Q204-P101-2,Q204,P101,https://www.openstreetmap.org/node/8494707479/history/2,,osm
+Q204-P101-3,Q204,P101,https://www.openstreetmap.org/node/8494707479/history/3,,osm
+Q204-P101-4,Q204,P101,https://www.openstreetmap.org/node/8494707479/history/4,,osm
+Q204-P101-5,Q204,P101,https://www.openstreetmap.org/node/8494707479/history/5,,osm
+Q204-P101-6,Q204,P101,https://www.openstreetmap.org/node/8494707479/history/6,,osm
+Q204-P101-7,Q204,P101,https://www.openstreetmap.org/node/8494707479/history/7,,osm
+Q204-P101-8,Q204,P101,https://www.openstreetmap.org/node/8494707479/history/8,,osm
+Q204-P101-9,Q204,P101,https://www.openstreetmap.org/node/8494707479/history/9,,osm
+Q204-P101-10,Q204,P101,https://www.openstreetmap.org/node/8494707479/history/10,preferred,osm
+Q204-P107-2,Q204,P107,https://www.openstreetmap.org/node/8494707479/history/2,,osm
+Q204-P110-1,Q204,P110,"52.5792662,-7.1299631",,osm
+Q204-P111-1,Q204,P111,POINT(-7.1300087 52.5792697),,osm
+Q204-P111-3,Q204,P111,POINT(-7.1299701 52.5792721),,osm
+Q204-P111-6,Q204,P111,POINT(-7.1299631 52.5792662),,osm
+Q204-P113-1,Q204,P113,access=yes,,osm
+Q204-P113-2,Q204,P113,"description=White, standing ogham stone.",,osm
+Q204-P113-3,Q204,P113,height=0.66,,osm
+Q204-P113-4,Q204,P113,heritage=2,,osm
+Q204-P113-5,Q204,P113,heritage:operator=IE:smr,,osm
+Q204-P113-6,Q204,P113,historic=ogham_stone,,osm
+Q204-P113-7,Q204,P113,historic:civilization=medieval,,osm
+Q204-P113-8,Q204,P113,moved=no,,osm
+Q204-P113-9,Q204,P113,name=Tullaherin Ogham Stone I,,osm
+Q204-P113-10,Q204,P113,note=The dimensions are measured from the widest point and the highest point from above the ground.,,osm
+Q204-P113-11,Q204,P113,ref:IE:smr=KK024-062005-,,osm
+Q204-P113-12,Q204,P113,source=local knowledge,,osm
+Q204-P113-13,Q204,P113,"source_ref=""In the Shadow of the Steeple"" Vol 1. 1987",,osm
+Q204-P113-14,Q204,P113,url:sketchfab=https://skfb.ly/oRsPU,,osm
+Q204-P113-15,Q204,P113,width=0.23,,osm
+Q204-P113-16,Q204,P113,wikidata=Q106674310,,osm
+,Q205,P2,Q100,,osm
+Q205-P100-1,Q205,P100,https://www.openstreetmap.org/node/8520931982,,osm
+Q205-P101-1,Q205,P101,https://www.openstreetmap.org/node/8520931982/history/1,,osm
+Q205-P101-2,Q205,P101,https://www.openstreetmap.org/node/8520931982/history/2,,osm
+Q205-P101-3,Q205,P101,https://www.openstreetmap.org/node/8520931982/history/3,,osm
+Q205-P101-4,Q205,P101,https://www.openstreetmap.org/node/8520931982/history/4,,osm
+Q205-P101-5,Q205,P101,https://www.openstreetmap.org/node/8520931982/history/5,,osm
+Q205-P101-6,Q205,P101,https://www.openstreetmap.org/node/8520931982/history/6,,osm
+Q205-P101-7,Q205,P101,https://www.openstreetmap.org/node/8520931982/history/7,,osm
+Q205-P101-8,Q205,P101,https://www.openstreetmap.org/node/8520931982/history/8,,osm
+Q205-P101-9,Q205,P101,https://www.openstreetmap.org/node/8520931982/history/9,,osm
+Q205-P101-10,Q205,P101,https://www.openstreetmap.org/node/8520931982/history/10,,osm
+Q205-P101-11,Q205,P101,https://www.openstreetmap.org/node/8520931982/history/11,preferred,osm
+Q205-P107-1,Q205,P107,https://www.openstreetmap.org/node/8520931982/history/1,,osm
+Q205-P110-1,Q205,P110,"52.6542733,-7.254818",,osm
+Q205-P111-1,Q205,P111,POINT(-7.254818 52.6542733),,osm
+Q205-P113-1,Q205,P113,access=customers,,osm
+Q205-P113-2,Q205,P113,"description=Find location was near Shankill, Co. Kilkenny in 1970. Authenticity is doubted. Location varies, periodically moved within the museum.",,osm
+Q205-P113-3,Q205,P113,height=0.58,,osm
+Q205-P113-4,Q205,P113,heritage=2,,osm
+Q205-P113-5,Q205,P113,heritage:operator=IE:smr,,osm
+Q205-P113-6,Q205,P113,historic=ogham_stone,,osm
+Q205-P113-7,Q205,P113,inscription:en=of Mac-Conlach/Conlang son of Cóel descendant of Cosc,,osm
+Q205-P113-8,Q205,P113,inscription:pgl-Latn=MAQICUNALIGẸẠṢ / MAQI COILLI/ MUCOI COSCỊ/̣ẸẠṢ,,osm
+Q205-P113-9,Q205,P113,level=2,,osm
+Q205-P113-10,Q205,P113,material=stone,,osm
+Q205-P113-11,Q205,P113,ref:IE:smr=KK019-131----,,osm
+Q205-P113-12,Q205,P113,sketchfab=shankill-kk019-131-65c3c5e326e442ffad8f87e2a533a070,,osm
+Q205-P113-13,Q205,P113,source=museum's label,,osm
+Q205-P113-14,Q205,P113,source_ref=https://ogham.celt.dias.ie/stone.php?lang=en&site=Rothe_House&stone=Shankill&stoneinfo=description,,osm
+Q205-P113-15,Q205,P113,stone=carboniferous_limestone,,osm
+Q205-P113-16,Q205,P113,url:sketchfab=https://skfb.ly/6TZ6U,,osm
+Q205-P113-17,Q205,P113,width=0.14,,osm
+,Q206,P2,Q100,,osm
+Q206-P100-1,Q206,P100,https://www.openstreetmap.org/node/8520962885,,osm
+Q206-P101-1,Q206,P101,https://www.openstreetmap.org/node/8520962885/history/1,,osm
+Q206-P101-2,Q206,P101,https://www.openstreetmap.org/node/8520962885/history/2,,osm
+Q206-P101-3,Q206,P101,https://www.openstreetmap.org/node/8520962885/history/3,,osm
+Q206-P101-4,Q206,P101,https://www.openstreetmap.org/node/8520962885/history/4,,osm
+Q206-P101-5,Q206,P101,https://www.openstreetmap.org/node/8520962885/history/5,,osm
+Q206-P101-6,Q206,P101,https://www.openstreetmap.org/node/8520962885/history/6,preferred,osm
+Q206-P107-1,Q206,P107,https://www.openstreetmap.org/node/8520962885/history/1,,osm
+Q206-P110-1,Q206,P110,"52.5108035,-7.1574784",,osm
+Q206-P111-1,Q206,P111,POINT(-7.1574784 52.5108035),,osm
+Q206-P113-1,Q206,P113,access=customers,,osm
+Q206-P113-2,Q206,P113,depth=0.2,,osm
+Q206-P113-3,Q206,P113,description=Original location was Cloghabrody north of Thomastown.,,osm
+Q206-P113-4,Q206,P113,height=1.46,,osm
+Q206-P113-5,Q206,P113,heritage=2,,osm
+Q206-P113-6,Q206,P113,heritage:operator=IE:smr,,osm
+Q206-P113-7,Q206,P113,historic=ogham_stone,,osm
+Q206-P113-8,Q206,P113,inscription:en=of Fedelmid/Feidlimid descendant of Loígde grandson of Muinchú,,osm
+Q206-P113-9,Q206,P113,inscription:pgl-Latn=VEDDELLEMETTO MU/CI/ LOGIDDEAS/ AVVI MUNICCONA,,osm
+Q206-P113-10,Q206,P113,moved=yes,,osm
+Q206-P113-11,Q206,P113,ref:IE:smr=KK028-062011-,,osm
+Q206-P113-12,Q206,P113,source=local knowledge,,osm
+Q206-P113-13,Q206,P113,source:ref=https://ogham.celt.dias.ie/stone.php?lang=en&site=Jerpoint_Abbey&stone=Cloghabrody,,osm
+Q206-P113-14,Q206,P113,url:sketchfab=https://skfb.ly/oMGSR,,osm
+Q206-P113-15,Q206,P113,width=0.31,,osm
+,Q207,P2,Q100,,osm
+Q207-P100-1,Q207,P100,https://www.openstreetmap.org/node/8584276628,,osm
+Q207-P101-1,Q207,P101,https://www.openstreetmap.org/node/8584276628/history/1,,osm
+Q207-P101-2,Q207,P101,https://www.openstreetmap.org/node/8584276628/history/2,,osm
+Q207-P101-3,Q207,P101,https://www.openstreetmap.org/node/8584276628/history/3,,osm
+Q207-P101-4,Q207,P101,https://www.openstreetmap.org/node/8584276628/history/4,preferred,osm
+Q207-P107-1,Q207,P107,https://www.openstreetmap.org/node/8584276628/history/1,,osm
+Q207-P110-1,Q207,P110,"52.1691185,-9.7258022",,osm
+Q207-P111-1,Q207,P111,POINT(-9.7258022 52.1691185),,osm
+Q207-P113-1,Q207,P113,heritage=2,,osm
+Q207-P113-2,Q207,P113,historic=ogham_stone,,osm
+Q207-P113-3,Q207,P113,moved=yes,,osm
+Q207-P113-4,Q207,P113,name=Ardcanaght Ogham Stone,,osm
+Q207-P113-5,Q207,P113,ref:IE:nm=430,,osm
+Q207-P113-6,Q207,P113,ref:IE:smr=KE047-026001-,,osm
+Q207-P113-7,Q207,P113,source=https://ogham.celt.dias.ie/stone.php?lang=en&site=Ardcanaght&stone=246a._Ardcanaght_I,,osm
+Q207-P113-8,Q207,P113,wikidata=Q38251860,,osm
+Q207-P113-9,Q207,P113,wikipedia=en:Ardcanaght Stones,,osm
+,Q208,P2,Q100,,osm
+Q208-P100-1,Q208,P100,https://www.openstreetmap.org/node/9110402648,,osm
+Q208-P101-1,Q208,P101,https://www.openstreetmap.org/node/9110402648/history/1,,osm
+Q208-P101-2,Q208,P101,https://www.openstreetmap.org/node/9110402648/history/2,,osm
+Q208-P101-3,Q208,P101,https://www.openstreetmap.org/node/9110402648/history/3,,osm
+Q208-P101-4,Q208,P101,https://www.openstreetmap.org/node/9110402648/history/4,,osm
+Q208-P101-5,Q208,P101,https://www.openstreetmap.org/node/9110402648/history/5,,osm
+Q208-P101-6,Q208,P101,https://www.openstreetmap.org/node/9110402648/history/6,,osm
+Q208-P101-7,Q208,P101,https://www.openstreetmap.org/node/9110402648/history/7,,osm
+Q208-P101-8,Q208,P101,https://www.openstreetmap.org/node/9110402648/history/8,,osm
+Q208-P101-9,Q208,P101,https://www.openstreetmap.org/node/9110402648/history/9,,osm
+Q208-P101-10,Q208,P101,https://www.openstreetmap.org/node/9110402648/history/10,,osm
+Q208-P101-11,Q208,P101,https://www.openstreetmap.org/node/9110402648/history/11,,osm
+Q208-P101-12,Q208,P101,https://www.openstreetmap.org/node/9110402648/history/12,,osm
+Q208-P101-13,Q208,P101,https://www.openstreetmap.org/node/9110402648/history/13,,osm
+Q208-P101-14,Q208,P101,https://www.openstreetmap.org/node/9110402648/history/14,preferred,osm
+Q208-P107-1,Q208,P107,https://www.openstreetmap.org/node/9110402648/history/1,,osm
+Q208-P110-1,Q208,P110,"52.1847478,-10.3364628",,osm
+Q208-P111-1,Q208,P111,POINT(-10.3365 52.1847635),,osm
+Q208-P111-2,Q208,P111,POINT(-10.3364628 52.1847478),,osm
+Q208-P112-1,Q208,P112,Kirche von Kilmalkedar.JPG,,osm
+Q208-P113-1,Q208,P113,heritage=2,,osm
+Q208-P113-2,Q208,P113,heritage:operator=IE:smr,,osm
+Q208-P113-3,Q208,P113,historic=ogham_stone,,osm
+Q208-P113-4,Q208,P113,image=https://www.flickr.com/photos/196367420@N05/52324823400/in/album-72177720301745883/,,osm
+Q208-P113-5,Q208,P113,inscription=ẠṆM MẠỊLE-INBIR MACI BROCANN,,osm
+Q208-P113-6,Q208,P113,moved=no,,osm
+Q208-P113-7,Q208,P113,name=CIIC 187,,osm
+Q208-P113-8,Q208,P113,project=ogham.link,,osm
+Q208-P113-9,Q208,P113,ref:IE:smr=KE042-026001-,,osm
+Q208-P113-10,Q208,P113,sketchfab=kilmalkedar-ogham-stone-rgb-27a2344de48842978505db558cc0712c,,osm
+Q208-P113-11,Q208,P113,source=https://holywellscorkandkerry.com/2019/08/21/two-wells-a-whole-lot-more-at-cill-mhaoilcheadair/;survey,,osm
+Q208-P113-12,Q208,P113,url:sketchfab=https://skfb.ly/6opHY,,osm
+Q208-P113-13,Q208,P113,wikidata=Q70892706,,osm
+,Q209,P2,Q100,,osm
+Q209-P100-1,Q209,P100,https://www.openstreetmap.org/node/9990835587,,osm
+Q209-P101-1,Q209,P101,https://www.openstreetmap.org/node/9990835587/history/1,,osm
+Q209-P101-2,Q209,P101,https://www.openstreetmap.org/node/9990835587/history/2,,osm
+Q209-P101-3,Q209,P101,https://www.openstreetmap.org/node/9990835587/history/3,,osm
+Q209-P101-4,Q209,P101,https://www.openstreetmap.org/node/9990835587/history/4,,osm
+Q209-P101-5,Q209,P101,https://www.openstreetmap.org/node/9990835587/history/5,,osm
+Q209-P101-6,Q209,P101,https://www.openstreetmap.org/node/9990835587/history/6,,osm
+Q209-P101-7,Q209,P101,https://www.openstreetmap.org/node/9990835587/history/7,,osm
+Q209-P101-8,Q209,P101,https://www.openstreetmap.org/node/9990835587/history/8,,osm
+Q209-P101-9,Q209,P101,https://www.openstreetmap.org/node/9990835587/history/9,,osm
+Q209-P101-10,Q209,P101,https://www.openstreetmap.org/node/9990835587/history/10,,osm
+Q209-P101-11,Q209,P101,https://www.openstreetmap.org/node/9990835587/history/11,,osm
+Q209-P101-12,Q209,P101,https://www.openstreetmap.org/node/9990835587/history/12,,osm
+Q209-P101-13,Q209,P101,https://www.openstreetmap.org/node/9990835587/history/13,,osm
+Q209-P101-14,Q209,P101,https://www.openstreetmap.org/node/9990835587/history/14,,osm
+Q209-P101-15,Q209,P101,https://www.openstreetmap.org/node/9990835587/history/15,,osm
+Q209-P101-16,Q209,P101,https://www.openstreetmap.org/node/9990835587/history/16,,osm
+Q209-P101-17,Q209,P101,https://www.openstreetmap.org/node/9990835587/history/17,,osm
+Q209-P101-18,Q209,P101,https://www.openstreetmap.org/node/9990835587/history/18,preferred,osm
+Q209-P107-1,Q209,P107,https://www.openstreetmap.org/node/9990835587/history/1,,osm
+Q209-P107-7,Q209,P107,https://www.openstreetmap.org/node/9990835587/history/7,,osm
+Q209-P110-1,Q209,P110,"51.8937512,-8.4922982",,osm
+Q209-P111-1,Q209,P111,POINT(-8.4920871 51.8938181),,osm
+Q209-P111-15,Q209,P111,POINT(-8.492308 51.8937665),,osm
+Q209-P111-17,Q209,P111,POINT(-8.4922982 51.8937512),,osm
+Q209-P113-1,Q209,P113,depth=0.55,,osm
+Q209-P113-2,Q209,P113,historic=ogham_stone,,osm
+Q209-P113-3,Q209,P113,image=https://flic.kr/p/2omvCu6,,osm
+Q209-P113-4,Q209,P113,image:license=CC BY-NC-SA 2.0,,osm
+Q209-P113-5,Q209,P113,indoor=yes,,osm
+Q209-P113-6,Q209,P113,inscription=GRIMIGGN[I MAQ]I CERC...,,osm
+Q209-P113-7,Q209,P113,inscription:pgl-Latn=GRI[ ]GGN CERR...,,osm
+Q209-P113-8,Q209,P113,moved=yes,,osm
+Q209-P113-9,Q209,P113,"moved_from=Knockshanawee, Co. Cork souterrain",,osm
+Q209-P113-10,Q209,P113,moved_to:wikidata=Q69379477,,osm
+Q209-P113-11,Q209,P113,name=CIIC 114/ UCC 26,,osm
+Q209-P113-12,Q209,P113,project=ogham.link,,osm
+Q209-P113-13,Q209,P113,ref:IE:smr=CO074-139----,,osm
+Q209-P113-14,Q209,P113,source=survey,,osm
+Q209-P113-15,Q209,P113,width=0.15,,osm
+Q209-P113-16,Q209,P113,wikidata=Q70885736,,osm
+,Q210,P2,Q100,,osm
+Q210-P100-1,Q210,P100,https://www.openstreetmap.org/relation/20680079,,osm
+Q210-P101-1,Q210,P101,https://www.openstreetmap.org/relation/20680079/history/1,preferred,osm
+Q210-P107-1,Q210,P107,https://www.openstreetmap.org/relation/20680079/history/1,,osm
+Q210-P110-1,Q210,P110,"52.2758413,-9.6424687",,osm
+Q210-P111-g1,Q210,P111,"MULTIPOINT((-9.6424841 52.2758388), (-9.6424533 52.2758438))",,osm
+Q210-P112-1,Q210,P112,Tullygarran Ogham Stones.jpg,,osm
+Q210-P113-1,Q210,P113,heritage=2,,osm
+Q210-P113-2,Q210,P113,historic=ogham_stone,,osm
+Q210-P113-3,Q210,P113,name=Tullygarran Ogham Stones,,osm
+Q210-P113-4,Q210,P113,note=two ogham stones,,osm
+Q210-P113-5,Q210,P113,ref:IE:nm=295,,osm
+Q210-P113-6,Q210,P113,ref:IE:smr=KE029-241----;KE029-132----,,osm
+Q210-P113-7,Q210,P113,tourism=attraction,,osm
+Q210-P113-8,Q210,P113,type=site,,osm
+Q210-P113-9,Q210,P113,website=http://megalithicireland.com/Tullygarran%20Ogham%20Stones%20Kerry.html?src=gpx,,osm
+Q210-P113-10,Q210,P113,wikidata=Q40888587,,osm
+Q210-P113-11,Q210,P113,wikipedia=en:Tullygarran ogham stones,,osm
+,Q211,P2,Q100,,osm
+Q211-P100-1,Q211,P100,https://www.openstreetmap.org/way/1209135262,,osm
+Q211-P101-1,Q211,P101,https://www.openstreetmap.org/way/1209135262/history/1,,osm
+Q211-P101-2,Q211,P101,https://www.openstreetmap.org/way/1209135262/history/2,preferred,osm
+Q211-P107-1,Q211,P107,https://www.openstreetmap.org/way/1209135262/history/1,,osm
+Q211-P110-1,Q211,P110,"52.1632819,-7.4653448",,osm
+Q211-P111-g1,Q211,P111,"POLYGON((-7.465302 52.1633336, -7.4652502 52.1632761, -7.4653867 52.1632303, -7.4654395 52.1632871, -7.465302 52.1633336))",,osm
+Q211-P113-1,Q211,P113,archaeological_site=souterrain,,osm
+Q211-P113-2,Q211,P113,fixme=separate all ogham stones into nodes,,osm
+Q211-P113-3,Q211,P113,heritage=2,,osm
+Q211-P113-4,Q211,P113,historic=ogham_stone,,osm
+Q211-P113-5,Q211,P113,name=Drumlohan Souterrain and Ogham Stones,,osm
+Q211-P113-6,Q211,P113,ref:IE:nm=154,,osm
+Q211-P113-7,Q211,P113,ref:IE:smr=WA024-033010-;WA024-033013-;WA024-033007-;WA024-033008-;WA024-033017-;WA024-033011-;WA024-033014-;WA024-033006-;WA024-033012-;WA024-033009-;WA024-033015-,,osm
+Q211-P113-8,Q211,P113,wikidata=Q1261275,,osm
+Q211-P113-9,Q211,P113,wikipedia=en:Drumlohan Souterrain and Ogham Stones,,osm
 ,P100,P9,Q100,,
 ,P101,P9,Q100,,
 ,P104,P5,https://www.openstreetmap.org/changeset/$1,,

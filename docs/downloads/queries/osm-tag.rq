@@ -1,0 +1,13 @@
+PREFIX oosp: <https://n4o-rse.github.io/osm-ogham-static/prop/>
+PREFIX oosps: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?item ?label ?tag WHERE {
+  ?item oosp:P113 ?statement ;
+        rdfs:label ?label .
+  ?statement oosps:P113 ?tag .
+  FILTER(LANG(?label) = "en")
+  FILTER(?tag = "moved=yes")
+}
+ORDER BY ?label ?item
+LIMIT 200

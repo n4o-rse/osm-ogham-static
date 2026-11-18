@@ -1,0 +1,255 @@
+# Q113: the part of the RDF export of OSM Ogham stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of unknown
+# Licence: ODbL 1.0, © OpenStreetMap contributors
+# The prefixes oos:, oost:, oosp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only oos:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix oos: <https://n4o-rse.github.io/osm-ogham-static/entity/> .
+@prefix ooscat: <https://n4o-rse.github.io/osm-ogham-static/catalog/> .
+@prefix oosdata: <https://n4o-rse.github.io/osm-ogham-static/ttl/> .
+@prefix oosdist: <https://n4o-rse.github.io/osm-ogham-static/distribution/> .
+@prefix oosno: <https://n4o-rse.github.io/osm-ogham-static/prop/novalue/> .
+@prefix oosp: <https://n4o-rse.github.io/osm-ogham-static/prop/> .
+@prefix oospq: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/> .
+@prefix oospqv: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/value/> .
+@prefix oospr: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/> .
+@prefix oosprv: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/value/> .
+@prefix oosps: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/> .
+@prefix oospsv: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/value/> .
+@prefix oosref: <https://n4o-rse.github.io/osm-ogham-static/reference/> .
+@prefix ooss: <https://n4o-rse.github.io/osm-ogham-static/entity/statement/> .
+@prefix oost: <https://n4o-rse.github.io/osm-ogham-static/prop/direct/> .
+@prefix oosv: <https://n4o-rse.github.io/osm-ogham-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/osm-ogham-static/ttl/Q113.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:description "Benchmark (OpenStreetMap node 10639514250)"@en,
+        "Höhenmarke (OpenStreetMap-Node 10639514250)"@de ;
+    dcterms:identifier "Q113" ;
+    dcterms:isPartOf ooscat:items ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:subject oos:Q113 ;
+    dcterms:title "Ballybowler North Ogham Stone"@de,
+        "Ballybowler North Ogham Stone"@en ;
+    schema:about oos:Q113 ;
+    dcat:distribution oosdist:Q113-html,
+        oosdist:Q113-json,
+        oosdist:Q113-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/osm-ogham-static/Q113.html> .
+
+oosdist:Q113-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q113, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/osm-ogham-static/Q113.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+oosdist:Q113-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q113, as archived from the Wikibase API"@en ;
+    dcat:byteSize "15491"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/osm-ogham-static/json/Q113.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+oosdist:Q113-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q113, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL oosdata:Q113.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+oos:Q113
+    a wikibase:Item,
+        geo:Feature ;
+    schema:description "Benchmark (OpenStreetMap node 10639514250)"@en,
+        "Höhenmarke (OpenStreetMap-Node 10639514250)"@de ;
+    schema:name "Ballybowler North Ogham Stone"@de,
+        "Ballybowler North Ogham Stone"@en ;
+    wikibase:identifiers "0"^^xsd:integer ;
+    wikibase:statements "14"^^xsd:integer ;
+    geo:hasDefaultGeometry ooss:Q113-294A42B3-907B-596F-9B32-82614F8378AD ;
+    geo:hasGeometry ooss:Q113-294A42B3-907B-596F-9B32-82614F8378AD ;
+    rdfs:label "Ballybowler North Ogham Stone"@de,
+        "Ballybowler North Ogham Stone"@en ;
+    skos:prefLabel "Ballybowler North Ogham Stone"@de,
+        "Ballybowler North Ogham Stone"@en ;
+    oosp:P2 ooss:Q113-E5504893-DC29-57CE-831F-AD05B393D176 ;
+    oosp:P100 ooss:Q113-7C0D45FD-C113-57DF-9543-DC74AF233AC2 ;
+    oosp:P101 ooss:Q113-7B33C902-F53C-5B1D-A1D5-88CB014AC8BB,
+        ooss:Q113-E68C9924-4493-5A83-A9CC-C37F0C5FBABB ;
+    oosp:P107 ooss:Q113-43AEDD87-9A09-54DE-8ED2-2C4B1909271A ;
+    oosp:P110 ooss:Q113-C430B454-6F06-5DC1-BF91-00BEB61931B3 ;
+    oosp:P111 ooss:Q113-294A42B3-907B-596F-9B32-82614F8378AD ;
+    oosp:P113 ooss:Q113-1DEEE400-744F-5AD7-AC3E-C1BB08226B78,
+        ooss:Q113-2E670C87-AB46-5517-BFEF-D758FAFD52B1,
+        ooss:Q113-20B992AE-E215-5ACD-AD46-89D080C69A1B,
+        ooss:Q113-20ED4E06-9C19-52B2-A92F-3670201E109C,
+        ooss:Q113-4425A13D-EFCE-531A-91AF-10B7063E4897,
+        ooss:Q113-521115D9-E66E-5DD5-847A-9553D5BD8168,
+        ooss:Q113-DFC65538-FFD5-56F0-B552-F7B07F82F606 ;
+    oost:P2 oos:Q100 ;
+    oost:P100 <https://www.openstreetmap.org/node/10639514250> ;
+    oost:P101 <https://www.openstreetmap.org/node/10639514250/history/2> ;
+    oost:P107 <https://www.openstreetmap.org/node/10639514250/history/1> ;
+    oost:P110 "Point(-10.2225267 52.1767439)"^^geo:wktLiteral ;
+    oost:P111 "POINT(-10.2225267 52.1767439)" ;
+    oost:P113 "heritage=2",
+        "historic=ogham_stone",
+        "name=Ballybowler North Ogham Stone",
+        "note=estimated location using wikipedia coordinates",
+        "ref:IE:nm=221",
+        "wikidata=Q78062999",
+        "wikipedia=en:Ballybowler North Ogham Stone" .
+
+ooss:Q113-1DEEE400-744F-5AD7-AC3E-C1BB08226B78
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:8050dad7ebe143a289830f261c275bc552c9ff4d ;
+    oosps:P113 "wikidata=Q78062999" .
+
+ooss:Q113-2E670C87-AB46-5517-BFEF-D758FAFD52B1
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:8050dad7ebe143a289830f261c275bc552c9ff4d ;
+    oosps:P113 "name=Ballybowler North Ogham Stone" .
+
+ooss:Q113-7B33C902-F53C-5B1D-A1D5-88CB014AC8BB
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:PreferredRank ;
+    oospq:P102 "+2"^^xsd:decimal ;
+    oospq:P103 "2023-02-16T14:00:09Z" ;
+    oospq:P104 "132630992" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:c295f8f927aa4b01b5401a2788a068ea ;
+    oosps:P101 <https://www.openstreetmap.org/node/10639514250/history/2> .
+
+ooss:Q113-7C0D45FD-C113-57DF-9543-DC74AF233AC2
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P100 <https://www.openstreetmap.org/node/10639514250> .
+
+ooss:Q113-20B992AE-E215-5ACD-AD46-89D080C69A1B
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:8050dad7ebe143a289830f261c275bc552c9ff4d ;
+    oosps:P113 "note=estimated location using wikipedia coordinates" .
+
+ooss:Q113-20ED4E06-9C19-52B2-A92F-3670201E109C
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:8050dad7ebe143a289830f261c275bc552c9ff4d ;
+    oosps:P113 "ref:IE:nm=221" .
+
+ooss:Q113-43AEDD87-9A09-54DE-8ED2-2C4B1909271A
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P109 "ogham" ;
+    oosps:P107 <https://www.openstreetmap.org/node/10639514250/history/1> .
+
+ooss:Q113-294A42B3-907B-596F-9B32-82614F8378AD
+    a wikibase:BestRank,
+        wikibase:Statement,
+        geo:Geometry ;
+    wikibase:rank wikibase:NormalRank ;
+    geo:asWKT "POINT(-10.2225267 52.1767439)"^^geo:wktLiteral ;
+    prov:wasDerivedFrom oosref:01e07cc0b16d65995ac858801f927345cf8b639e ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2023-02-10T13:43:29Z" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P111 "POINT(-10.2225267 52.1767439)" .
+
+ooss:Q113-4425A13D-EFCE-531A-91AF-10B7063E4897
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:8050dad7ebe143a289830f261c275bc552c9ff4d ;
+    oosps:P113 "historic=ogham_stone" .
+
+ooss:Q113-521115D9-E66E-5DD5-847A-9553D5BD8168
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:8050dad7ebe143a289830f261c275bc552c9ff4d ;
+    oosps:P113 "heritage=2" .
+
+ooss:Q113-C430B454-6F06-5DC1-BF91-00BEB61931B3
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:8050dad7ebe143a289830f261c275bc552c9ff4d ;
+    oosps:P110 "Point(-10.2225267 52.1767439)"^^geo:wktLiteral ;
+    oospsv:P110 oosv:eef1ad2265216a691c1235efd54fb9f1 .
+
+ooss:Q113-DFC65538-FFD5-56F0-B552-F7B07F82F606
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:8050dad7ebe143a289830f261c275bc552c9ff4d ;
+    oosps:P113 "wikipedia=en:Ballybowler North Ogham Stone" .
+
+ooss:Q113-E68C9924-4493-5A83-A9CC-C37F0C5FBABB
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2023-02-10T13:43:29Z" ;
+    oospq:P104 "132360632" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P101 <https://www.openstreetmap.org/node/10639514250/history/1> .
+
+ooss:Q113-E5504893-DC29-57CE-831F-AD05B393D176
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P2 oos:Q100 .
+
+oosref:01e07cc0b16d65995ac858801f927345cf8b639e
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/node/10639514250/history/1> .
+
+oosref:8050dad7ebe143a289830f261c275bc552c9ff4d
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/node/10639514250/history/2> .
+
+oosv:aa2e7afcc4dbda508bf34d1e83609f7e
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+1"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:c295f8f927aa4b01b5401a2788a068ea
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+2"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:eef1ad2265216a691c1235efd54fb9f1
+    a wikibase:GlobecoordinateValue ;
+    wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> ;
+    wikibase:geoLatitude "52.1767439"^^xsd:double ;
+    wikibase:geoLongitude "-10.2225267"^^xsd:double ;
+    wikibase:geoPrecision "1e-06"^^xsd:double .

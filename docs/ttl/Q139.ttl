@@ -1,0 +1,237 @@
+# Q139: the part of the RDF export of OSM Ogham stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of unknown
+# Licence: ODbL 1.0, © OpenStreetMap contributors
+# The prefixes oos:, oost:, oosp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only oos:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix oos: <https://n4o-rse.github.io/osm-ogham-static/entity/> .
+@prefix ooscat: <https://n4o-rse.github.io/osm-ogham-static/catalog/> .
+@prefix oosdata: <https://n4o-rse.github.io/osm-ogham-static/ttl/> .
+@prefix oosdist: <https://n4o-rse.github.io/osm-ogham-static/distribution/> .
+@prefix oosno: <https://n4o-rse.github.io/osm-ogham-static/prop/novalue/> .
+@prefix oosp: <https://n4o-rse.github.io/osm-ogham-static/prop/> .
+@prefix oospq: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/> .
+@prefix oospqv: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/value/> .
+@prefix oospr: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/> .
+@prefix oosprv: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/value/> .
+@prefix oosps: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/> .
+@prefix oospsv: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/value/> .
+@prefix oosref: <https://n4o-rse.github.io/osm-ogham-static/reference/> .
+@prefix ooss: <https://n4o-rse.github.io/osm-ogham-static/entity/statement/> .
+@prefix oost: <https://n4o-rse.github.io/osm-ogham-static/prop/direct/> .
+@prefix oosv: <https://n4o-rse.github.io/osm-ogham-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/osm-ogham-static/ttl/Q139.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:description "Benchmark (OpenStreetMap node 11575064111)"@en,
+        "Höhenmarke (OpenStreetMap-Node 11575064111)"@de ;
+    dcterms:identifier "Q139" ;
+    dcterms:isPartOf ooscat:items ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:subject oos:Q139 ;
+    dcterms:title "St. Olan's Cap"@de,
+        "St. Olan's Cap"@en ;
+    schema:about oos:Q139 ;
+    dcat:distribution oosdist:Q139-html,
+        oosdist:Q139-json,
+        oosdist:Q139-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/osm-ogham-static/Q139.html> .
+
+oosdist:Q139-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q139, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/osm-ogham-static/Q139.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+oosdist:Q139-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q139, as archived from the Wikibase API"@en ;
+    dcat:byteSize "13621"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/osm-ogham-static/json/Q139.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+oosdist:Q139-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q139, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL oosdata:Q139.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+oos:Q139
+    a wikibase:Item,
+        geo:Feature ;
+    schema:description "Benchmark (OpenStreetMap node 11575064111)"@en,
+        "Höhenmarke (OpenStreetMap-Node 11575064111)"@de ;
+    schema:name "St. Olan's Cap"@de,
+        "St. Olan's Cap"@en ;
+    wikibase:identifiers "0"^^xsd:integer ;
+    wikibase:statements "12"^^xsd:integer ;
+    geo:hasDefaultGeometry ooss:Q139-5828A546-A2F4-5F3D-AA5F-BF140448B11C ;
+    geo:hasGeometry ooss:Q139-5828A546-A2F4-5F3D-AA5F-BF140448B11C ;
+    rdfs:label "St. Olan's Cap"@de,
+        "St. Olan's Cap"@en ;
+    skos:prefLabel "St. Olan's Cap"@de,
+        "St. Olan's Cap"@en ;
+    oosp:P2 ooss:Q139-094D796B-4808-552E-9D4B-D3C208D3E00B ;
+    oosp:P100 ooss:Q139-463A3915-7523-5270-8380-CC87670938E9 ;
+    oosp:P101 ooss:Q139-9A4031AD-3F6D-508A-AFBE-CF87DC71C758,
+        ooss:Q139-3314A87F-5046-58B5-8D31-248B58A27288 ;
+    oosp:P107 ooss:Q139-ECC7BD20-055B-5D3C-B3F9-340BE9C2106F ;
+    oosp:P110 ooss:Q139-22C65074-975B-542F-9ABE-FC2DBD28E08D ;
+    oosp:P111 ooss:Q139-5828A546-A2F4-5F3D-AA5F-BF140448B11C ;
+    oosp:P113 ooss:Q139-386AB3BD-637B-5444-AFD5-5E88D4BA2290,
+        ooss:Q139-41004FBE-BBF3-503C-9B7C-6063F25D5C28,
+        ooss:Q139-88226AF3-E77A-5363-8FB1-2AC893428E8B,
+        ooss:Q139-91000062-00ED-5E9B-952A-D0EC2DCABC96,
+        ooss:Q139-DE92A6A3-4095-590D-8728-429E00D90F13 ;
+    oost:P2 oos:Q100 ;
+    oost:P100 <https://www.openstreetmap.org/node/11575064111> ;
+    oost:P101 <https://www.openstreetmap.org/node/11575064111/history/2> ;
+    oost:P107 <https://www.openstreetmap.org/node/11575064111/history/1> ;
+    oost:P110 "Point(-8.8152966 51.9521517)"^^geo:wktLiteral ;
+    oost:P111 "POINT(-8.8152966 51.9521517)" ;
+    oost:P113 "heritage:operator=IE:smr",
+        "heritage=2",
+        "historic=ogham_stone",
+        "name=St. Olan's Cap",
+        "ref:IE:smr=CO061-080005-" .
+
+ooss:Q139-9A4031AD-3F6D-508A-AFBE-CF87DC71C758
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:PreferredRank ;
+    oospq:P102 "+2"^^xsd:decimal ;
+    oospq:P103 "2024-11-26T07:16:09Z" ;
+    oospq:P104 "159601525" ;
+    oospq:P105 "geozeisig" ;
+    oospq:P106 "66391" ;
+    oospqv:P102 oosv:c295f8f927aa4b01b5401a2788a068ea ;
+    oosps:P101 <https://www.openstreetmap.org/node/11575064111/history/2> .
+
+ooss:Q139-22C65074-975B-542F-9ABE-FC2DBD28E08D
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:193564040d2b0988b41f3b4a59bd8c68e39cb79c ;
+    oosps:P110 "Point(-8.8152966 51.9521517)"^^geo:wktLiteral ;
+    oospsv:P110 oosv:ceba00793f307d38f691908811769b2f .
+
+ooss:Q139-094D796B-4808-552E-9D4B-D3C208D3E00B
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P2 oos:Q100 .
+
+ooss:Q139-386AB3BD-637B-5444-AFD5-5E88D4BA2290
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:193564040d2b0988b41f3b4a59bd8c68e39cb79c ;
+    oosps:P113 "heritage:operator=IE:smr" .
+
+ooss:Q139-463A3915-7523-5270-8380-CC87670938E9
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P100 <https://www.openstreetmap.org/node/11575064111> .
+
+ooss:Q139-3314A87F-5046-58B5-8D31-248B58A27288
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2024-01-31T22:22:29Z" ;
+    oospq:P104 "146923694" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P101 <https://www.openstreetmap.org/node/11575064111/history/1> .
+
+ooss:Q139-5828A546-A2F4-5F3D-AA5F-BF140448B11C
+    a wikibase:BestRank,
+        wikibase:Statement,
+        geo:Geometry ;
+    wikibase:rank wikibase:NormalRank ;
+    geo:asWKT "POINT(-8.8152966 51.9521517)"^^geo:wktLiteral ;
+    prov:wasDerivedFrom oosref:95ef4f85f778be193db77bc6fc20a0cc479434e5 ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2024-01-31T22:22:29Z" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P111 "POINT(-8.8152966 51.9521517)" .
+
+ooss:Q139-41004FBE-BBF3-503C-9B7C-6063F25D5C28
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:193564040d2b0988b41f3b4a59bd8c68e39cb79c ;
+    oosps:P113 "name=St. Olan's Cap" .
+
+ooss:Q139-88226AF3-E77A-5363-8FB1-2AC893428E8B
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:193564040d2b0988b41f3b4a59bd8c68e39cb79c ;
+    oosps:P113 "historic=ogham_stone" .
+
+ooss:Q139-91000062-00ED-5E9B-952A-D0EC2DCABC96
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:193564040d2b0988b41f3b4a59bd8c68e39cb79c ;
+    oosps:P113 "heritage=2" .
+
+ooss:Q139-DE92A6A3-4095-590D-8728-429E00D90F13
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:193564040d2b0988b41f3b4a59bd8c68e39cb79c ;
+    oosps:P113 "ref:IE:smr=CO061-080005-" .
+
+ooss:Q139-ECC7BD20-055B-5D3C-B3F9-340BE9C2106F
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P109 "ogham" ;
+    oosps:P107 <https://www.openstreetmap.org/node/11575064111/history/1> .
+
+oosref:95ef4f85f778be193db77bc6fc20a0cc479434e5
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/node/11575064111/history/1> .
+
+oosref:193564040d2b0988b41f3b4a59bd8c68e39cb79c
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/node/11575064111/history/2> .
+
+oosv:aa2e7afcc4dbda508bf34d1e83609f7e
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+1"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:c295f8f927aa4b01b5401a2788a068ea
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+2"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:ceba00793f307d38f691908811769b2f
+    a wikibase:GlobecoordinateValue ;
+    wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> ;
+    wikibase:geoLatitude "51.9521517"^^xsd:double ;
+    wikibase:geoLongitude "-8.8152966"^^xsd:double ;
+    wikibase:geoPrecision "1e-06"^^xsd:double .

@@ -1,5 +1,116 @@
 id,kind,datatype,origin,label_en,label_de,description_en,description_de
 Q100,class,,,Ogham stone,Ogham-Stein,A stone with an inscription in the Ogham script that is mapped as one element in OpenStreetMap (historic=ogham_stone).,"Ein Stein mit einer Inschrift in Ogham-Schrift, der in OpenStreetMap als ein Element kartiert ist (historic=ogham_stone)."
+Q101,item,,osm,CIIC 137 / TCBKD A,CIIC 137 / TCBKD A,"Benchmark, inscription “ANM VEDLI OIGGOI MACI SEDDOINI” (OpenStreetMap node 10040750611)","Höhenmarke, Inschrift „ANM VEDLI OIGGOI MACI SEDDOINI“ (OpenStreetMap-Node 10040750611)"
+Q102,item,,osm,CIIC 242,CIIC 242,"Benchmark, inscription “BRRUANANN” (OpenStreetMap node 10040757680)","Höhenmarke, Inschrift „BRRUANANN“ (OpenStreetMap-Node 10040757680)"
+Q103,item,,osm,CIIC 141,CIIC 141,"Benchmark, inscription “... MAQI MAQ[I-...O]GGODIKA” (OpenStreetMap node 10041491619)","Höhenmarke, Inschrift „... MAQI MAQ[I-...O]GGODIKA“ (OpenStreetMap-Node 10041491619)"
+Q104,item,,osm,CIIC 142,CIIC 142,"Benchmark, inscription “...] CELI AVI VU[...” (OpenStreetMap node 10041927343)","Höhenmarke, Inschrift „...] CELI AVI VU[...“ (OpenStreetMap-Node 10041927343)"
+Q105,item,,osm,CIIC 86 / UCC 18,CIIC 86 / UCC 18,"Benchmark, inscription “GRILAGNI MAQI SCILAGNI” (OpenStreetMap node 10560404607)","Höhenmarke, Inschrift „GRILAGNI MAQI SCILAGNI“ (OpenStreetMap-Node 10560404607)"
+Q106,item,,osm,CIIC 185 / TCBKD B,CIIC 185 / TCBKD B,"Benchmark, inscription “[CO?]BB[A?] AVI VLATIAMI MAQ...” (OpenStreetMap node 10563395863)","Höhenmarke, Inschrift „[CO?]BB[A?] AVI VLATIAMI MAQ...“ (OpenStreetMap-Node 10563395863)"
+Q107,item,,osm,Crossoona Ogham Stone,Crossoona Ogham Stone,Benchmark (OpenStreetMap node 10594924965),Höhenmarke (OpenStreetMap-Node 10594924965)
+Q108,item,,osm,Castletimon Ogham Stone,Castletimon Ogham Stone,Benchmark (OpenStreetMap node 10594973066),Höhenmarke (OpenStreetMap-Node 10594973066)
+Q109,item,,osm,OSM node 10601966811,OSM-Node 10601966811,Benchmark (OpenStreetMap node 10601966811),Höhenmarke (OpenStreetMap-Node 10601966811)
+Q110,item,,osm,OSM node 10601966825,OSM-Node 10601966825,Benchmark (OpenStreetMap node 10601966825),Höhenmarke (OpenStreetMap-Node 10601966825)
+Q111,item,,osm,OSM node 10633917137,OSM-Node 10633917137,Benchmark (OpenStreetMap node 10633917137),Höhenmarke (OpenStreetMap-Node 10633917137)
+Q112,item,,osm,OSM node 10633917138,OSM-Node 10633917138,Benchmark (OpenStreetMap node 10633917138),Höhenmarke (OpenStreetMap-Node 10633917138)
+Q113,item,,osm,Ballybowler North Ogham Stone,Ballybowler North Ogham Stone,Benchmark (OpenStreetMap node 10639514250),Höhenmarke (OpenStreetMap-Node 10639514250)
+Q114,item,,osm,OSM node 10652133873,OSM-Node 10652133873,Benchmark (OpenStreetMap node 10652133873),Höhenmarke (OpenStreetMap-Node 10652133873)
+Q115,item,,osm,"CIIC 180. Emlagh East (IMLEACH DHÚN SÉANN), Co. Kerry","CIIC 180. Emlagh East (IMLEACH DHÚN SÉANN), Co. Kerry",Benchmark (OpenStreetMap node 10652214543),Höhenmarke (OpenStreetMap-Node 10652214543)
+Q116,item,,osm,OSM node 10656139839,OSM-Node 10656139839,Benchmark (OpenStreetMap node 10656139839),Höhenmarke (OpenStreetMap-Node 10656139839)
+Q117,item,,osm,OSM node 10709752679,OSM-Node 10709752679,Benchmark (OpenStreetMap node 10709752679),Höhenmarke (OpenStreetMap-Node 10709752679)
+Q118,item,,osm,CIIC 195,CIIC 195,"Benchmark, inscription “CURCI MAQI MUC(COI) (V)” (OpenStreetMap node 11071324384)","Höhenmarke, Inschrift „CURCI MAQI MUC(COI) (V)“ (OpenStreetMap-Node 11071324384)"
+Q119,item,,osm,CIIC 81 / UCC 4,CIIC 81 / UCC 4,"Benchmark, inscription “C[A]SSITT[A/O]S MAQI MU[CO]I CALLITI” (OpenStreetMap node 11071361392)","Höhenmarke, Inschrift „C[A]SSITT[A/O]S MAQI MU[CO]I CALLITI“ (OpenStreetMap-Node 11071361392)"
+Q120,item,,osm,OSM node 11253027975,OSM-Node 11253027975,Benchmark (OpenStreetMap node 11253027975),Höhenmarke (OpenStreetMap-Node 11253027975)
+Q121,item,,osm,Ogham Stone Ballinrannig I,Ogham Stone Ballinrannig I,"Benchmark, inscription “MAQQI CUNITTI” (OpenStreetMap node 11269073312)","Höhenmarke, Inschrift „MAQQI CUNITTI“ (OpenStreetMap-Node 11269073312)"
+Q122,item,,osm,Ogham Stone Ballinrannig IV,Ogham Stone Ballinrannig IV,"Benchmark, inscription “BROINIONAS” (OpenStreetMap node 11269073313)","Höhenmarke, Inschrift „BROINIONAS“ (OpenStreetMap-Node 11269073313)"
+Q123,item,,osm,Ogham Stone CIIC 175. Burnham West,Ogham Stone CIIC 175. Burnham West,"Benchmark, inscription “MAQQI-ERCCIA MAQQI MUCOI DOVINIA” (OpenStreetMap node 11269073314)","Höhenmarke, Inschrift „MAQQI-ERCCIA MAQQI MUCOI DOVINIA“ (OpenStreetMap-Node 11269073314)"
+Q124,item,,osm,Ogham Stone Ballinrannig II,Ogham Stone Ballinrannig II,"Benchmark, inscription “DUBONIRRAS MAQQI TENAC(I)” (OpenStreetMap node 11269073315)","Höhenmarke, Inschrift „DUBONIRRAS MAQQI TENAC(I)“ (OpenStreetMap-Node 11269073315)"
+Q125,item,,osm,Ogham Stone Ballinrannig III,Ogham Stone Ballinrannig III,"Benchmark, inscription “NAVVICAS MAQI MUCOI DOVVINAS” (OpenStreetMap node 11269073316)","Höhenmarke, Inschrift „NAVVICAS MAQI MUCOI DOVVINAS“ (OpenStreetMap-Node 11269073316)"
+Q126,item,,osm,OSM node 11269119003,OSM-Node 11269119003,Benchmark (OpenStreetMap node 11269119003),Höhenmarke (OpenStreetMap-Node 11269119003)
+Q127,item,,osm,OSM node 11269119004,OSM-Node 11269119004,Benchmark (OpenStreetMap node 11269119004),Höhenmarke (OpenStreetMap-Node 11269119004)
+Q128,item,,osm,OSM node 11269119005,OSM-Node 11269119005,Benchmark (OpenStreetMap node 11269119005),Höhenmarke (OpenStreetMap-Node 11269119005)
+Q129,item,,osm,OSM node 11269119006,OSM-Node 11269119006,Benchmark (OpenStreetMap node 11269119006),Höhenmarke (OpenStreetMap-Node 11269119006)
+Q130,item,,osm,OSM node 11269119007,OSM-Node 11269119007,Benchmark (OpenStreetMap node 11269119007),Höhenmarke (OpenStreetMap-Node 11269119007)
+Q131,item,,osm,OSM node 11269119008,OSM-Node 11269119008,Benchmark (OpenStreetMap node 11269119008),Höhenmarke (OpenStreetMap-Node 11269119008)
+Q132,item,,osm,OSM node 11269119009,OSM-Node 11269119009,Benchmark (OpenStreetMap node 11269119009),Höhenmarke (OpenStreetMap-Node 11269119009)
+Q133,item,,osm,OSM node 11269119010,OSM-Node 11269119010,Benchmark (OpenStreetMap node 11269119010),Höhenmarke (OpenStreetMap-Node 11269119010)
+Q134,item,,osm,OSM node 11269119011,OSM-Node 11269119011,Benchmark (OpenStreetMap node 11269119011),Höhenmarke (OpenStreetMap-Node 11269119011)
+Q135,item,,osm,"Benchmark ᚛ᚉᚑᚂᚂᚐᚁᚑᚈ ᚋᚒᚉᚖ ᚂᚒᚌᚐ ᚋᚐᚊᚔ ᚂᚑᚁᚐᚉᚉᚑᚅᚐ᚜COLLABOT MUCOI LUGA MAQI LOBACCONA""Of Cóelub of the tribe of Lug, son of Lubchú","Benchmark ᚛ᚉᚑᚂᚂᚐᚁᚑᚈ ᚋᚒᚉᚖ ᚂᚒᚌᚐ ᚋᚐᚊᚔ ᚂᚑᚁᚐᚉᚉᚑᚅᚐ᚜COLLABOT MUCOI LUGA MAQI LOBACCONA""Of Cóelub of the tribe of Lug, son of Lubchú","Benchmark, inscription “᚛ᚉᚑᚂᚂᚐᚁᚑᚈ ᚋᚒᚉᚖ ᚂᚒᚌᚐ ᚋᚐᚊᚔ ᚂᚑᚁᚐᚉᚉᚑᚅᚐ᚜COLLABOT MUCOI LUGA MAQI LOBACCONA""Of Cóelub of the tribe of Lug, son of Lubchú” (OpenStreetMap node 11269165789)","Höhenmarke, Inschrift „᚛ᚉᚑᚂᚂᚐᚁᚑᚈ ᚋᚒᚉᚖ ᚂᚒᚌᚐ ᚋᚐᚊᚔ ᚂᚑᚁᚐᚉᚉᚑᚅᚐ᚜COLLABOT MUCOI LUGA MAQI LOBACCONA""Of Cóelub of the tribe of Lug, son of Lubchú“ (OpenStreetMap-Node 11269165789)"
+Q136,item,,osm,Benchmark ᚛ᚋᚓᚇᚒᚄᚔ ᚋᚒᚉᚖ ᚂᚒᚌᚐ᚜ MEDUSI MUCOI LUGA) Medusi of the tribe of Lug,Benchmark ᚛ᚋᚓᚇᚒᚄᚔ ᚋᚒᚉᚖ ᚂᚒᚌᚐ᚜ MEDUSI MUCOI LUGA) Medusi of the tribe of Lug,"Benchmark, inscription “᚛ᚋᚓᚇᚒᚄᚔ ᚋᚒᚉᚖ ᚂᚒᚌᚐ᚜ MEDUSI MUCOI LUGA) Medusi of the tribe of Lug” (OpenStreetMap node 11269165790)","Höhenmarke, Inschrift „᚛ᚋᚓᚇᚒᚄᚔ ᚋᚒᚉᚖ ᚂᚒᚌᚐ᚜ MEDUSI MUCOI LUGA) Medusi of the tribe of Lug“ (OpenStreetMap-Node 11269165790)"
+Q137,item,,osm,Long Stone,Long Stone,Benchmark (OpenStreetMap node 11558269687),Höhenmarke (OpenStreetMap-Node 11558269687)
+Q138,item,,osm,OSM node 11574593297,OSM-Node 11574593297,Benchmark (OpenStreetMap node 11574593297),Höhenmarke (OpenStreetMap-Node 11574593297)
+Q139,item,,osm,St. Olan's Cap,St. Olan's Cap,Benchmark (OpenStreetMap node 11575064111),Höhenmarke (OpenStreetMap-Node 11575064111)
+Q140,item,,osm,CIIC 153 (Ballinrannig VI),CIIC 153 (Ballinrannig VI),"Benchmark, inscription “CCICAMINIvac. MAQ/Q[/I] C[A]TTINI” (OpenStreetMap node 11677109638)","Höhenmarke, Inschrift „CCICAMINIvac. MAQ/Q[/I] C[A]TTINI“ (OpenStreetMap-Node 11677109638)"
+Q141,item,,osm,CIIC 152 (Ballinrannig V),CIIC 152 (Ballinrannig V),"Benchmark, inscription “G̣/̣Ḷ[U]BB[IA]S MAQQ[I]/ [D(?)]N/ỊẠ?̣S” (OpenStreetMap node 11677113764)","Höhenmarke, Inschrift „G̣/̣Ḷ[U]BB[IA]S MAQQ[I]/ [D(?)]N/ỊẠ?̣S“ (OpenStreetMap-Node 11677113764)"
+Q142,item,,osm,OSM node 11952692355,OSM-Node 11952692355,Benchmark (OpenStreetMap node 11952692355),Höhenmarke (OpenStreetMap-Node 11952692355)
+Q143,item,,osm,UCC 6,UCC 6,Benchmark (OpenStreetMap node 11955662684),Höhenmarke (OpenStreetMap-Node 11955662684)
+Q144,item,,osm,UCC 27,UCC 27,Benchmark (OpenStreetMap node 11955662685),Höhenmarke (OpenStreetMap-Node 11955662685)
+Q145,item,,osm,UCC 2,UCC 2,Benchmark (OpenStreetMap node 11955670771),Höhenmarke (OpenStreetMap-Node 11955670771)
+Q146,item,,osm,UCC 3,UCC 3,Benchmark (OpenStreetMap node 11955670773),Höhenmarke (OpenStreetMap-Node 11955670773)
+Q147,item,,osm,UCC 5,UCC 5,Benchmark (OpenStreetMap node 11955670774),Höhenmarke (OpenStreetMap-Node 11955670774)
+Q148,item,,osm,UCC 12,UCC 12,Benchmark (OpenStreetMap node 11955670775),Höhenmarke (OpenStreetMap-Node 11955670775)
+Q149,item,,osm,UCC 24,UCC 24,Benchmark (OpenStreetMap node 11955670776),Höhenmarke (OpenStreetMap-Node 11955670776)
+Q150,item,,osm,UCC 28,UCC 28,Benchmark (OpenStreetMap node 11955670777),Höhenmarke (OpenStreetMap-Node 11955670777)
+Q151,item,,osm,UCC 23,UCC 23,Benchmark (OpenStreetMap node 11955670778),Höhenmarke (OpenStreetMap-Node 11955670778)
+Q152,item,,osm,UCC 22,UCC 22,Benchmark (OpenStreetMap node 11955670779),Höhenmarke (OpenStreetMap-Node 11955670779)
+Q153,item,,osm,UCC 20,UCC 20,Benchmark (OpenStreetMap node 11955670780),Höhenmarke (OpenStreetMap-Node 11955670780)
+Q154,item,,osm,UCC 1,UCC 1,Benchmark (OpenStreetMap node 11955670781),Höhenmarke (OpenStreetMap-Node 11955670781)
+Q155,item,,osm,UCC 21,UCC 21,Benchmark (OpenStreetMap node 11955670784),Höhenmarke (OpenStreetMap-Node 11955670784)
+Q156,item,,osm,UCC 10,UCC 10,Benchmark (OpenStreetMap node 11955670785),Höhenmarke (OpenStreetMap-Node 11955670785)
+Q157,item,,osm,UCC 19,UCC 19,Benchmark (OpenStreetMap node 11955670786),Höhenmarke (OpenStreetMap-Node 11955670786)
+Q158,item,,osm,UCC 17,UCC 17,Benchmark (OpenStreetMap node 11955670788),Höhenmarke (OpenStreetMap-Node 11955670788)
+Q159,item,,osm,UCC 16,UCC 16,Benchmark (OpenStreetMap node 11955670789),Höhenmarke (OpenStreetMap-Node 11955670789)
+Q160,item,,osm,CIIC 94/ UCC 15,CIIC 94/ UCC 15,Benchmark (OpenStreetMap node 11955670790),Höhenmarke (OpenStreetMap-Node 11955670790)
+Q161,item,,osm,UCC 14,UCC 14,Benchmark (OpenStreetMap node 11955670791),Höhenmarke (OpenStreetMap-Node 11955670791)
+Q162,item,,osm,UCC 13,UCC 13,Benchmark (OpenStreetMap node 11955670792),Höhenmarke (OpenStreetMap-Node 11955670792)
+Q163,item,,osm,UCC 11,UCC 11,Benchmark (OpenStreetMap node 11955670793),Höhenmarke (OpenStreetMap-Node 11955670793)
+Q164,item,,osm,UCC 25,UCC 25,Benchmark (OpenStreetMap node 11955670794),Höhenmarke (OpenStreetMap-Node 11955670794)
+Q165,item,,osm,UCC 7,UCC 7,Benchmark (OpenStreetMap node 11955670796),Höhenmarke (OpenStreetMap-Node 11955670796)
+Q166,item,,osm,UCC 8,UCC 8,Benchmark (OpenStreetMap node 11955670797),Höhenmarke (OpenStreetMap-Node 11955670797)
+Q167,item,,osm,UCC 9,UCC 9,Benchmark (OpenStreetMap node 11955670798),Höhenmarke (OpenStreetMap-Node 11955670798)
+Q168,item,,osm,Kilbrittain Fragment,Kilbrittain Fragment,Benchmark (OpenStreetMap node 11966423819),Höhenmarke (OpenStreetMap-Node 11966423819)
+Q169,item,,osm,CHUIS/1,CHUIS/1,Benchmark (OpenStreetMap node 11966430251),Höhenmarke (OpenStreetMap-Node 11966430251)
+Q170,item,,osm,GEARS/1,GEARS/1,Benchmark (OpenStreetMap node 11966441102),Höhenmarke (OpenStreetMap-Node 11966441102)
+Q171,item,,osm,Ogham Stone CIIC 147. Ballineesteenigh,Ogham Stone CIIC 147. Ballineesteenigh,"Benchmark, inscription “MOINENA MAQI OLACON” (OpenStreetMap node 12276963607)","Höhenmarke, Inschrift „MOINENA MAQI OLACON“ (OpenStreetMap-Node 12276963607)"
+Q172,item,,osm,Ogham Stone BURNHAM EAST V,Ogham Stone BURNHAM EAST V,Benchmark (OpenStreetMap node 12276982960),Höhenmarke (OpenStreetMap-Node 12276982960)
+Q173,item,,osm,OSM node 12661114455,OSM-Node 12661114455,Benchmark (OpenStreetMap node 12661114455),Höhenmarke (OpenStreetMap-Node 12661114455)
+Q174,item,,osm,Arraglen Ogham Stone,Arraglen Ogham Stone,Benchmark (OpenStreetMap node 1275923177),Höhenmarke (OpenStreetMap-Node 1275923177)
+Q175,item,,osm,Ballyboodan Ogham Stone,Ballyboodan Ogham Stone,Benchmark (OpenStreetMap node 12879271025),Höhenmarke (OpenStreetMap-Node 12879271025)
+Q176,item,,osm,OSM node 13666664175,OSM-Node 13666664175,Benchmark (OpenStreetMap node 13666664175),Höhenmarke (OpenStreetMap-Node 13666664175)
+Q177,item,,osm,OSM node 13667800673,OSM-Node 13667800673,Benchmark (OpenStreetMap node 13667800673),Höhenmarke (OpenStreetMap-Node 13667800673)
+Q178,item,,osm,OSM node 13667800674,OSM-Node 13667800674,Benchmark (OpenStreetMap node 13667800674),Höhenmarke (OpenStreetMap-Node 13667800674)
+Q179,item,,osm,OSM node 14265977755,OSM-Node 14265977755,Benchmark (OpenStreetMap node 14265977755),Höhenmarke (OpenStreetMap-Node 14265977755)
+Q180,item,,osm,OSM node 2428911148,OSM-Node 2428911148,Benchmark (OpenStreetMap node 2428911148),Höhenmarke (OpenStreetMap-Node 2428911148)
+Q181,item,,osm,Breastagh Ogham Stone,Breastagh Ogham Stone,Benchmark (OpenStreetMap node 3220290865),Höhenmarke (OpenStreetMap-Node 3220290865)
+Q182,item,,osm,OSM node 3621783646,OSM-Node 3621783646,Benchmark (OpenStreetMap node 3621783646),Höhenmarke (OpenStreetMap-Node 3621783646)
+Q183,item,,osm,Templebryan North Ogham Stone,Templebryan North Ogham Stone,Benchmark (OpenStreetMap node 3663314804),Höhenmarke (OpenStreetMap-Node 3663314804)
+Q184,item,,osm,Lugnagappul Ogham Stones,Lugnagappul Ogham Stones,Benchmark (OpenStreetMap node 4395991496),Höhenmarke (OpenStreetMap-Node 4395991496)
+Q185,item,,osm,Darrynane Beg Ogham Stone,Darrynane Beg Ogham Stone,Benchmark (OpenStreetMap node 452289802),Höhenmarke (OpenStreetMap-Node 452289802)
+Q186,item,,osm,Ballycrovane Ogham Stone,Ballycrovane Ogham Stone,Benchmark (OpenStreetMap node 473149586),Höhenmarke (OpenStreetMap-Node 473149586)
+Q187,item,,osm,Lamoge Ogham Stone 1,Lamoge Ogham Stone 1,Benchmark (OpenStreetMap node 5111098877),Höhenmarke (OpenStreetMap-Node 5111098877)
+Q188,item,,osm,Lamoge Ogham Stone 2,Lamoge Ogham Stone 2,Benchmark (OpenStreetMap node 5111098878),Höhenmarke (OpenStreetMap-Node 5111098878)
+Q189,item,,osm,CIIC 178,CIIC 178,"Benchmark, inscription “ERC MAQI MAQI-ERCIAS MU DOVINIA” (OpenStreetMap node 5145413640)","Höhenmarke, Inschrift „ERC MAQI MAQI-ERCIAS MU DOVINIA“ (OpenStreetMap-Node 5145413640)"
+Q190,item,,osm,Tullaherin Ogham Stone II,Tullaherin Ogham Stone II,Benchmark (OpenStreetMap node 5965037771),Höhenmarke (OpenStreetMap-Node 5965037771)
+Q191,item,,osm,The Long Stone,The Long Stone,Benchmark (OpenStreetMap node 600221596),Höhenmarke (OpenStreetMap-Node 600221596)
+Q192,item,,osm,CIIC 203,CIIC 203,"Benchmark, inscription “MAQI-DECEDA MAQ̣[I]” (OpenStreetMap node 6810674728)","Höhenmarke, Inschrift „MAQI-DECEDA MAQ̣[I]“ (OpenStreetMap-Node 6810674728)"
+Q193,item,,osm,Benchmark [A]NM SILLANN MAQ VATTILLOGG,Benchmark [A]NM SILLANN MAQ VATTILLOGG,"Benchmark, inscription “[A]NM SILLANN MAQ VATTILLOGG” (OpenStreetMap node 7082293699)","Höhenmarke, Inschrift „[A]NM SILLANN MAQ VATTILLOGG“ (OpenStreetMap-Node 7082293699)"
+Q194,item,,osm,Churchclara Ogham Stone II,Churchclara Ogham Stone II,Benchmark (OpenStreetMap node 7110849500),Höhenmarke (OpenStreetMap-Node 7110849500)
+Q195,item,,osm,Churchclara Ogham Stone I,Churchclara Ogham Stone I,Benchmark (OpenStreetMap node 7110849501),Höhenmarke (OpenStreetMap-Node 7110849501)
+Q196,item,,osm,Ballinrannig Stone VII (CIIC 154),Ballinrannig Stone VII (CIIC 154),"Benchmark, inscription “CUNAMAQQI CORBBI MAQQ[I MUCCOI DOVVINIA]S” (OpenStreetMap node 7203972860)","Höhenmarke, Inschrift „CUNAMAQQI CORBBI MAQQ[I MUCCOI DOVVINIA]S“ (OpenStreetMap-Node 7203972860)"
+Q197,item,,osm,Lugudeccas Stone,Lugudeccas Stone,Benchmark (OpenStreetMap node 7925063785),Höhenmarke (OpenStreetMap-Node 7925063785)
+Q198,item,,osm,Ballyboodan Ogham Stone,Ballyboodan Ogham Stone,Benchmark (OpenStreetMap node 8308921075),Höhenmarke (OpenStreetMap-Node 8308921075)
+Q199,item,,osm,OSM node 8355471227,OSM-Node 8355471227,Benchmark (OpenStreetMap node 8355471227),Höhenmarke (OpenStreetMap-Node 8355471227)
+Q200,item,,osm,OSM node 8355471228,OSM-Node 8355471228,Benchmark (OpenStreetMap node 8355471228),Höhenmarke (OpenStreetMap-Node 8355471228)
+Q201,item,,osm,OSM node 8355471229,OSM-Node 8355471229,Benchmark (OpenStreetMap node 8355471229),Höhenmarke (OpenStreetMap-Node 8355471229)
+Q202,item,,osm,OSM node 8355471230,OSM-Node 8355471230,Benchmark (OpenStreetMap node 8355471230),Höhenmarke (OpenStreetMap-Node 8355471230)
+Q203,item,,osm,OSM node 8355471231,OSM-Node 8355471231,Benchmark (OpenStreetMap node 8355471231),Höhenmarke (OpenStreetMap-Node 8355471231)
+Q204,item,,osm,Tullaherin Ogham Stone I,Tullaherin Ogham Stone I,Benchmark (OpenStreetMap node 8494707479),Höhenmarke (OpenStreetMap-Node 8494707479)
+Q205,item,,osm,OSM node 8520931982,OSM-Node 8520931982,Benchmark (OpenStreetMap node 8520931982),Höhenmarke (OpenStreetMap-Node 8520931982)
+Q206,item,,osm,OSM node 8520962885,OSM-Node 8520962885,Benchmark (OpenStreetMap node 8520962885),Höhenmarke (OpenStreetMap-Node 8520962885)
+Q207,item,,osm,Ardcanaght Ogham Stone,Ardcanaght Ogham Stone,Benchmark (OpenStreetMap node 8584276628),Höhenmarke (OpenStreetMap-Node 8584276628)
+Q208,item,,osm,CIIC 187,CIIC 187,"Benchmark, inscription “ẠṆM MẠỊLE-INBIR MACI BROCANN” (OpenStreetMap node 9110402648)","Höhenmarke, Inschrift „ẠṆM MẠỊLE-INBIR MACI BROCANN“ (OpenStreetMap-Node 9110402648)"
+Q209,item,,osm,CIIC 114/ UCC 26,CIIC 114/ UCC 26,"Benchmark, inscription “GRIMIGGN[I MAQ]I CERC...” (OpenStreetMap node 9990835587)","Höhenmarke, Inschrift „GRIMIGGN[I MAQ]I CERC...“ (OpenStreetMap-Node 9990835587)"
+Q210,item,,osm,Tullygarran Ogham Stones,Tullygarran Ogham Stones,Benchmark (OpenStreetMap relation 20680079),Höhenmarke (OpenStreetMap-Relation 20680079)
+Q211,item,,osm,Drumlohan Souterrain and Ogham Stones,Drumlohan Souterrain and Ogham Stones,Benchmark (OpenStreetMap way 1209135262),Höhenmarke (OpenStreetMap-Weg 1209135262)
 P100,property,url,,OSM element,OSM-Element,"The OpenStreetMap element (node, way or relation) this item describes; the URL names its type and ID.","Das OpenStreetMap-Element (Node, Way oder Relation), das dieses Item beschreibt; die URL nennt Typ und ID."
 P101,property,url,,OSM version,OSM-Version,"One version of the OSM element, as the URL of that version; one statement per version.",Eine Version des OSM-Elements als URL dieser Version; ein Statement je Version.
 P102,property,quantity,,OSM version number,OSM-Versionsnummer,Number of an OSM version (qualifier).,Nummer einer OSM-Version (Qualifier).

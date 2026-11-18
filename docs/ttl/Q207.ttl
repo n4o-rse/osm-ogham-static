@@ -1,0 +1,307 @@
+# Q207: the part of the RDF export of OSM Ogham stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of unknown
+# Licence: ODbL 1.0, © OpenStreetMap contributors
+# The prefixes oos:, oost:, oosp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only oos:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix oos: <https://n4o-rse.github.io/osm-ogham-static/entity/> .
+@prefix ooscat: <https://n4o-rse.github.io/osm-ogham-static/catalog/> .
+@prefix oosdata: <https://n4o-rse.github.io/osm-ogham-static/ttl/> .
+@prefix oosdist: <https://n4o-rse.github.io/osm-ogham-static/distribution/> .
+@prefix oosno: <https://n4o-rse.github.io/osm-ogham-static/prop/novalue/> .
+@prefix oosp: <https://n4o-rse.github.io/osm-ogham-static/prop/> .
+@prefix oospq: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/> .
+@prefix oospqv: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/value/> .
+@prefix oospr: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/> .
+@prefix oosprv: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/value/> .
+@prefix oosps: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/> .
+@prefix oospsv: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/value/> .
+@prefix oosref: <https://n4o-rse.github.io/osm-ogham-static/reference/> .
+@prefix ooss: <https://n4o-rse.github.io/osm-ogham-static/entity/statement/> .
+@prefix oost: <https://n4o-rse.github.io/osm-ogham-static/prop/direct/> .
+@prefix oosv: <https://n4o-rse.github.io/osm-ogham-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/osm-ogham-static/ttl/Q207.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:description "Benchmark (OpenStreetMap node 8584276628)"@en,
+        "Höhenmarke (OpenStreetMap-Node 8584276628)"@de ;
+    dcterms:identifier "Q207" ;
+    dcterms:isPartOf ooscat:items ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:subject oos:Q207 ;
+    dcterms:title "Ardcanaght Ogham Stone"@de,
+        "Ardcanaght Ogham Stone"@en ;
+    schema:about oos:Q207 ;
+    dcat:distribution oosdist:Q207-html,
+        oosdist:Q207-json,
+        oosdist:Q207-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/osm-ogham-static/Q207.html> .
+
+oosdist:Q207-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q207, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/osm-ogham-static/Q207.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+oosdist:Q207-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q207, as archived from the Wikibase API"@en ;
+    dcat:byteSize "21397"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/osm-ogham-static/json/Q207.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+oosdist:Q207-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q207, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL oosdata:Q207.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+oos:Q207
+    a wikibase:Item,
+        geo:Feature ;
+    schema:description "Benchmark (OpenStreetMap node 8584276628)"@en,
+        "Höhenmarke (OpenStreetMap-Node 8584276628)"@de ;
+    schema:name "Ardcanaght Ogham Stone"@de,
+        "Ardcanaght Ogham Stone"@en ;
+    wikibase:identifiers "0"^^xsd:integer ;
+    wikibase:statements "18"^^xsd:integer ;
+    geo:hasDefaultGeometry ooss:Q207-94BFF4DC-59AE-5362-8B85-4D50707AF027 ;
+    geo:hasGeometry ooss:Q207-94BFF4DC-59AE-5362-8B85-4D50707AF027 ;
+    rdfs:label "Ardcanaght Ogham Stone"@de,
+        "Ardcanaght Ogham Stone"@en ;
+    skos:prefLabel "Ardcanaght Ogham Stone"@de,
+        "Ardcanaght Ogham Stone"@en ;
+    oosp:P2 ooss:Q207-91F372F9-D59A-5890-9042-42931612F3F1 ;
+    oosp:P100 ooss:Q207-9F51F2D0-C20F-5290-91CD-38296D4EE031 ;
+    oosp:P101 ooss:Q207-36EFA806-A830-5B0B-B0B4-E12D87686C86,
+        ooss:Q207-495A0D70-44BE-5FF9-AD54-69EC2757BBE5,
+        ooss:Q207-2554E5F4-D3D0-547B-8009-A6134F679C9E,
+        ooss:Q207-96698A92-D400-584B-BE24-F3D7733F53C1 ;
+    oosp:P107 ooss:Q207-C355787C-F6FC-5FEF-977E-F859B078152F ;
+    oosp:P110 ooss:Q207-39436859-FDAF-525C-8AC2-4C4F526CB144 ;
+    oosp:P111 ooss:Q207-94BFF4DC-59AE-5362-8B85-4D50707AF027 ;
+    oosp:P113 ooss:Q207-1E12C856-5272-5738-8F53-9BAF8F6BDE4B,
+        ooss:Q207-3F961A6A-4B24-59A0-9A84-029172C74BDF,
+        ooss:Q207-4FA717F6-CEA5-5A3F-A244-7F040A8D27C5,
+        ooss:Q207-365B7425-93E1-5040-B9DD-5692467E7FB5,
+        ooss:Q207-828CD3B9-17DF-5CD4-93CB-08DDAB3E241E,
+        ooss:Q207-8377E5F7-1D12-53D3-B2B0-1D4C8AAB116F,
+        ooss:Q207-B182FC45-5E6B-5E1E-A241-C34350986EA6,
+        ooss:Q207-D5D4A1AD-511E-53D5-930B-44F6D344E56C,
+        ooss:Q207-EA3AD663-8855-5274-964B-6D918B069575 ;
+    oost:P2 oos:Q100 ;
+    oost:P100 <https://www.openstreetmap.org/node/8584276628> ;
+    oost:P101 <https://www.openstreetmap.org/node/8584276628/history/4> ;
+    oost:P107 <https://www.openstreetmap.org/node/8584276628/history/1> ;
+    oost:P110 "Point(-9.7258022 52.1691185)"^^geo:wktLiteral ;
+    oost:P111 "POINT(-9.7258022 52.1691185)" ;
+    oost:P113 "heritage=2",
+        "historic=ogham_stone",
+        "moved=yes",
+        "name=Ardcanaght Ogham Stone",
+        "ref:IE:nm=430",
+        "ref:IE:smr=KE047-026001-",
+        "source=https://ogham.celt.dias.ie/stone.php?lang=en&site=Ardcanaght&stone=246a._Ardcanaght_I",
+        "wikidata=Q38251860",
+        "wikipedia=en:Ardcanaght Stones" .
+
+ooss:Q207-1E12C856-5272-5738-8F53-9BAF8F6BDE4B
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:6889cb3c5e3391ebac01602d787b8262d001d3cb ;
+    oosps:P113 "ref:IE:nm=430" .
+
+ooss:Q207-3F961A6A-4B24-59A0-9A84-029172C74BDF
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:6889cb3c5e3391ebac01602d787b8262d001d3cb ;
+    oosps:P113 "source=https://ogham.celt.dias.ie/stone.php?lang=en&site=Ardcanaght&stone=246a._Ardcanaght_I" .
+
+ooss:Q207-4FA717F6-CEA5-5A3F-A244-7F040A8D27C5
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:6889cb3c5e3391ebac01602d787b8262d001d3cb ;
+    oosps:P113 "ref:IE:smr=KE047-026001-" .
+
+ooss:Q207-9F51F2D0-C20F-5290-91CD-38296D4EE031
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P100 <https://www.openstreetmap.org/node/8584276628> .
+
+ooss:Q207-36EFA806-A830-5B0B-B0B4-E12D87686C86
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+2"^^xsd:decimal ;
+    oospq:P103 "2023-02-10T12:33:18Z" ;
+    oospq:P104 "132357214" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:c295f8f927aa4b01b5401a2788a068ea ;
+    oosps:P101 <https://www.openstreetmap.org/node/8584276628/history/2> .
+
+ooss:Q207-91F372F9-D59A-5890-9042-42931612F3F1
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P2 oos:Q100 .
+
+ooss:Q207-94BFF4DC-59AE-5362-8B85-4D50707AF027
+    a wikibase:BestRank,
+        wikibase:Statement,
+        geo:Geometry ;
+    wikibase:rank wikibase:NormalRank ;
+    geo:asWKT "POINT(-9.7258022 52.1691185)"^^geo:wktLiteral ;
+    prov:wasDerivedFrom oosref:f7eee813bbbc86d01fdf419c0bae3919136c28bf ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2021-04-01T21:06:34Z" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P111 "POINT(-9.7258022 52.1691185)" .
+
+ooss:Q207-365B7425-93E1-5040-B9DD-5692467E7FB5
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:6889cb3c5e3391ebac01602d787b8262d001d3cb ;
+    oosps:P113 "heritage=2" .
+
+ooss:Q207-495A0D70-44BE-5FF9-AD54-69EC2757BBE5
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:PreferredRank ;
+    oospq:P102 "+4"^^xsd:decimal ;
+    oospq:P103 "2023-09-19T16:02:40Z" ;
+    oospq:P104 "141475864" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:9eb0a11f783b50f51f04a9fc2aca89fb ;
+    oosps:P101 <https://www.openstreetmap.org/node/8584276628/history/4> .
+
+ooss:Q207-828CD3B9-17DF-5CD4-93CB-08DDAB3E241E
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:6889cb3c5e3391ebac01602d787b8262d001d3cb ;
+    oosps:P113 "moved=yes" .
+
+ooss:Q207-2554E5F4-D3D0-547B-8009-A6134F679C9E
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+3"^^xsd:decimal ;
+    oospq:P103 "2023-02-16T13:49:54Z" ;
+    oospq:P104 "132630473" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:0bbe1280560b495eac2a68b29e4b1c4e ;
+    oosps:P101 <https://www.openstreetmap.org/node/8584276628/history/3> .
+
+ooss:Q207-8377E5F7-1D12-53D3-B2B0-1D4C8AAB116F
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:6889cb3c5e3391ebac01602d787b8262d001d3cb ;
+    oosps:P113 "wikipedia=en:Ardcanaght Stones" .
+
+ooss:Q207-96698A92-D400-584B-BE24-F3D7733F53C1
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2021-04-01T21:06:34Z" ;
+    oospq:P104 "102148844" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P101 <https://www.openstreetmap.org/node/8584276628/history/1> .
+
+ooss:Q207-39436859-FDAF-525C-8AC2-4C4F526CB144
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:6889cb3c5e3391ebac01602d787b8262d001d3cb ;
+    oosps:P110 "Point(-9.7258022 52.1691185)"^^geo:wktLiteral ;
+    oospsv:P110 oosv:0d48a44d2a30cdc00cf650dc33f8655a .
+
+ooss:Q207-B182FC45-5E6B-5E1E-A241-C34350986EA6
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:6889cb3c5e3391ebac01602d787b8262d001d3cb ;
+    oosps:P113 "name=Ardcanaght Ogham Stone" .
+
+ooss:Q207-C355787C-F6FC-5FEF-977E-F859B078152F
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P109 "ogham" ;
+    oosps:P107 <https://www.openstreetmap.org/node/8584276628/history/1> .
+
+ooss:Q207-D5D4A1AD-511E-53D5-930B-44F6D344E56C
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:6889cb3c5e3391ebac01602d787b8262d001d3cb ;
+    oosps:P113 "historic=ogham_stone" .
+
+ooss:Q207-EA3AD663-8855-5274-964B-6D918B069575
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:6889cb3c5e3391ebac01602d787b8262d001d3cb ;
+    oosps:P113 "wikidata=Q38251860" .
+
+oosref:6889cb3c5e3391ebac01602d787b8262d001d3cb
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/node/8584276628/history/4> .
+
+oosref:f7eee813bbbc86d01fdf419c0bae3919136c28bf
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/node/8584276628/history/1> .
+
+oosv:0bbe1280560b495eac2a68b29e4b1c4e
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+3"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:0d48a44d2a30cdc00cf650dc33f8655a
+    a wikibase:GlobecoordinateValue ;
+    wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> ;
+    wikibase:geoLatitude "52.1691185"^^xsd:double ;
+    wikibase:geoLongitude "-9.7258022"^^xsd:double ;
+    wikibase:geoPrecision "1e-06"^^xsd:double .
+
+oosv:9eb0a11f783b50f51f04a9fc2aca89fb
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+4"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:aa2e7afcc4dbda508bf34d1e83609f7e
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+1"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:c295f8f927aa4b01b5401a2788a068ea
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+2"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .

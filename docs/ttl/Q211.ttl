@@ -1,0 +1,273 @@
+# Q211: the part of the RDF export of OSM Ogham stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of unknown
+# Licence: ODbL 1.0, © OpenStreetMap contributors
+# The prefixes oos:, oost:, oosp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only oos:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix oos: <https://n4o-rse.github.io/osm-ogham-static/entity/> .
+@prefix ooscat: <https://n4o-rse.github.io/osm-ogham-static/catalog/> .
+@prefix oosdata: <https://n4o-rse.github.io/osm-ogham-static/ttl/> .
+@prefix oosdist: <https://n4o-rse.github.io/osm-ogham-static/distribution/> .
+@prefix oosno: <https://n4o-rse.github.io/osm-ogham-static/prop/novalue/> .
+@prefix oosp: <https://n4o-rse.github.io/osm-ogham-static/prop/> .
+@prefix oospq: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/> .
+@prefix oospqv: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/value/> .
+@prefix oospr: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/> .
+@prefix oosprv: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/value/> .
+@prefix oosps: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/> .
+@prefix oospsv: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/value/> .
+@prefix oosref: <https://n4o-rse.github.io/osm-ogham-static/reference/> .
+@prefix ooss: <https://n4o-rse.github.io/osm-ogham-static/entity/statement/> .
+@prefix oost: <https://n4o-rse.github.io/osm-ogham-static/prop/direct/> .
+@prefix oosv: <https://n4o-rse.github.io/osm-ogham-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/osm-ogham-static/ttl/Q211.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:description "Benchmark (OpenStreetMap way 1209135262)"@en,
+        "Höhenmarke (OpenStreetMap-Weg 1209135262)"@de ;
+    dcterms:identifier "Q211" ;
+    dcterms:isPartOf ooscat:items ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:subject oos:Q211 ;
+    dcterms:title "Drumlohan Souterrain and Ogham Stones"@de,
+        "Drumlohan Souterrain and Ogham Stones"@en ;
+    schema:about oos:Q211 ;
+    dcat:distribution oosdist:Q211-html,
+        oosdist:Q211-json,
+        oosdist:Q211-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/osm-ogham-static/Q211.html> .
+
+oosdist:Q211-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q211, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/osm-ogham-static/Q211.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+oosdist:Q211-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q211, as archived from the Wikibase API"@en ;
+    dcat:byteSize "17500"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/osm-ogham-static/json/Q211.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+oosdist:Q211-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q211, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL oosdata:Q211.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+oos:Q211
+    a wikibase:Item,
+        geo:Feature ;
+    schema:description "Benchmark (OpenStreetMap way 1209135262)"@en,
+        "Höhenmarke (OpenStreetMap-Weg 1209135262)"@de ;
+    schema:name "Drumlohan Souterrain and Ogham Stones"@de,
+        "Drumlohan Souterrain and Ogham Stones"@en ;
+    wikibase:identifiers "0"^^xsd:integer ;
+    wikibase:statements "16"^^xsd:integer ;
+    geo:hasDefaultGeometry ooss:Q211-D39C5E2C-D1B2-5D50-A30E-847FB629AC30 ;
+    geo:hasGeometry ooss:Q211-D39C5E2C-D1B2-5D50-A30E-847FB629AC30 ;
+    rdfs:label "Drumlohan Souterrain and Ogham Stones"@de,
+        "Drumlohan Souterrain and Ogham Stones"@en ;
+    skos:prefLabel "Drumlohan Souterrain and Ogham Stones"@de,
+        "Drumlohan Souterrain and Ogham Stones"@en ;
+    oosp:P2 ooss:Q211-18CD7B97-8600-5FE1-81F7-F21A8E06A949 ;
+    oosp:P100 ooss:Q211-82D889D2-0B37-5CB3-900B-CC27CB3D7DAC ;
+    oosp:P101 ooss:Q211-13DFBC83-9E52-567B-B4E6-DAFA81122AD8,
+        ooss:Q211-112DCCE5-F38C-5E88-902C-093C7349CD3E ;
+    oosp:P107 ooss:Q211-76B205F4-9114-5253-B02E-5766206ECF2C ;
+    oosp:P110 ooss:Q211-3DE6547D-4CF4-534A-B3E4-9BBAC174488B ;
+    oosp:P111 ooss:Q211-D39C5E2C-D1B2-5D50-A30E-847FB629AC30 ;
+    oosp:P113 ooss:Q211-0F2B1BAD-5919-5D11-BBED-47B2EAC57B80,
+        ooss:Q211-1B9C8108-5003-5A90-A1C2-E8DCC5EAA950,
+        ooss:Q211-2F93FFA0-B1F1-56EE-A81A-316D2886508C,
+        ooss:Q211-3A834BB1-527E-567C-8926-98AD27C03D79,
+        ooss:Q211-8C4BAEA4-F587-5F80-BCBB-2B4DED0D7918,
+        ooss:Q211-82FEBB8B-06F6-5AFA-AC1D-D14E3ADC4A85,
+        ooss:Q211-2371F5C2-4C66-52A8-AC40-3E8E0CA250C5,
+        ooss:Q211-AF8907E8-BE95-5268-9B12-CDC1FABA16C1,
+        ooss:Q211-C1104A6B-B72A-51A5-8AD8-6264D646D6A9 ;
+    oost:P2 oos:Q100 ;
+    oost:P100 <https://www.openstreetmap.org/way/1209135262> ;
+    oost:P101 <https://www.openstreetmap.org/way/1209135262/history/2> ;
+    oost:P107 <https://www.openstreetmap.org/way/1209135262/history/1> ;
+    oost:P110 "Point(-7.4653448 52.1632819)"^^geo:wktLiteral ;
+    oost:P111 "POLYGON((-7.465302 52.1633336, -7.4652502 52.1632761, -7.4653867 52.1632303, -7.4654395 52.1632871, -7.465302 52.1633336))" ;
+    oost:P113 "archaeological_site=souterrain",
+        "fixme=separate all ogham stones into nodes",
+        "heritage=2",
+        "historic=ogham_stone",
+        "name=Drumlohan Souterrain and Ogham Stones",
+        "ref:IE:nm=154",
+        "ref:IE:smr=WA024-033010-;WA024-033013-;WA024-033007-;WA024-033008-;WA024-033017-;WA024-033011-;WA024-033014-;WA024-033006-;WA024-033012-;WA024-033009-;WA024-033015-",
+        "wikidata=Q1261275",
+        "wikipedia=en:Drumlohan Souterrain and Ogham Stones" .
+
+ooss:Q211-0F2B1BAD-5919-5D11-BBED-47B2EAC57B80
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:5b2cec96ae23a11921312331a276e337ff510864 ;
+    oosps:P113 "archaeological_site=souterrain" .
+
+ooss:Q211-1B9C8108-5003-5A90-A1C2-E8DCC5EAA950
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:5b2cec96ae23a11921312331a276e337ff510864 ;
+    oosps:P113 "name=Drumlohan Souterrain and Ogham Stones" .
+
+ooss:Q211-2F93FFA0-B1F1-56EE-A81A-316D2886508C
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:5b2cec96ae23a11921312331a276e337ff510864 ;
+    oosps:P113 "heritage=2" .
+
+ooss:Q211-3A834BB1-527E-567C-8926-98AD27C03D79
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:5b2cec96ae23a11921312331a276e337ff510864 ;
+    oosps:P113 "wikidata=Q1261275" .
+
+ooss:Q211-3DE6547D-4CF4-534A-B3E4-9BBAC174488B
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:0ee61cf06a59d517a6fc0153d1e26dc1413025ee ;
+    oosps:P110 "Point(-7.4653448 52.1632819)"^^geo:wktLiteral ;
+    oospsv:P110 oosv:db02de76325f298afa40b37b66521afd .
+
+ooss:Q211-8C4BAEA4-F587-5F80-BCBB-2B4DED0D7918
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:5b2cec96ae23a11921312331a276e337ff510864 ;
+    oosps:P113 "ref:IE:nm=154" .
+
+ooss:Q211-13DFBC83-9E52-567B-B4E6-DAFA81122AD8
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2023-09-19T16:25:42Z" ;
+    oospq:P104 "141476719" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P101 <https://www.openstreetmap.org/way/1209135262/history/1> .
+
+ooss:Q211-18CD7B97-8600-5FE1-81F7-F21A8E06A949
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P2 oos:Q100 .
+
+ooss:Q211-76B205F4-9114-5253-B02E-5766206ECF2C
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P109 "ogham" ;
+    oosps:P107 <https://www.openstreetmap.org/way/1209135262/history/1> .
+
+ooss:Q211-82D889D2-0B37-5CB3-900B-CC27CB3D7DAC
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P100 <https://www.openstreetmap.org/way/1209135262> .
+
+ooss:Q211-82FEBB8B-06F6-5AFA-AC1D-D14E3ADC4A85
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:5b2cec96ae23a11921312331a276e337ff510864 ;
+    oosps:P113 "historic=ogham_stone" .
+
+ooss:Q211-112DCCE5-F38C-5E88-902C-093C7349CD3E
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:PreferredRank ;
+    oospq:P102 "+2"^^xsd:decimal ;
+    oospq:P103 "2023-11-08T23:29:00Z" ;
+    oospq:P104 "143801428" ;
+    oospq:P105 "ij96" ;
+    oospq:P106 "20314039" ;
+    oospqv:P102 oosv:c295f8f927aa4b01b5401a2788a068ea ;
+    oosps:P101 <https://www.openstreetmap.org/way/1209135262/history/2> .
+
+ooss:Q211-2371F5C2-4C66-52A8-AC40-3E8E0CA250C5
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:5b2cec96ae23a11921312331a276e337ff510864 ;
+    oosps:P113 "fixme=separate all ogham stones into nodes" .
+
+ooss:Q211-AF8907E8-BE95-5268-9B12-CDC1FABA16C1
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:5b2cec96ae23a11921312331a276e337ff510864 ;
+    oosps:P113 "ref:IE:smr=WA024-033010-;WA024-033013-;WA024-033007-;WA024-033008-;WA024-033017-;WA024-033011-;WA024-033014-;WA024-033006-;WA024-033012-;WA024-033009-;WA024-033015-" .
+
+ooss:Q211-C1104A6B-B72A-51A5-8AD8-6264D646D6A9
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:5b2cec96ae23a11921312331a276e337ff510864 ;
+    oosps:P113 "wikipedia=en:Drumlohan Souterrain and Ogham Stones" .
+
+ooss:Q211-D39C5E2C-D1B2-5D50-A30E-847FB629AC30
+    a wikibase:BestRank,
+        wikibase:Statement,
+        geo:Geometry ;
+    wikibase:rank wikibase:NormalRank ;
+    geo:asWKT "POLYGON((-7.465302 52.1633336, -7.4652502 52.1632761, -7.4653867 52.1632303, -7.4654395 52.1632871, -7.465302 52.1633336))"^^geo:wktLiteral ;
+    prov:wasDerivedFrom oosref:0ee61cf06a59d517a6fc0153d1e26dc1413025ee ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2023-09-19T16:25:42Z" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P111 "POLYGON((-7.465302 52.1633336, -7.4652502 52.1632761, -7.4653867 52.1632303, -7.4654395 52.1632871, -7.465302 52.1633336))" .
+
+oosref:0ee61cf06a59d517a6fc0153d1e26dc1413025ee
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/way/1209135262/history/1> .
+
+oosref:5b2cec96ae23a11921312331a276e337ff510864
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/way/1209135262/history/2> .
+
+oosv:aa2e7afcc4dbda508bf34d1e83609f7e
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+1"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:c295f8f927aa4b01b5401a2788a068ea
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+2"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:db02de76325f298afa40b37b66521afd
+    a wikibase:GlobecoordinateValue ;
+    wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> ;
+    wikibase:geoLatitude "52.1632819"^^xsd:double ;
+    wikibase:geoLongitude "-7.4653448"^^xsd:double ;
+    wikibase:geoPrecision "1e-06"^^xsd:double .

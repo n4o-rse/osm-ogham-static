@@ -1,0 +1,216 @@
+# Q136: the part of the RDF export of OSM Ogham stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of unknown
+# Licence: ODbL 1.0, © OpenStreetMap contributors
+# The prefixes oos:, oost:, oosp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only oos:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix oos: <https://n4o-rse.github.io/osm-ogham-static/entity/> .
+@prefix ooscat: <https://n4o-rse.github.io/osm-ogham-static/catalog/> .
+@prefix oosdata: <https://n4o-rse.github.io/osm-ogham-static/ttl/> .
+@prefix oosdist: <https://n4o-rse.github.io/osm-ogham-static/distribution/> .
+@prefix oosno: <https://n4o-rse.github.io/osm-ogham-static/prop/novalue/> .
+@prefix oosp: <https://n4o-rse.github.io/osm-ogham-static/prop/> .
+@prefix oospq: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/> .
+@prefix oospqv: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/value/> .
+@prefix oospr: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/> .
+@prefix oosprv: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/value/> .
+@prefix oosps: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/> .
+@prefix oospsv: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/value/> .
+@prefix oosref: <https://n4o-rse.github.io/osm-ogham-static/reference/> .
+@prefix ooss: <https://n4o-rse.github.io/osm-ogham-static/entity/statement/> .
+@prefix oost: <https://n4o-rse.github.io/osm-ogham-static/prop/direct/> .
+@prefix oosv: <https://n4o-rse.github.io/osm-ogham-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/osm-ogham-static/ttl/Q136.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:description "Benchmark, inscription “᚛ᚋᚓᚇᚒᚄᚔ ᚋᚒᚉᚖ ᚂᚒᚌᚐ᚜ MEDUSI MUCOI LUGA) Medusi of the tribe of Lug” (OpenStreetMap node 11269165790)"@en,
+        "Höhenmarke, Inschrift „᚛ᚋᚓᚇᚒᚄᚔ ᚋᚒᚉᚖ ᚂᚒᚌᚐ᚜ MEDUSI MUCOI LUGA) Medusi of the tribe of Lug“ (OpenStreetMap-Node 11269165790)"@de ;
+    dcterms:identifier "Q136" ;
+    dcterms:isPartOf ooscat:items ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:subject oos:Q136 ;
+    dcterms:title "Benchmark ᚛ᚋᚓᚇᚒᚄᚔ ᚋᚒᚉᚖ ᚂᚒᚌᚐ᚜ MEDUSI MUCOI LUGA) Medusi of the tribe of Lug"@de,
+        "Benchmark ᚛ᚋᚓᚇᚒᚄᚔ ᚋᚒᚉᚖ ᚂᚒᚌᚐ᚜ MEDUSI MUCOI LUGA) Medusi of the tribe of Lug"@en ;
+    schema:about oos:Q136 ;
+    dcat:distribution oosdist:Q136-html,
+        oosdist:Q136-json,
+        oosdist:Q136-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/osm-ogham-static/Q136.html> .
+
+oosdist:Q136-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q136, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/osm-ogham-static/Q136.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+oosdist:Q136-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q136, as archived from the Wikibase API"@en ;
+    dcat:byteSize "12154"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/osm-ogham-static/json/Q136.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+oosdist:Q136-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q136, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL oosdata:Q136.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+oos:Q136
+    a wikibase:Item,
+        geo:Feature ;
+    schema:description "Benchmark, inscription “᚛ᚋᚓᚇᚒᚄᚔ ᚋᚒᚉᚖ ᚂᚒᚌᚐ᚜ MEDUSI MUCOI LUGA) Medusi of the tribe of Lug” (OpenStreetMap node 11269165790)"@en,
+        "Höhenmarke, Inschrift „᚛ᚋᚓᚇᚒᚄᚔ ᚋᚒᚉᚖ ᚂᚒᚌᚐ᚜ MEDUSI MUCOI LUGA) Medusi of the tribe of Lug“ (OpenStreetMap-Node 11269165790)"@de ;
+    schema:name "Benchmark ᚛ᚋᚓᚇᚒᚄᚔ ᚋᚒᚉᚖ ᚂᚒᚌᚐ᚜ MEDUSI MUCOI LUGA) Medusi of the tribe of Lug"@de,
+        "Benchmark ᚛ᚋᚓᚇᚒᚄᚔ ᚋᚒᚉᚖ ᚂᚒᚌᚐ᚜ MEDUSI MUCOI LUGA) Medusi of the tribe of Lug"@en ;
+    wikibase:identifiers "0"^^xsd:integer ;
+    wikibase:statements "11"^^xsd:integer ;
+    geo:hasDefaultGeometry ooss:Q136-0E90C511-A148-5423-9C24-45E577743CC0 ;
+    geo:hasGeometry ooss:Q136-0E90C511-A148-5423-9C24-45E577743CC0 ;
+    rdfs:label "Benchmark ᚛ᚋᚓᚇᚒᚄᚔ ᚋᚒᚉᚖ ᚂᚒᚌᚐ᚜ MEDUSI MUCOI LUGA) Medusi of the tribe of Lug"@de,
+        "Benchmark ᚛ᚋᚓᚇᚒᚄᚔ ᚋᚒᚉᚖ ᚂᚒᚌᚐ᚜ MEDUSI MUCOI LUGA) Medusi of the tribe of Lug"@en ;
+    skos:prefLabel "Benchmark ᚛ᚋᚓᚇᚒᚄᚔ ᚋᚒᚉᚖ ᚂᚒᚌᚐ᚜ MEDUSI MUCOI LUGA) Medusi of the tribe of Lug"@de,
+        "Benchmark ᚛ᚋᚓᚇᚒᚄᚔ ᚋᚒᚉᚖ ᚂᚒᚌᚐ᚜ MEDUSI MUCOI LUGA) Medusi of the tribe of Lug"@en ;
+    oosp:P2 ooss:Q136-D6D4D72D-8EC3-5285-A07D-4AC8DAF0C391 ;
+    oosp:P100 ooss:Q136-E8FE92CA-DD48-50B4-87F7-DB5E107FC9DF ;
+    oosp:P101 ooss:Q136-BB5FC5D6-C1C1-57D8-A0E6-402A31D4EF5C ;
+    oosp:P107 ooss:Q136-BE5F95FA-81E7-56F3-BC18-18DF106099ED ;
+    oosp:P110 ooss:Q136-CC17BFF4-6884-52AC-AE51-BA3095958528 ;
+    oosp:P111 ooss:Q136-0E90C511-A148-5423-9C24-45E577743CC0 ;
+    oosp:P113 ooss:Q136-4EA00799-F301-5799-9016-A3669BA5FD0C,
+        ooss:Q136-94B7631A-30CA-58B2-928B-C8746534370A,
+        ooss:Q136-134481D6-BA77-5D9D-A220-95C57876BD25,
+        ooss:Q136-E16D8896-F22A-50AB-8D60-B92A2395D580,
+        ooss:Q136-FA60D557-EC99-51E2-8193-B5C54F1BD659 ;
+    oost:P2 oos:Q100 ;
+    oost:P100 <https://www.openstreetmap.org/node/11269165790> ;
+    oost:P101 <https://www.openstreetmap.org/node/11269165790/history/1> ;
+    oost:P107 <https://www.openstreetmap.org/node/11269165790/history/1> ;
+    oost:P110 "Point(-7.8476997 52.0743959)"^^geo:wktLiteral ;
+    oost:P111 "POINT(-7.8476997 52.0743959)" ;
+    oost:P113 "fixme=move to exact location",
+        "historic=ogham_stone",
+        "inscription=᚛ᚋᚓᚇᚒᚄᚔ ᚋᚒᚉᚖ ᚂᚒᚌᚐ᚜ MEDUSI MUCOI LUGA) Medusi of the tribe of Lug",
+        "ref:IE:smr=WA029-042006-",
+        "url:ogham3D=https://ogham.celt.dias.ie/stone.php?lang=en&site=Dromore&stone=267._Dromore_II" .
+
+ooss:Q136-0E90C511-A148-5423-9C24-45E577743CC0
+    a wikibase:BestRank,
+        wikibase:Statement,
+        geo:Geometry ;
+    wikibase:rank wikibase:NormalRank ;
+    geo:asWKT "POINT(-7.8476997 52.0743959)"^^geo:wktLiteral ;
+    prov:wasDerivedFrom oosref:a504d56ded8e82b5be08c0720baa4eb1c57f61bf ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2023-10-17T12:54:29Z" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P111 "POINT(-7.8476997 52.0743959)" .
+
+ooss:Q136-4EA00799-F301-5799-9016-A3669BA5FD0C
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:a504d56ded8e82b5be08c0720baa4eb1c57f61bf ;
+    oosps:P113 "url:ogham3D=https://ogham.celt.dias.ie/stone.php?lang=en&site=Dromore&stone=267._Dromore_II" .
+
+ooss:Q136-94B7631A-30CA-58B2-928B-C8746534370A
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:a504d56ded8e82b5be08c0720baa4eb1c57f61bf ;
+    oosps:P113 "fixme=move to exact location" .
+
+ooss:Q136-134481D6-BA77-5D9D-A220-95C57876BD25
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:a504d56ded8e82b5be08c0720baa4eb1c57f61bf ;
+    oosps:P113 "inscription=᚛ᚋᚓᚇᚒᚄᚔ ᚋᚒᚉᚖ ᚂᚒᚌᚐ᚜ MEDUSI MUCOI LUGA) Medusi of the tribe of Lug" .
+
+ooss:Q136-BB5FC5D6-C1C1-57D8-A0E6-402A31D4EF5C
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:PreferredRank ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2023-10-17T12:54:29Z" ;
+    oospq:P104 "142712154" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P101 <https://www.openstreetmap.org/node/11269165790/history/1> .
+
+ooss:Q136-BE5F95FA-81E7-56F3-BC18-18DF106099ED
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P109 "ogham" ;
+    oosps:P107 <https://www.openstreetmap.org/node/11269165790/history/1> .
+
+ooss:Q136-CC17BFF4-6884-52AC-AE51-BA3095958528
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:a504d56ded8e82b5be08c0720baa4eb1c57f61bf ;
+    oosps:P110 "Point(-7.8476997 52.0743959)"^^geo:wktLiteral ;
+    oospsv:P110 oosv:abdd635f0ae5bef8d6b713375bb86bd0 .
+
+ooss:Q136-D6D4D72D-8EC3-5285-A07D-4AC8DAF0C391
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P2 oos:Q100 .
+
+ooss:Q136-E8FE92CA-DD48-50B4-87F7-DB5E107FC9DF
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P100 <https://www.openstreetmap.org/node/11269165790> .
+
+ooss:Q136-E16D8896-F22A-50AB-8D60-B92A2395D580
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:a504d56ded8e82b5be08c0720baa4eb1c57f61bf ;
+    oosps:P113 "ref:IE:smr=WA029-042006-" .
+
+ooss:Q136-FA60D557-EC99-51E2-8193-B5C54F1BD659
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:a504d56ded8e82b5be08c0720baa4eb1c57f61bf ;
+    oosps:P113 "historic=ogham_stone" .
+
+oosref:a504d56ded8e82b5be08c0720baa4eb1c57f61bf
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/node/11269165790/history/1> .
+
+oosv:aa2e7afcc4dbda508bf34d1e83609f7e
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+1"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:abdd635f0ae5bef8d6b713375bb86bd0
+    a wikibase:GlobecoordinateValue ;
+    wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> ;
+    wikibase:geoLatitude "52.0743959"^^xsd:double ;
+    wikibase:geoLongitude "-7.8476997"^^xsd:double ;
+    wikibase:geoPrecision "1e-06"^^xsd:double .

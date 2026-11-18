@@ -1,0 +1,307 @@
+# Q108: the part of the RDF export of OSM Ogham stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of unknown
+# Licence: ODbL 1.0, © OpenStreetMap contributors
+# The prefixes oos:, oost:, oosp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only oos:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix oos: <https://n4o-rse.github.io/osm-ogham-static/entity/> .
+@prefix ooscat: <https://n4o-rse.github.io/osm-ogham-static/catalog/> .
+@prefix oosdata: <https://n4o-rse.github.io/osm-ogham-static/ttl/> .
+@prefix oosdist: <https://n4o-rse.github.io/osm-ogham-static/distribution/> .
+@prefix oosno: <https://n4o-rse.github.io/osm-ogham-static/prop/novalue/> .
+@prefix oosp: <https://n4o-rse.github.io/osm-ogham-static/prop/> .
+@prefix oospq: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/> .
+@prefix oospqv: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/value/> .
+@prefix oospr: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/> .
+@prefix oosprv: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/value/> .
+@prefix oosps: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/> .
+@prefix oospsv: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/value/> .
+@prefix oosref: <https://n4o-rse.github.io/osm-ogham-static/reference/> .
+@prefix ooss: <https://n4o-rse.github.io/osm-ogham-static/entity/statement/> .
+@prefix oost: <https://n4o-rse.github.io/osm-ogham-static/prop/direct/> .
+@prefix oosv: <https://n4o-rse.github.io/osm-ogham-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/osm-ogham-static/ttl/Q108.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:description "Benchmark (OpenStreetMap node 10594973066)"@en,
+        "Höhenmarke (OpenStreetMap-Node 10594973066)"@de ;
+    dcterms:identifier "Q108" ;
+    dcterms:isPartOf ooscat:items ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:subject oos:Q108 ;
+    dcterms:title "Castletimon Ogham Stone"@de,
+        "Castletimon Ogham Stone"@en ;
+    schema:about oos:Q108 ;
+    dcat:distribution oosdist:Q108-html,
+        oosdist:Q108-json,
+        oosdist:Q108-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/osm-ogham-static/Q108.html> .
+
+oosdist:Q108-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q108, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/osm-ogham-static/Q108.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+oosdist:Q108-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q108, as archived from the Wikibase API"@en ;
+    dcat:byteSize "21370"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/osm-ogham-static/json/Q108.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+oosdist:Q108-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q108, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL oosdata:Q108.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+oos:Q108
+    a wikibase:Item,
+        geo:Feature ;
+    schema:description "Benchmark (OpenStreetMap node 10594973066)"@en,
+        "Höhenmarke (OpenStreetMap-Node 10594973066)"@de ;
+    schema:name "Castletimon Ogham Stone"@de,
+        "Castletimon Ogham Stone"@en ;
+    wikibase:identifiers "0"^^xsd:integer ;
+    wikibase:statements "18"^^xsd:integer ;
+    geo:hasDefaultGeometry ooss:Q108-7C9918F4-1B94-54F9-9B28-82867E053E24 ;
+    geo:hasGeometry ooss:Q108-7C9918F4-1B94-54F9-9B28-82867E053E24 ;
+    rdfs:label "Castletimon Ogham Stone"@de,
+        "Castletimon Ogham Stone"@en ;
+    skos:prefLabel "Castletimon Ogham Stone"@de,
+        "Castletimon Ogham Stone"@en ;
+    oosp:P2 ooss:Q108-2650679E-8FD2-5447-9458-B967CD435F9A ;
+    oosp:P100 ooss:Q108-2801E878-1F61-57D7-9BAC-40FDBB993A52 ;
+    oosp:P101 ooss:Q108-63E34B62-2052-597D-93D7-FEEA571DE3EC,
+        ooss:Q108-95F68E16-61FF-5294-8FB0-CDB912E7BB5A,
+        ooss:Q108-289B34CE-BAF3-5DE6-9CDC-F0BBCE910ED6,
+        ooss:Q108-916A6151-B0AB-503D-9041-C9820D62A97A ;
+    oosp:P107 ooss:Q108-551B35F3-2B9C-544A-8F07-FF87DFDA4BCE ;
+    oosp:P110 ooss:Q108-A2BC49FD-5EDF-5753-8870-351E772E8754 ;
+    oosp:P111 ooss:Q108-7C9918F4-1B94-54F9-9B28-82867E053E24 ;
+    oosp:P113 ooss:Q108-6B626CA2-C389-5B25-8935-E89842D59413,
+        ooss:Q108-9CB0A507-C808-5E62-BA88-8CE7EC129E2C,
+        ooss:Q108-9CD4838C-1B5F-5F60-AF82-E8649A959B55,
+        ooss:Q108-76CD1067-6E1D-5F5E-8798-977A01BECCBA,
+        ooss:Q108-5449A9B2-835F-5F2D-ADCF-BD6CE62FEEDB,
+        ooss:Q108-B479C630-8D50-524E-90D9-662F76840665,
+        ooss:Q108-D7419C84-112C-531F-BC23-4C85887B7102,
+        ooss:Q108-EC93B4A3-8AA6-505C-A4B6-50CAFCD69D61,
+        ooss:Q108-F12C3A51-2DEA-5013-BDFA-563239B37685 ;
+    oost:P2 oos:Q100 ;
+    oost:P100 <https://www.openstreetmap.org/node/10594973066> ;
+    oost:P101 <https://www.openstreetmap.org/node/10594973066/history/4> ;
+    oost:P107 <https://www.openstreetmap.org/node/10594973066/history/1> ;
+    oost:P110 "Point(-6.0714863 52.9046431)"^^geo:wktLiteral ;
+    oost:P111 "POINT(-6.0714863 52.9046431)" ;
+    oost:P113 "fixme=check location",
+        "heritage=2",
+        "historic=ogham_stone",
+        "loc_name=The Giant's Stone",
+        "name=Castletimon Ogham Stone",
+        "ref:IE:nm=304",
+        "ref:IE:smr=WI036-010----",
+        "wikidata=Q28232123",
+        "wikipedia=en:Castletimon Ogham Stone" .
+
+ooss:Q108-6B626CA2-C389-5B25-8935-E89842D59413
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:f8a00910ff7dd18cbc7a8f7fb09d7b5ad96af38c ;
+    oosps:P113 "wikidata=Q28232123" .
+
+ooss:Q108-7C9918F4-1B94-54F9-9B28-82867E053E24
+    a wikibase:BestRank,
+        wikibase:Statement,
+        geo:Geometry ;
+    wikibase:rank wikibase:NormalRank ;
+    geo:asWKT "POINT(-6.0714863 52.9046431)"^^geo:wktLiteral ;
+    prov:wasDerivedFrom oosref:c60cd542bf78d7202c8883cee5818202ad360e1b ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2023-01-30T21:04:41Z" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P111 "POINT(-6.0714863 52.9046431)" .
+
+ooss:Q108-9CB0A507-C808-5E62-BA88-8CE7EC129E2C
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:f8a00910ff7dd18cbc7a8f7fb09d7b5ad96af38c ;
+    oosps:P113 "heritage=2" .
+
+ooss:Q108-9CD4838C-1B5F-5F60-AF82-E8649A959B55
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:f8a00910ff7dd18cbc7a8f7fb09d7b5ad96af38c ;
+    oosps:P113 "ref:IE:smr=WI036-010----" .
+
+ooss:Q108-63E34B62-2052-597D-93D7-FEEA571DE3EC
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:PreferredRank ;
+    oospq:P102 "+4"^^xsd:decimal ;
+    oospq:P103 "2023-09-19T16:40:08Z" ;
+    oospq:P104 "141477321" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:9eb0a11f783b50f51f04a9fc2aca89fb ;
+    oosps:P101 <https://www.openstreetmap.org/node/10594973066/history/4> .
+
+ooss:Q108-76CD1067-6E1D-5F5E-8798-977A01BECCBA
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:f8a00910ff7dd18cbc7a8f7fb09d7b5ad96af38c ;
+    oosps:P113 "historic=ogham_stone" .
+
+ooss:Q108-95F68E16-61FF-5294-8FB0-CDB912E7BB5A
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+2"^^xsd:decimal ;
+    oospq:P103 "2023-01-30T21:05:14Z" ;
+    oospq:P104 "131896814" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:c295f8f927aa4b01b5401a2788a068ea ;
+    oosps:P101 <https://www.openstreetmap.org/node/10594973066/history/2> .
+
+ooss:Q108-289B34CE-BAF3-5DE6-9CDC-F0BBCE910ED6
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+3"^^xsd:decimal ;
+    oospq:P103 "2023-02-16T12:37:15Z" ;
+    oospq:P104 "132627482" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:0bbe1280560b495eac2a68b29e4b1c4e ;
+    oosps:P101 <https://www.openstreetmap.org/node/10594973066/history/3> .
+
+ooss:Q108-551B35F3-2B9C-544A-8F07-FF87DFDA4BCE
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P109 "ogham" ;
+    oosps:P107 <https://www.openstreetmap.org/node/10594973066/history/1> .
+
+ooss:Q108-916A6151-B0AB-503D-9041-C9820D62A97A
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2023-01-30T21:04:41Z" ;
+    oospq:P104 "131896802" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P101 <https://www.openstreetmap.org/node/10594973066/history/1> .
+
+ooss:Q108-2801E878-1F61-57D7-9BAC-40FDBB993A52
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P100 <https://www.openstreetmap.org/node/10594973066> .
+
+ooss:Q108-5449A9B2-835F-5F2D-ADCF-BD6CE62FEEDB
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:f8a00910ff7dd18cbc7a8f7fb09d7b5ad96af38c ;
+    oosps:P113 "loc_name=The Giant's Stone" .
+
+ooss:Q108-2650679E-8FD2-5447-9458-B967CD435F9A
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P2 oos:Q100 .
+
+ooss:Q108-A2BC49FD-5EDF-5753-8870-351E772E8754
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:f8a00910ff7dd18cbc7a8f7fb09d7b5ad96af38c ;
+    oosps:P110 "Point(-6.0714863 52.9046431)"^^geo:wktLiteral ;
+    oospsv:P110 oosv:144b628f76aa4366ffeb57b1fa20b09b .
+
+ooss:Q108-B479C630-8D50-524E-90D9-662F76840665
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:f8a00910ff7dd18cbc7a8f7fb09d7b5ad96af38c ;
+    oosps:P113 "name=Castletimon Ogham Stone" .
+
+ooss:Q108-D7419C84-112C-531F-BC23-4C85887B7102
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:f8a00910ff7dd18cbc7a8f7fb09d7b5ad96af38c ;
+    oosps:P113 "ref:IE:nm=304" .
+
+ooss:Q108-EC93B4A3-8AA6-505C-A4B6-50CAFCD69D61
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:f8a00910ff7dd18cbc7a8f7fb09d7b5ad96af38c ;
+    oosps:P113 "fixme=check location" .
+
+ooss:Q108-F12C3A51-2DEA-5013-BDFA-563239B37685
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:f8a00910ff7dd18cbc7a8f7fb09d7b5ad96af38c ;
+    oosps:P113 "wikipedia=en:Castletimon Ogham Stone" .
+
+oosref:c60cd542bf78d7202c8883cee5818202ad360e1b
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/node/10594973066/history/1> .
+
+oosref:f8a00910ff7dd18cbc7a8f7fb09d7b5ad96af38c
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/node/10594973066/history/4> .
+
+oosv:0bbe1280560b495eac2a68b29e4b1c4e
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+3"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:9eb0a11f783b50f51f04a9fc2aca89fb
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+4"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:144b628f76aa4366ffeb57b1fa20b09b
+    a wikibase:GlobecoordinateValue ;
+    wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> ;
+    wikibase:geoLatitude "52.9046431"^^xsd:double ;
+    wikibase:geoLongitude "-6.0714863"^^xsd:double ;
+    wikibase:geoPrecision "1e-06"^^xsd:double .
+
+oosv:aa2e7afcc4dbda508bf34d1e83609f7e
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+1"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:c295f8f927aa4b01b5401a2788a068ea
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+2"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .

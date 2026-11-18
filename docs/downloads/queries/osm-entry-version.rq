@@ -1,0 +1,18 @@
+PREFIX oosp: <https://n4o-rse.github.io/osm-ogham-static/prop/>
+PREFIX oospq: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/>
+PREFIX oosps: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?item ?label ?entryVersion ?since ?selection WHERE {
+  ?item oosp:P107 ?entry ;
+        oosp:P101 ?version ;
+        rdfs:label ?label .
+  ?entry oosps:P107 ?url ;
+         oospq:P109 ?selection .
+  ?version oosps:P101 ?url ;
+           oospq:P102 ?entryVersion ;
+           oospq:P103 ?since .
+  FILTER(LANG(?label) = "en")
+}
+ORDER BY DESC(?entryVersion) ?since ?label
+LIMIT 200

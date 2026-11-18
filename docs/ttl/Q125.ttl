@@ -1,0 +1,360 @@
+# Q125: the part of the RDF export of OSM Ogham stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of unknown
+# Licence: ODbL 1.0, © OpenStreetMap contributors
+# The prefixes oos:, oost:, oosp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only oos:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix oos: <https://n4o-rse.github.io/osm-ogham-static/entity/> .
+@prefix ooscat: <https://n4o-rse.github.io/osm-ogham-static/catalog/> .
+@prefix oosdata: <https://n4o-rse.github.io/osm-ogham-static/ttl/> .
+@prefix oosdist: <https://n4o-rse.github.io/osm-ogham-static/distribution/> .
+@prefix oosno: <https://n4o-rse.github.io/osm-ogham-static/prop/novalue/> .
+@prefix oosp: <https://n4o-rse.github.io/osm-ogham-static/prop/> .
+@prefix oospq: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/> .
+@prefix oospqv: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/value/> .
+@prefix oospr: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/> .
+@prefix oosprv: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/value/> .
+@prefix oosps: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/> .
+@prefix oospsv: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/value/> .
+@prefix oosref: <https://n4o-rse.github.io/osm-ogham-static/reference/> .
+@prefix ooss: <https://n4o-rse.github.io/osm-ogham-static/entity/statement/> .
+@prefix oost: <https://n4o-rse.github.io/osm-ogham-static/prop/direct/> .
+@prefix oosv: <https://n4o-rse.github.io/osm-ogham-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/osm-ogham-static/ttl/Q125.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:description "Benchmark, inscription “NAVVICAS MAQI MUCOI DOVVINAS” (OpenStreetMap node 11269073316)"@en,
+        "Höhenmarke, Inschrift „NAVVICAS MAQI MUCOI DOVVINAS“ (OpenStreetMap-Node 11269073316)"@de ;
+    dcterms:identifier "Q125" ;
+    dcterms:isPartOf ooscat:items ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:subject oos:Q125 ;
+    dcterms:title "Ogham Stone Ballinrannig III"@de,
+        "Ogham Stone Ballinrannig III"@en ;
+    schema:about oos:Q125 ;
+    dcat:distribution oosdist:Q125-html,
+        oosdist:Q125-json,
+        oosdist:Q125-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/osm-ogham-static/Q125.html> .
+
+oosdist:Q125-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q125, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/osm-ogham-static/Q125.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+oosdist:Q125-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q125, as archived from the Wikibase API"@en ;
+    dcat:byteSize "27323"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/osm-ogham-static/json/Q125.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+oosdist:Q125-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q125, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL oosdata:Q125.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+oos:Q125
+    a wikibase:Item,
+        geo:Feature ;
+    schema:description "Benchmark, inscription “NAVVICAS MAQI MUCOI DOVVINAS” (OpenStreetMap node 11269073316)"@en,
+        "Höhenmarke, Inschrift „NAVVICAS MAQI MUCOI DOVVINAS“ (OpenStreetMap-Node 11269073316)"@de ;
+    schema:name "Ogham Stone Ballinrannig III"@de,
+        "Ogham Stone Ballinrannig III"@en ;
+    wikibase:identifiers "0"^^xsd:integer ;
+    wikibase:statements "21"^^xsd:integer ;
+    geo:hasDefaultGeometry ooss:Q125-CFD92D40-F84A-5618-A3B1-AFB68BC516D7 ;
+    geo:hasGeometry ooss:Q125-BDD66278-3E64-53AA-9787-5C2227180F25,
+        ooss:Q125-CFD92D40-F84A-5618-A3B1-AFB68BC516D7 ;
+    rdfs:label "Ogham Stone Ballinrannig III"@de,
+        "Ogham Stone Ballinrannig III"@en ;
+    skos:prefLabel "Ogham Stone Ballinrannig III"@de,
+        "Ogham Stone Ballinrannig III"@en ;
+    oosp:P2 ooss:Q125-72A88F8A-0823-5B2D-9788-BA753979AFE5 ;
+    oosp:P100 ooss:Q125-8064CA30-E2BF-5EFC-A5B4-363DF6317D3E ;
+    oosp:P101 ooss:Q125-02CEB237-CD6A-5501-AEC9-B6D9B5D72239,
+        ooss:Q125-3D6EDFE1-C77C-59C9-AA45-88DBE7B48F60,
+        ooss:Q125-9BB20D73-E12A-50C6-B445-840CBC0EDDDA,
+        ooss:Q125-3557F724-FE9F-5501-9474-ECCDA357CCBC,
+        ooss:Q125-07688A59-0C67-537B-AAFB-671BFF6114D1,
+        ooss:Q125-C6E735C8-0747-5441-AFD0-15FF71C61803 ;
+    oosp:P107 ooss:Q125-1AF17D89-F592-5BCB-BE35-EF362A999433 ;
+    oosp:P110 ooss:Q125-616141DA-A9FC-50F0-B73F-D493DC0A9D2A ;
+    oosp:P111 ooss:Q125-BDD66278-3E64-53AA-9787-5C2227180F25,
+        ooss:Q125-CFD92D40-F84A-5618-A3B1-AFB68BC516D7 ;
+    oosp:P113 ooss:Q125-0ED33441-849E-579B-B8D6-79F49050D399,
+        ooss:Q125-0F05BAF9-19B3-5AF4-8207-195851131CB0,
+        ooss:Q125-6F269D95-F1C2-5C24-8CBE-6B036B17C2BD,
+        ooss:Q125-6FB73CC8-5139-5C19-914B-3B89A15B0956,
+        ooss:Q125-35C31726-74F3-5DD5-9AF5-5356F563F172,
+        ooss:Q125-53F59426-73A9-5DDB-B38E-4C5B04143B8E,
+        ooss:Q125-742FAE81-8995-5414-A397-420143899EDE,
+        ooss:Q125-8253D59B-64DE-561C-A1F6-E6A25FEF2A17,
+        ooss:Q125-ABBD03D4-6C8A-5181-A299-ED4CDF17174D ;
+    oost:P2 oos:Q100 ;
+    oost:P100 <https://www.openstreetmap.org/node/11269073316> ;
+    oost:P101 <https://www.openstreetmap.org/node/11269073316/history/6> ;
+    oost:P107 <https://www.openstreetmap.org/node/11269073316/history/1> ;
+    oost:P110 "Point(-10.305989 52.1267708)"^^geo:wktLiteral ;
+    oost:P111 "POINT(-10.305989 52.1267708)",
+        "POINT(-10.3059686 52.1267783)" ;
+    oost:P113 "heritage:operator=IE:smr",
+        "heritage=2",
+        "historic=ogham_stone",
+        "inscription=NAVVICAS MAQI MUCOI DOVVINAS",
+        "moved=yes",
+        "name=Ogham Stone Ballinrannig III",
+        "ref:IE:smr=KE053-012006-",
+        "related:wikidata=Q130602052",
+        "related:wikipedia=en:List of National Monuments in County Kerry" .
+
+ooss:Q125-0ED33441-849E-579B-B8D6-79F49050D399
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:89d9f98e2db719fd4fdc788a0397f177951592d3 ;
+    oosps:P113 "heritage=2" .
+
+ooss:Q125-0F05BAF9-19B3-5AF4-8207-195851131CB0
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:89d9f98e2db719fd4fdc788a0397f177951592d3 ;
+    oosps:P113 "historic=ogham_stone" .
+
+ooss:Q125-1AF17D89-F592-5BCB-BE35-EF362A999433
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P109 "ogham" ;
+    oosps:P107 <https://www.openstreetmap.org/node/11269073316/history/1> .
+
+ooss:Q125-02CEB237-CD6A-5501-AEC9-B6D9B5D72239
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:PreferredRank ;
+    oospq:P102 "+6"^^xsd:decimal ;
+    oospq:P103 "2024-11-27T14:04:08Z" ;
+    oospq:P104 "159661420" ;
+    oospq:P105 "geozeisig" ;
+    oospq:P106 "66391" ;
+    oospqv:P102 oosv:4a452dffd06b2507ab2eb1eddf5c4e2f ;
+    oosps:P101 <https://www.openstreetmap.org/node/11269073316/history/6> .
+
+ooss:Q125-3D6EDFE1-C77C-59C9-AA45-88DBE7B48F60
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+4"^^xsd:decimal ;
+    oospq:P103 "2024-10-21T16:51:47Z" ;
+    oospq:P104 "158179260" ;
+    oospq:P105 "fthierygeo" ;
+    oospq:P106 "8813335" ;
+    oospqv:P102 oosv:9eb0a11f783b50f51f04a9fc2aca89fb ;
+    oosps:P101 <https://www.openstreetmap.org/node/11269073316/history/4> .
+
+ooss:Q125-6F269D95-F1C2-5C24-8CBE-6B036B17C2BD
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:89d9f98e2db719fd4fdc788a0397f177951592d3 ;
+    oosps:P113 "inscription=NAVVICAS MAQI MUCOI DOVVINAS" .
+
+ooss:Q125-6FB73CC8-5139-5C19-914B-3B89A15B0956
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:89d9f98e2db719fd4fdc788a0397f177951592d3 ;
+    oosps:P113 "moved=yes" .
+
+ooss:Q125-9BB20D73-E12A-50C6-B445-840CBC0EDDDA
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+5"^^xsd:decimal ;
+    oospq:P103 "2024-10-21T17:04:47Z" ;
+    oospq:P104 "158179735" ;
+    oospq:P105 "fthierygeo" ;
+    oospq:P106 "8813335" ;
+    oospqv:P102 oosv:30e603cac620241526fa9f81268ba25c ;
+    oosps:P101 <https://www.openstreetmap.org/node/11269073316/history/5> .
+
+ooss:Q125-35C31726-74F3-5DD5-9AF5-5356F563F172
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:89d9f98e2db719fd4fdc788a0397f177951592d3 ;
+    oosps:P113 "ref:IE:smr=KE053-012006-" .
+
+ooss:Q125-53F59426-73A9-5DDB-B38E-4C5B04143B8E
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:89d9f98e2db719fd4fdc788a0397f177951592d3 ;
+    oosps:P113 "heritage:operator=IE:smr" .
+
+ooss:Q125-72A88F8A-0823-5B2D-9788-BA753979AFE5
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P2 oos:Q100 .
+
+ooss:Q125-742FAE81-8995-5414-A397-420143899EDE
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:89d9f98e2db719fd4fdc788a0397f177951592d3 ;
+    oosps:P113 "related:wikidata=Q130602052" .
+
+ooss:Q125-3557F724-FE9F-5501-9474-ECCDA357CCBC
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2023-10-17T12:12:23Z" ;
+    oospq:P104 "142710521" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P101 <https://www.openstreetmap.org/node/11269073316/history/1> .
+
+ooss:Q125-07688A59-0C67-537B-AAFB-671BFF6114D1
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+3"^^xsd:decimal ;
+    oospq:P103 "2024-10-21T15:59:21Z" ;
+    oospq:P104 "158177049" ;
+    oospq:P105 "fthierygeo" ;
+    oospq:P106 "8813335" ;
+    oospqv:P102 oosv:0bbe1280560b495eac2a68b29e4b1c4e ;
+    oosps:P101 <https://www.openstreetmap.org/node/11269073316/history/3> .
+
+ooss:Q125-8064CA30-E2BF-5EFC-A5B4-363DF6317D3E
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P100 <https://www.openstreetmap.org/node/11269073316> .
+
+ooss:Q125-8253D59B-64DE-561C-A1F6-E6A25FEF2A17
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:89d9f98e2db719fd4fdc788a0397f177951592d3 ;
+    oosps:P113 "related:wikipedia=en:List of National Monuments in County Kerry" .
+
+ooss:Q125-616141DA-A9FC-50F0-B73F-D493DC0A9D2A
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:89d9f98e2db719fd4fdc788a0397f177951592d3 ;
+    oosps:P110 "Point(-10.305989 52.1267708)"^^geo:wktLiteral ;
+    oospsv:P110 oosv:f2355f94ef7530db8cb00f64aef5cb12 .
+
+ooss:Q125-ABBD03D4-6C8A-5181-A299-ED4CDF17174D
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:89d9f98e2db719fd4fdc788a0397f177951592d3 ;
+    oosps:P113 "name=Ogham Stone Ballinrannig III" .
+
+ooss:Q125-BDD66278-3E64-53AA-9787-5C2227180F25
+    a wikibase:BestRank,
+        wikibase:Statement,
+        geo:Geometry ;
+    wikibase:rank wikibase:NormalRank ;
+    geo:asWKT "POINT(-10.3059686 52.1267783)"^^geo:wktLiteral ;
+    prov:wasDerivedFrom oosref:8f9f980b625892752c6c59688eca8e3a986957da ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2023-10-17T12:12:23Z" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P111 "POINT(-10.3059686 52.1267783)" .
+
+ooss:Q125-C6E735C8-0747-5441-AFD0-15FF71C61803
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+2"^^xsd:decimal ;
+    oospq:P103 "2023-10-17T12:13:15Z" ;
+    oospq:P104 "142710559" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:c295f8f927aa4b01b5401a2788a068ea ;
+    oosps:P101 <https://www.openstreetmap.org/node/11269073316/history/2> .
+
+ooss:Q125-CFD92D40-F84A-5618-A3B1-AFB68BC516D7
+    a wikibase:BestRank,
+        wikibase:Statement,
+        geo:Geometry ;
+    wikibase:rank wikibase:NormalRank ;
+    geo:asWKT "POINT(-10.305989 52.1267708)"^^geo:wktLiteral ;
+    prov:wasDerivedFrom oosref:52ab726368eb72e81d54657824a97f33a7c588a9 ;
+    oospq:P102 "+4"^^xsd:decimal ;
+    oospq:P103 "2024-10-21T16:51:47Z" ;
+    oospqv:P102 oosv:9eb0a11f783b50f51f04a9fc2aca89fb ;
+    oosps:P111 "POINT(-10.305989 52.1267708)" .
+
+oosref:8f9f980b625892752c6c59688eca8e3a986957da
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/node/11269073316/history/1> .
+
+oosref:52ab726368eb72e81d54657824a97f33a7c588a9
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/node/11269073316/history/4> .
+
+oosref:89d9f98e2db719fd4fdc788a0397f177951592d3
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/node/11269073316/history/6> .
+
+oosv:0bbe1280560b495eac2a68b29e4b1c4e
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+3"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:4a452dffd06b2507ab2eb1eddf5c4e2f
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+6"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:9eb0a11f783b50f51f04a9fc2aca89fb
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+4"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:30e603cac620241526fa9f81268ba25c
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+5"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:aa2e7afcc4dbda508bf34d1e83609f7e
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+1"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:c295f8f927aa4b01b5401a2788a068ea
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+2"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:f2355f94ef7530db8cb00f64aef5cb12
+    a wikibase:GlobecoordinateValue ;
+    wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> ;
+    wikibase:geoLatitude "52.1267708"^^xsd:double ;
+    wikibase:geoLongitude "-10.305989"^^xsd:double ;
+    wikibase:geoPrecision "1e-06"^^xsd:double .

@@ -1,0 +1,225 @@
+# Q135: the part of the RDF export of OSM Ogham stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of unknown
+# Licence: ODbL 1.0, © OpenStreetMap contributors
+# The prefixes oos:, oost:, oosp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only oos:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix oos: <https://n4o-rse.github.io/osm-ogham-static/entity/> .
+@prefix ooscat: <https://n4o-rse.github.io/osm-ogham-static/catalog/> .
+@prefix oosdata: <https://n4o-rse.github.io/osm-ogham-static/ttl/> .
+@prefix oosdist: <https://n4o-rse.github.io/osm-ogham-static/distribution/> .
+@prefix oosno: <https://n4o-rse.github.io/osm-ogham-static/prop/novalue/> .
+@prefix oosp: <https://n4o-rse.github.io/osm-ogham-static/prop/> .
+@prefix oospq: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/> .
+@prefix oospqv: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/value/> .
+@prefix oospr: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/> .
+@prefix oosprv: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/value/> .
+@prefix oosps: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/> .
+@prefix oospsv: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/value/> .
+@prefix oosref: <https://n4o-rse.github.io/osm-ogham-static/reference/> .
+@prefix ooss: <https://n4o-rse.github.io/osm-ogham-static/entity/statement/> .
+@prefix oost: <https://n4o-rse.github.io/osm-ogham-static/prop/direct/> .
+@prefix oosv: <https://n4o-rse.github.io/osm-ogham-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/osm-ogham-static/ttl/Q135.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:description "Benchmark, inscription “᚛ᚉᚑᚂᚂᚐᚁᚑᚈ ᚋᚒᚉᚖ ᚂᚒᚌᚐ ᚋᚐᚊᚔ ᚂᚑᚁᚐᚉᚉᚑᚅᚐ᚜COLLABOT MUCOI LUGA MAQI LOBACCONA\"Of Cóelub of the tribe of Lug, son of Lubchú” (OpenStreetMap node 11269165789)"@en,
+        "Höhenmarke, Inschrift „᚛ᚉᚑᚂᚂᚐᚁᚑᚈ ᚋᚒᚉᚖ ᚂᚒᚌᚐ ᚋᚐᚊᚔ ᚂᚑᚁᚐᚉᚉᚑᚅᚐ᚜COLLABOT MUCOI LUGA MAQI LOBACCONA\"Of Cóelub of the tribe of Lug, son of Lubchú“ (OpenStreetMap-Node 11269165789)"@de ;
+    dcterms:identifier "Q135" ;
+    dcterms:isPartOf ooscat:items ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:subject oos:Q135 ;
+    dcterms:title "Benchmark ᚛ᚉᚑᚂᚂᚐᚁᚑᚈ ᚋᚒᚉᚖ ᚂᚒᚌᚐ ᚋᚐᚊᚔ ᚂᚑᚁᚐᚉᚉᚑᚅᚐ᚜COLLABOT MUCOI LUGA MAQI LOBACCONA\"Of Cóelub of the tribe of Lug, son of Lubchú"@de,
+        "Benchmark ᚛ᚉᚑᚂᚂᚐᚁᚑᚈ ᚋᚒᚉᚖ ᚂᚒᚌᚐ ᚋᚐᚊᚔ ᚂᚑᚁᚐᚉᚉᚑᚅᚐ᚜COLLABOT MUCOI LUGA MAQI LOBACCONA\"Of Cóelub of the tribe of Lug, son of Lubchú"@en ;
+    schema:about oos:Q135 ;
+    dcat:distribution oosdist:Q135-html,
+        oosdist:Q135-json,
+        oosdist:Q135-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/osm-ogham-static/Q135.html> .
+
+oosdist:Q135-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q135, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/osm-ogham-static/Q135.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+oosdist:Q135-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q135, as archived from the Wikibase API"@en ;
+    dcat:byteSize "13569"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/osm-ogham-static/json/Q135.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+oosdist:Q135-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q135, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL oosdata:Q135.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+oos:Q135
+    a wikibase:Item,
+        geo:Feature ;
+    schema:description "Benchmark, inscription “᚛ᚉᚑᚂᚂᚐᚁᚑᚈ ᚋᚒᚉᚖ ᚂᚒᚌᚐ ᚋᚐᚊᚔ ᚂᚑᚁᚐᚉᚉᚑᚅᚐ᚜COLLABOT MUCOI LUGA MAQI LOBACCONA\"Of Cóelub of the tribe of Lug, son of Lubchú” (OpenStreetMap node 11269165789)"@en,
+        "Höhenmarke, Inschrift „᚛ᚉᚑᚂᚂᚐᚁᚑᚈ ᚋᚒᚉᚖ ᚂᚒᚌᚐ ᚋᚐᚊᚔ ᚂᚑᚁᚐᚉᚉᚑᚅᚐ᚜COLLABOT MUCOI LUGA MAQI LOBACCONA\"Of Cóelub of the tribe of Lug, son of Lubchú“ (OpenStreetMap-Node 11269165789)"@de ;
+    schema:name "Benchmark ᚛ᚉᚑᚂᚂᚐᚁᚑᚈ ᚋᚒᚉᚖ ᚂᚒᚌᚐ ᚋᚐᚊᚔ ᚂᚑᚁᚐᚉᚉᚑᚅᚐ᚜COLLABOT MUCOI LUGA MAQI LOBACCONA\"Of Cóelub of the tribe of Lug, son of Lubchú"@de,
+        "Benchmark ᚛ᚉᚑᚂᚂᚐᚁᚑᚈ ᚋᚒᚉᚖ ᚂᚒᚌᚐ ᚋᚐᚊᚔ ᚂᚑᚁᚐᚉᚉᚑᚅᚐ᚜COLLABOT MUCOI LUGA MAQI LOBACCONA\"Of Cóelub of the tribe of Lug, son of Lubchú"@en ;
+    wikibase:identifiers "0"^^xsd:integer ;
+    wikibase:statements "12"^^xsd:integer ;
+    geo:hasDefaultGeometry ooss:Q135-154F5234-0580-5672-BF2D-59FB391855B0 ;
+    geo:hasGeometry ooss:Q135-154F5234-0580-5672-BF2D-59FB391855B0 ;
+    rdfs:label "Benchmark ᚛ᚉᚑᚂᚂᚐᚁᚑᚈ ᚋᚒᚉᚖ ᚂᚒᚌᚐ ᚋᚐᚊᚔ ᚂᚑᚁᚐᚉᚉᚑᚅᚐ᚜COLLABOT MUCOI LUGA MAQI LOBACCONA\"Of Cóelub of the tribe of Lug, son of Lubchú"@de,
+        "Benchmark ᚛ᚉᚑᚂᚂᚐᚁᚑᚈ ᚋᚒᚉᚖ ᚂᚒᚌᚐ ᚋᚐᚊᚔ ᚂᚑᚁᚐᚉᚉᚑᚅᚐ᚜COLLABOT MUCOI LUGA MAQI LOBACCONA\"Of Cóelub of the tribe of Lug, son of Lubchú"@en ;
+    skos:prefLabel "Benchmark ᚛ᚉᚑᚂᚂᚐᚁᚑᚈ ᚋᚒᚉᚖ ᚂᚒᚌᚐ ᚋᚐᚊᚔ ᚂᚑᚁᚐᚉᚉᚑᚅᚐ᚜COLLABOT MUCOI LUGA MAQI LOBACCONA\"Of Cóelub of the tribe of Lug, son of Lubchú"@de,
+        "Benchmark ᚛ᚉᚑᚂᚂᚐᚁᚑᚈ ᚋᚒᚉᚖ ᚂᚒᚌᚐ ᚋᚐᚊᚔ ᚂᚑᚁᚐᚉᚉᚑᚅᚐ᚜COLLABOT MUCOI LUGA MAQI LOBACCONA\"Of Cóelub of the tribe of Lug, son of Lubchú"@en ;
+    oosp:P2 ooss:Q135-998B66DB-80F9-5EEA-8820-04D4C6FFA5F0 ;
+    oosp:P100 ooss:Q135-BD9543A4-7FFD-51BE-89D0-4A643738ECE2 ;
+    oosp:P101 ooss:Q135-86714333-DF9B-51C4-9B78-B5B67C4D7C9C ;
+    oosp:P107 ooss:Q135-D1960B35-E7F8-5D6C-A8BF-00D9EB18DD4A ;
+    oosp:P110 ooss:Q135-B36BE151-DF84-50FC-9953-66BC68C06E18 ;
+    oosp:P111 ooss:Q135-154F5234-0580-5672-BF2D-59FB391855B0 ;
+    oosp:P113 ooss:Q135-8A1BAC67-396C-5A6B-8F4E-16CEEB76E48C,
+        ooss:Q135-012A54E2-EE81-5FFD-B616-E9CA9540D647,
+        ooss:Q135-3930D41F-A650-5AE7-B1C9-88E3C701B299,
+        ooss:Q135-A0D9BFAF-E44A-5092-A792-2096A66D2059,
+        ooss:Q135-A009967A-DB8C-529D-B9EE-8724A10D1E06,
+        ooss:Q135-C30DFF67-7377-5627-8D51-790D3DE32A8A ;
+    oost:P2 oos:Q100 ;
+    oost:P100 <https://www.openstreetmap.org/node/11269165789> ;
+    oost:P101 <https://www.openstreetmap.org/node/11269165789/history/1> ;
+    oost:P107 <https://www.openstreetmap.org/node/11269165789/history/1> ;
+    oost:P110 "Point(-7.8476737 52.0744342)"^^geo:wktLiteral ;
+    oost:P111 "POINT(-7.8476737 52.0744342)" ;
+    oost:P113 "fixme=move to exact location",
+        "historic=ogham_stone",
+        "image=https://ogham.celt.dias.ie/resources/sites/Dromore/266._Dromore_I/266._Dromore_I_thumb.jpg",
+        "inscription=᚛ᚉᚑᚂᚂᚐᚁᚑᚈ ᚋᚒᚉᚖ ᚂᚒᚌᚐ ᚋᚐᚊᚔ ᚂᚑᚁᚐᚉᚉᚑᚅᚐ᚜COLLABOT MUCOI LUGA MAQI LOBACCONA\"Of Cóelub of the tribe of Lug, son of Lubchú",
+        "ref:IE:smr=WA029-042003-",
+        "url:ogham3D=https://ogham.celt.dias.ie/stone.php?lang=en&site=Dromore&stoneinfo=inscription&stone=266._Dromore_I" .
+
+ooss:Q135-8A1BAC67-396C-5A6B-8F4E-16CEEB76E48C
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:29862bf34d0b2f29005bdefb2445adde0aa49fd9 ;
+    oosps:P113 "fixme=move to exact location" .
+
+ooss:Q135-012A54E2-EE81-5FFD-B616-E9CA9540D647
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:29862bf34d0b2f29005bdefb2445adde0aa49fd9 ;
+    oosps:P113 "inscription=᚛ᚉᚑᚂᚂᚐᚁᚑᚈ ᚋᚒᚉᚖ ᚂᚒᚌᚐ ᚋᚐᚊᚔ ᚂᚑᚁᚐᚉᚉᚑᚅᚐ᚜COLLABOT MUCOI LUGA MAQI LOBACCONA\"Of Cóelub of the tribe of Lug, son of Lubchú" .
+
+ooss:Q135-154F5234-0580-5672-BF2D-59FB391855B0
+    a wikibase:BestRank,
+        wikibase:Statement,
+        geo:Geometry ;
+    wikibase:rank wikibase:NormalRank ;
+    geo:asWKT "POINT(-7.8476737 52.0744342)"^^geo:wktLiteral ;
+    prov:wasDerivedFrom oosref:29862bf34d0b2f29005bdefb2445adde0aa49fd9 ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2023-10-17T12:54:29Z" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P111 "POINT(-7.8476737 52.0744342)" .
+
+ooss:Q135-998B66DB-80F9-5EEA-8820-04D4C6FFA5F0
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P2 oos:Q100 .
+
+ooss:Q135-3930D41F-A650-5AE7-B1C9-88E3C701B299
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:29862bf34d0b2f29005bdefb2445adde0aa49fd9 ;
+    oosps:P113 "ref:IE:smr=WA029-042003-" .
+
+ooss:Q135-86714333-DF9B-51C4-9B78-B5B67C4D7C9C
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:PreferredRank ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2023-10-17T12:54:29Z" ;
+    oospq:P104 "142712154" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P101 <https://www.openstreetmap.org/node/11269165789/history/1> .
+
+ooss:Q135-A0D9BFAF-E44A-5092-A792-2096A66D2059
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:29862bf34d0b2f29005bdefb2445adde0aa49fd9 ;
+    oosps:P113 "image=https://ogham.celt.dias.ie/resources/sites/Dromore/266._Dromore_I/266._Dromore_I_thumb.jpg" .
+
+ooss:Q135-A009967A-DB8C-529D-B9EE-8724A10D1E06
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:29862bf34d0b2f29005bdefb2445adde0aa49fd9 ;
+    oosps:P113 "url:ogham3D=https://ogham.celt.dias.ie/stone.php?lang=en&site=Dromore&stoneinfo=inscription&stone=266._Dromore_I" .
+
+ooss:Q135-B36BE151-DF84-50FC-9953-66BC68C06E18
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:29862bf34d0b2f29005bdefb2445adde0aa49fd9 ;
+    oosps:P110 "Point(-7.8476737 52.0744342)"^^geo:wktLiteral ;
+    oospsv:P110 oosv:63d6db96b8779cd4be3f2bfa1ea06024 .
+
+ooss:Q135-BD9543A4-7FFD-51BE-89D0-4A643738ECE2
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P100 <https://www.openstreetmap.org/node/11269165789> .
+
+ooss:Q135-C30DFF67-7377-5627-8D51-790D3DE32A8A
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:29862bf34d0b2f29005bdefb2445adde0aa49fd9 ;
+    oosps:P113 "historic=ogham_stone" .
+
+ooss:Q135-D1960B35-E7F8-5D6C-A8BF-00D9EB18DD4A
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P109 "ogham" ;
+    oosps:P107 <https://www.openstreetmap.org/node/11269165789/history/1> .
+
+oosref:29862bf34d0b2f29005bdefb2445adde0aa49fd9
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/node/11269165789/history/1> .
+
+oosv:63d6db96b8779cd4be3f2bfa1ea06024
+    a wikibase:GlobecoordinateValue ;
+    wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> ;
+    wikibase:geoLatitude "52.0744342"^^xsd:double ;
+    wikibase:geoLongitude "-7.8476737"^^xsd:double ;
+    wikibase:geoPrecision "1e-06"^^xsd:double .
+
+oosv:aa2e7afcc4dbda508bf34d1e83609f7e
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+1"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .

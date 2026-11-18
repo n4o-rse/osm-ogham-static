@@ -1,0 +1,287 @@
+# Q200: the part of the RDF export of OSM Ogham stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of unknown
+# Licence: ODbL 1.0, © OpenStreetMap contributors
+# The prefixes oos:, oost:, oosp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only oos:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix oos: <https://n4o-rse.github.io/osm-ogham-static/entity/> .
+@prefix ooscat: <https://n4o-rse.github.io/osm-ogham-static/catalog/> .
+@prefix oosdata: <https://n4o-rse.github.io/osm-ogham-static/ttl/> .
+@prefix oosdist: <https://n4o-rse.github.io/osm-ogham-static/distribution/> .
+@prefix oosno: <https://n4o-rse.github.io/osm-ogham-static/prop/novalue/> .
+@prefix oosp: <https://n4o-rse.github.io/osm-ogham-static/prop/> .
+@prefix oospq: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/> .
+@prefix oospqv: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/value/> .
+@prefix oospr: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/> .
+@prefix oosprv: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/value/> .
+@prefix oosps: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/> .
+@prefix oospsv: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/value/> .
+@prefix oosref: <https://n4o-rse.github.io/osm-ogham-static/reference/> .
+@prefix ooss: <https://n4o-rse.github.io/osm-ogham-static/entity/statement/> .
+@prefix oost: <https://n4o-rse.github.io/osm-ogham-static/prop/direct/> .
+@prefix oosv: <https://n4o-rse.github.io/osm-ogham-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/osm-ogham-static/ttl/Q200.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:description "Benchmark (OpenStreetMap node 8355471228)"@en,
+        "Höhenmarke (OpenStreetMap-Node 8355471228)"@de ;
+    dcterms:identifier "Q200" ;
+    dcterms:isPartOf ooscat:items ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:subject oos:Q200 ;
+    dcterms:title "OSM node 8355471228"@en,
+        "OSM-Node 8355471228"@de ;
+    schema:about oos:Q200 ;
+    dcat:distribution oosdist:Q200-html,
+        oosdist:Q200-json,
+        oosdist:Q200-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/osm-ogham-static/Q200.html> .
+
+oosdist:Q200-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q200, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/osm-ogham-static/Q200.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+oosdist:Q200-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q200, as archived from the Wikibase API"@en ;
+    dcat:byteSize "19367"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/osm-ogham-static/json/Q200.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+oosdist:Q200-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q200, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL oosdata:Q200.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+oos:Q200
+    a wikibase:Item,
+        geo:Feature ;
+    schema:description "Benchmark (OpenStreetMap node 8355471228)"@en,
+        "Höhenmarke (OpenStreetMap-Node 8355471228)"@de ;
+    schema:name "OSM node 8355471228"@en,
+        "OSM-Node 8355471228"@de ;
+    wikibase:identifiers "0"^^xsd:integer ;
+    wikibase:statements "14"^^xsd:integer ;
+    geo:hasDefaultGeometry ooss:Q200-A6432EF8-DB54-53E2-905D-28A9E698AA6E ;
+    geo:hasGeometry ooss:Q200-6CC12F89-56CF-51B0-8E54-93DC7216B2B8,
+        ooss:Q200-014B896C-2AB7-5D32-839B-88075D1F2021,
+        ooss:Q200-A6432EF8-DB54-53E2-905D-28A9E698AA6E ;
+    rdfs:label "OSM node 8355471228"@en,
+        "OSM-Node 8355471228"@de ;
+    skos:prefLabel "OSM node 8355471228"@en,
+        "OSM-Node 8355471228"@de ;
+    oosp:P2 ooss:Q200-244DFBF5-7503-578E-9E94-FD333E8AF8CE ;
+    oosp:P100 ooss:Q200-1399AC5B-68C2-5F00-AEE3-69C512441ADB ;
+    oosp:P101 ooss:Q200-7CE52A84-C826-5EAC-8601-191EDA956CE6,
+        ooss:Q200-65FC992A-94E3-53DC-A95B-810BCD019EA5,
+        ooss:Q200-D8205993-72B8-510B-897C-5F0E84FB75E5,
+        ooss:Q200-DC50C690-70CE-5B0B-BE28-D98F0EAFAFE9 ;
+    oosp:P107 ooss:Q200-38ED28CB-E51F-5542-9535-49A52756015F ;
+    oosp:P110 ooss:Q200-1DB9D3F8-B6D4-5DAA-9C5D-51773BED27B2 ;
+    oosp:P111 ooss:Q200-6CC12F89-56CF-51B0-8E54-93DC7216B2B8,
+        ooss:Q200-014B896C-2AB7-5D32-839B-88075D1F2021,
+        ooss:Q200-A6432EF8-DB54-53E2-905D-28A9E698AA6E ;
+    oosp:P113 ooss:Q200-40C2D35E-7C82-53A3-A978-1322F618C4B6,
+        ooss:Q200-912747FB-9E48-57F2-AE4A-20B5B0FA1EC8,
+        ooss:Q200-C95CF69E-E3F3-56E0-837C-C0D93D37B7CC ;
+    oost:P2 oos:Q100 ;
+    oost:P100 <https://www.openstreetmap.org/node/8355471228> ;
+    oost:P101 <https://www.openstreetmap.org/node/8355471228/history/4> ;
+    oost:P107 <https://www.openstreetmap.org/node/8355471228/history/2> ;
+    oost:P110 "Point(-8.7788896 52.5619303)"^^geo:wktLiteral ;
+    oost:P111 "POINT(-8.7771696 52.5620803)",
+        "POINT(-8.7788896 52.5619303)",
+        "POINT(-8.7789003 52.5619646)" ;
+    oost:P113 "fixme=heights need to be measured and context shot taken to identify them and attribute ref:IE:smr",
+        "historic=ogham_stone",
+        "moved=yes" .
+
+ooss:Q200-1DB9D3F8-B6D4-5DAA-9C5D-51773BED27B2
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:9b9743694109917bd95aac914ed7a09a973c2573 ;
+    oosps:P110 "Point(-8.7788896 52.5619303)"^^geo:wktLiteral ;
+    oospsv:P110 oosv:5c981b739d12ca930743c7e6e6884d02 .
+
+ooss:Q200-6CC12F89-56CF-51B0-8E54-93DC7216B2B8
+    a wikibase:BestRank,
+        wikibase:Statement,
+        geo:Geometry ;
+    wikibase:rank wikibase:NormalRank ;
+    geo:asWKT "POINT(-8.7771696 52.5620803)"^^geo:wktLiteral ;
+    prov:wasDerivedFrom oosref:129a6c7312f7e7c78d97f98afde3b902465183f1 ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2021-01-23T18:30:36Z" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P111 "POINT(-8.7771696 52.5620803)" .
+
+ooss:Q200-7CE52A84-C826-5EAC-8601-191EDA956CE6
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2021-01-23T18:30:36Z" ;
+    oospq:P104 "98031660" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P101 <https://www.openstreetmap.org/node/8355471228/history/1> .
+
+ooss:Q200-014B896C-2AB7-5D32-839B-88075D1F2021
+    a wikibase:BestRank,
+        wikibase:Statement,
+        geo:Geometry ;
+    wikibase:rank wikibase:NormalRank ;
+    geo:asWKT "POINT(-8.7789003 52.5619646)"^^geo:wktLiteral ;
+    prov:wasDerivedFrom oosref:6e01543f75b9938e2ab759ccf724bfac4bfcf2a9 ;
+    oospq:P102 "+3"^^xsd:decimal ;
+    oospq:P103 "2022-02-01T14:48:37Z" ;
+    oospqv:P102 oosv:0bbe1280560b495eac2a68b29e4b1c4e ;
+    oosps:P111 "POINT(-8.7789003 52.5619646)" .
+
+ooss:Q200-38ED28CB-E51F-5542-9535-49A52756015F
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P109 "ogham" ;
+    oosps:P107 <https://www.openstreetmap.org/node/8355471228/history/2> .
+
+ooss:Q200-40C2D35E-7C82-53A3-A978-1322F618C4B6
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:9b9743694109917bd95aac914ed7a09a973c2573 ;
+    oosps:P113 "historic=ogham_stone" .
+
+ooss:Q200-65FC992A-94E3-53DC-A95B-810BCD019EA5
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:PreferredRank ;
+    oospq:P102 "+4"^^xsd:decimal ;
+    oospq:P103 "2023-09-19T15:57:15Z" ;
+    oospq:P104 "141475627" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:9eb0a11f783b50f51f04a9fc2aca89fb ;
+    oosps:P101 <https://www.openstreetmap.org/node/8355471228/history/4> .
+
+ooss:Q200-244DFBF5-7503-578E-9E94-FD333E8AF8CE
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P2 oos:Q100 .
+
+ooss:Q200-1399AC5B-68C2-5F00-AEE3-69C512441ADB
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P100 <https://www.openstreetmap.org/node/8355471228> .
+
+ooss:Q200-912747FB-9E48-57F2-AE4A-20B5B0FA1EC8
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:9b9743694109917bd95aac914ed7a09a973c2573 ;
+    oosps:P113 "moved=yes" .
+
+ooss:Q200-A6432EF8-DB54-53E2-905D-28A9E698AA6E
+    a wikibase:BestRank,
+        wikibase:Statement,
+        geo:Geometry ;
+    wikibase:rank wikibase:NormalRank ;
+    geo:asWKT "POINT(-8.7788896 52.5619303)"^^geo:wktLiteral ;
+    prov:wasDerivedFrom oosref:9b9743694109917bd95aac914ed7a09a973c2573 ;
+    oospq:P102 "+4"^^xsd:decimal ;
+    oospq:P103 "2023-09-19T15:57:15Z" ;
+    oospqv:P102 oosv:9eb0a11f783b50f51f04a9fc2aca89fb ;
+    oosps:P111 "POINT(-8.7788896 52.5619303)" .
+
+ooss:Q200-C95CF69E-E3F3-56E0-837C-C0D93D37B7CC
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:9b9743694109917bd95aac914ed7a09a973c2573 ;
+    oosps:P113 "fixme=heights need to be measured and context shot taken to identify them and attribute ref:IE:smr" .
+
+ooss:Q200-D8205993-72B8-510B-897C-5F0E84FB75E5
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+3"^^xsd:decimal ;
+    oospq:P103 "2022-02-01T14:48:37Z" ;
+    oospq:P104 "116872071" ;
+    oospq:P105 "shiftee" ;
+    oospq:P106 "5589928" ;
+    oospqv:P102 oosv:0bbe1280560b495eac2a68b29e4b1c4e ;
+    oosps:P101 <https://www.openstreetmap.org/node/8355471228/history/3> .
+
+ooss:Q200-DC50C690-70CE-5B0B-BE28-D98F0EAFAFE9
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+2"^^xsd:decimal ;
+    oospq:P103 "2021-03-01T10:52:29Z" ;
+    oospq:P104 "100197931" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:c295f8f927aa4b01b5401a2788a068ea ;
+    oosps:P101 <https://www.openstreetmap.org/node/8355471228/history/2> .
+
+oosref:6e01543f75b9938e2ab759ccf724bfac4bfcf2a9
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/node/8355471228/history/3> .
+
+oosref:9b9743694109917bd95aac914ed7a09a973c2573
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/node/8355471228/history/4> .
+
+oosref:129a6c7312f7e7c78d97f98afde3b902465183f1
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/node/8355471228/history/1> .
+
+oosv:0bbe1280560b495eac2a68b29e4b1c4e
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+3"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:5c981b739d12ca930743c7e6e6884d02
+    a wikibase:GlobecoordinateValue ;
+    wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> ;
+    wikibase:geoLatitude "52.5619303"^^xsd:double ;
+    wikibase:geoLongitude "-8.7788896"^^xsd:double ;
+    wikibase:geoPrecision "1e-06"^^xsd:double .
+
+oosv:9eb0a11f783b50f51f04a9fc2aca89fb
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+4"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:aa2e7afcc4dbda508bf34d1e83609f7e
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+1"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:c295f8f927aa4b01b5401a2788a068ea
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+2"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .

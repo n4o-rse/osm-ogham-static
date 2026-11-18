@@ -1,0 +1,279 @@
+# Q210: the part of the RDF export of OSM Ogham stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of unknown
+# Licence: ODbL 1.0, © OpenStreetMap contributors
+# The prefixes oos:, oost:, oosp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only oos:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix oos: <https://n4o-rse.github.io/osm-ogham-static/entity/> .
+@prefix ooscat: <https://n4o-rse.github.io/osm-ogham-static/catalog/> .
+@prefix oosdata: <https://n4o-rse.github.io/osm-ogham-static/ttl/> .
+@prefix oosdist: <https://n4o-rse.github.io/osm-ogham-static/distribution/> .
+@prefix oosno: <https://n4o-rse.github.io/osm-ogham-static/prop/novalue/> .
+@prefix oosp: <https://n4o-rse.github.io/osm-ogham-static/prop/> .
+@prefix oospq: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/> .
+@prefix oospqv: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/value/> .
+@prefix oospr: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/> .
+@prefix oosprv: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/value/> .
+@prefix oosps: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/> .
+@prefix oospsv: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/value/> .
+@prefix oosref: <https://n4o-rse.github.io/osm-ogham-static/reference/> .
+@prefix ooss: <https://n4o-rse.github.io/osm-ogham-static/entity/statement/> .
+@prefix oost: <https://n4o-rse.github.io/osm-ogham-static/prop/direct/> .
+@prefix oosv: <https://n4o-rse.github.io/osm-ogham-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/osm-ogham-static/ttl/Q210.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:description "Benchmark (OpenStreetMap relation 20680079)"@en,
+        "Höhenmarke (OpenStreetMap-Relation 20680079)"@de ;
+    dcterms:identifier "Q210" ;
+    dcterms:isPartOf ooscat:items ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:subject oos:Q210 ;
+    dcterms:title "Tullygarran Ogham Stones"@de,
+        "Tullygarran Ogham Stones"@en ;
+    schema:about oos:Q210 ;
+    dcat:distribution oosdist:Q210-html,
+        oosdist:Q210-json,
+        oosdist:Q210-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/osm-ogham-static/Q210.html> .
+
+oosdist:Q210-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q210, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/osm-ogham-static/Q210.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+oosdist:Q210-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q210, as archived from the Wikibase API"@en ;
+    dcat:byteSize "17978"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/osm-ogham-static/json/Q210.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+oosdist:Q210-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q210, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL oosdata:Q210.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+oos:Q210
+    a wikibase:Item,
+        geo:Feature ;
+    schema:description "Benchmark (OpenStreetMap relation 20680079)"@en,
+        "Höhenmarke (OpenStreetMap-Relation 20680079)"@de ;
+    schema:name "Tullygarran Ogham Stones"@de,
+        "Tullygarran Ogham Stones"@en ;
+    wikibase:identifiers "0"^^xsd:integer ;
+    wikibase:statements "18"^^xsd:integer ;
+    geo:hasDefaultGeometry ooss:Q210-DBD47F86-BA34-594E-9548-1158FF410834 ;
+    geo:hasGeometry ooss:Q210-DBD47F86-BA34-594E-9548-1158FF410834 ;
+    rdfs:label "Tullygarran Ogham Stones"@de,
+        "Tullygarran Ogham Stones"@en ;
+    skos:prefLabel "Tullygarran Ogham Stones"@de,
+        "Tullygarran Ogham Stones"@en ;
+    oosp:P2 ooss:Q210-34542EF7-9395-5374-8B17-5258359BF4C4 ;
+    oosp:P100 ooss:Q210-9CBDFEB9-2DE7-52D2-A253-1F0924C19018 ;
+    oosp:P101 ooss:Q210-C7011536-6334-5EB7-A3FC-2195D0967120 ;
+    oosp:P107 ooss:Q210-EC5913DF-33A7-50DB-96BE-17D295F438FF ;
+    oosp:P110 ooss:Q210-5EBD3E1C-5E99-5C4A-83BB-99CC067D2FD4 ;
+    oosp:P111 ooss:Q210-DBD47F86-BA34-594E-9548-1158FF410834 ;
+    oosp:P112 ooss:Q210-A3985203-4404-5353-87F9-A8C1705CD3D8 ;
+    oosp:P113 ooss:Q210-7D82CDB0-A1B8-5B2D-B3F3-1E6B1D908CA7,
+        ooss:Q210-8CFBCB0D-1DF5-5497-A502-AF8FE8550733,
+        ooss:Q210-9A2BF450-C791-5D87-84FA-8EA1C89D3D29,
+        ooss:Q210-010BCF8B-E5DA-5C43-B0D9-8ACD59ABCAB1,
+        ooss:Q210-29C965B6-1B27-5727-BB1D-D90EED77B90B,
+        ooss:Q210-84D47105-D55D-56A9-9989-05F11F19B67E,
+        ooss:Q210-09230C7F-EBAD-5F9D-9768-8EBEFAA5C380,
+        ooss:Q210-A243EF8D-E380-5B9A-BCED-BAC7C9B816AB,
+        ooss:Q210-A9499883-0603-5DFD-8842-B07EF9D81130,
+        ooss:Q210-DDF20821-BBD0-5D8A-9ABC-F525A4195388,
+        ooss:Q210-EAC6E3E9-63B5-5E73-9D7D-565A81B3EEE4 ;
+    oost:P2 oos:Q100 ;
+    oost:P100 <https://www.openstreetmap.org/relation/20680079> ;
+    oost:P101 <https://www.openstreetmap.org/relation/20680079/history/1> ;
+    oost:P107 <https://www.openstreetmap.org/relation/20680079/history/1> ;
+    oost:P110 "Point(-9.6424687 52.2758413)"^^geo:wktLiteral ;
+    oost:P111 "MULTIPOINT((-9.6424841 52.2758388), (-9.6424533 52.2758438))" ;
+    oost:P112 <http://commons.wikimedia.org/wiki/Special:FilePath/Tullygarran%20Ogham%20Stones.jpg> ;
+    oost:P113 "heritage=2",
+        "historic=ogham_stone",
+        "name=Tullygarran Ogham Stones",
+        "note=two ogham stones",
+        "ref:IE:nm=295",
+        "ref:IE:smr=KE029-241----;KE029-132----",
+        "tourism=attraction",
+        "type=site",
+        "website=http://megalithicireland.com/Tullygarran%20Ogham%20Stones%20Kerry.html?src=gpx",
+        "wikidata=Q40888587",
+        "wikipedia=en:Tullygarran ogham stones" .
+
+ooss:Q210-5EBD3E1C-5E99-5C4A-83BB-99CC067D2FD4
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:2924ea081d333ce936b1f172ba7c5508e98b28a7 ;
+    oosps:P110 "Point(-9.6424687 52.2758413)"^^geo:wktLiteral ;
+    oospsv:P110 oosv:4a815d0e53625456ca86b28ec47d9ffc .
+
+ooss:Q210-7D82CDB0-A1B8-5B2D-B3F3-1E6B1D908CA7
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:2924ea081d333ce936b1f172ba7c5508e98b28a7 ;
+    oosps:P113 "tourism=attraction" .
+
+ooss:Q210-8CFBCB0D-1DF5-5497-A502-AF8FE8550733
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:2924ea081d333ce936b1f172ba7c5508e98b28a7 ;
+    oosps:P113 "heritage=2" .
+
+ooss:Q210-9A2BF450-C791-5D87-84FA-8EA1C89D3D29
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:2924ea081d333ce936b1f172ba7c5508e98b28a7 ;
+    oosps:P113 "ref:IE:smr=KE029-241----;KE029-132----" .
+
+ooss:Q210-9CBDFEB9-2DE7-52D2-A253-1F0924C19018
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P100 <https://www.openstreetmap.org/relation/20680079> .
+
+ooss:Q210-010BCF8B-E5DA-5C43-B0D9-8ACD59ABCAB1
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:2924ea081d333ce936b1f172ba7c5508e98b28a7 ;
+    oosps:P113 "ref:IE:nm=295" .
+
+ooss:Q210-29C965B6-1B27-5727-BB1D-D90EED77B90B
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:2924ea081d333ce936b1f172ba7c5508e98b28a7 ;
+    oosps:P113 "wikidata=Q40888587" .
+
+ooss:Q210-84D47105-D55D-56A9-9989-05F11F19B67E
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:2924ea081d333ce936b1f172ba7c5508e98b28a7 ;
+    oosps:P113 "name=Tullygarran Ogham Stones" .
+
+ooss:Q210-09230C7F-EBAD-5F9D-9768-8EBEFAA5C380
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:2924ea081d333ce936b1f172ba7c5508e98b28a7 ;
+    oosps:P113 "wikipedia=en:Tullygarran ogham stones" .
+
+ooss:Q210-34542EF7-9395-5374-8B17-5258359BF4C4
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P2 oos:Q100 .
+
+ooss:Q210-A243EF8D-E380-5B9A-BCED-BAC7C9B816AB
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:2924ea081d333ce936b1f172ba7c5508e98b28a7 ;
+    oosps:P113 "historic=ogham_stone" .
+
+ooss:Q210-A3985203-4404-5353-87F9-A8C1705CD3D8
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:2924ea081d333ce936b1f172ba7c5508e98b28a7 ;
+    oosps:P112 <http://commons.wikimedia.org/wiki/Special:FilePath/Tullygarran%20Ogham%20Stones.jpg> .
+
+ooss:Q210-A9499883-0603-5DFD-8842-B07EF9D81130
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:2924ea081d333ce936b1f172ba7c5508e98b28a7 ;
+    oosps:P113 "website=http://megalithicireland.com/Tullygarran%20Ogham%20Stones%20Kerry.html?src=gpx" .
+
+ooss:Q210-C7011536-6334-5EB7-A3FC-2195D0967120
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:PreferredRank ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2026-05-13T14:29:14Z" ;
+    oospq:P104 "182604950" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P101 <https://www.openstreetmap.org/relation/20680079/history/1> .
+
+ooss:Q210-DBD47F86-BA34-594E-9548-1158FF410834
+    a wikibase:BestRank,
+        wikibase:Statement,
+        geo:Geometry ;
+    wikibase:rank wikibase:NormalRank ;
+    geo:asWKT "MULTIPOINT((-9.6424841 52.2758388), (-9.6424533 52.2758438))"^^geo:wktLiteral ;
+    prov:wasDerivedFrom oosref:2924ea081d333ce936b1f172ba7c5508e98b28a7 ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2026-05-13T14:29:14Z" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P111 "MULTIPOINT((-9.6424841 52.2758388), (-9.6424533 52.2758438))" .
+
+ooss:Q210-DDF20821-BBD0-5D8A-9ABC-F525A4195388
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:2924ea081d333ce936b1f172ba7c5508e98b28a7 ;
+    oosps:P113 "note=two ogham stones" .
+
+ooss:Q210-EAC6E3E9-63B5-5E73-9D7D-565A81B3EEE4
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:2924ea081d333ce936b1f172ba7c5508e98b28a7 ;
+    oosps:P113 "type=site" .
+
+ooss:Q210-EC5913DF-33A7-50DB-96BE-17D295F438FF
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P109 "ogham" ;
+    oosps:P107 <https://www.openstreetmap.org/relation/20680079/history/1> .
+
+oosref:2924ea081d333ce936b1f172ba7c5508e98b28a7
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/relation/20680079/history/1> .
+
+oosv:4a815d0e53625456ca86b28ec47d9ffc
+    a wikibase:GlobecoordinateValue ;
+    wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> ;
+    wikibase:geoLatitude "52.2758413"^^xsd:double ;
+    wikibase:geoLongitude "-9.6424687"^^xsd:double ;
+    wikibase:geoPrecision "1e-06"^^xsd:double .
+
+oosv:aa2e7afcc4dbda508bf34d1e83609f7e
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+1"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .

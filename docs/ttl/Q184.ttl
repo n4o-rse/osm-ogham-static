@@ -1,0 +1,324 @@
+# Q184: the part of the RDF export of OSM Ogham stones (static Wikibase) that describes this entity
+# Generated with wikibase-static; data as of unknown
+# Licence: ODbL 1.0, © OpenStreetMap contributors
+# The prefixes oos:, oost:, oosp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only oos:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
+
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix oos: <https://n4o-rse.github.io/osm-ogham-static/entity/> .
+@prefix ooscat: <https://n4o-rse.github.io/osm-ogham-static/catalog/> .
+@prefix oosdata: <https://n4o-rse.github.io/osm-ogham-static/ttl/> .
+@prefix oosdist: <https://n4o-rse.github.io/osm-ogham-static/distribution/> .
+@prefix oosno: <https://n4o-rse.github.io/osm-ogham-static/prop/novalue/> .
+@prefix oosp: <https://n4o-rse.github.io/osm-ogham-static/prop/> .
+@prefix oospq: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/> .
+@prefix oospqv: <https://n4o-rse.github.io/osm-ogham-static/prop/qualifier/value/> .
+@prefix oospr: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/> .
+@prefix oosprv: <https://n4o-rse.github.io/osm-ogham-static/prop/reference/value/> .
+@prefix oosps: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/> .
+@prefix oospsv: <https://n4o-rse.github.io/osm-ogham-static/prop/statement/value/> .
+@prefix oosref: <https://n4o-rse.github.io/osm-ogham-static/reference/> .
+@prefix ooss: <https://n4o-rse.github.io/osm-ogham-static/entity/statement/> .
+@prefix oost: <https://n4o-rse.github.io/osm-ogham-static/prop/direct/> .
+@prefix oosv: <https://n4o-rse.github.io/osm-ogham-static/value/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://n4o-rse.github.io/osm-ogham-static/ttl/Q184.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:description "Benchmark (OpenStreetMap node 4395991496)"@en,
+        "Höhenmarke (OpenStreetMap-Node 4395991496)"@de ;
+    dcterms:identifier "Q184" ;
+    dcterms:isPartOf ooscat:items ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:subject oos:Q184 ;
+    dcterms:title "Lugnagappul Ogham Stones"@de,
+        "Lugnagappul Ogham Stones"@en ;
+    schema:about oos:Q184 ;
+    dcat:distribution oosdist:Q184-html,
+        oosdist:Q184-json,
+        oosdist:Q184-ttl ;
+    dcat:landingPage <https://n4o-rse.github.io/osm-ogham-static/Q184.html> .
+
+oosdist:Q184-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q184, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/osm-ogham-static/Q184.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+oosdist:Q184-json
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q184, as archived from the Wikibase API"@en ;
+    dcat:byteSize "23455"^^xsd:nonNegativeInteger ;
+    dcat:downloadURL <https://n4o-rse.github.io/osm-ogham-static/json/Q184.json> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> .
+
+oosdist:Q184-ttl
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    dcterms:license <https://opendatacommons.org/licenses/odbl/1-0/> ;
+    dcterms:title "Q184, RDF in the Wikibase data model"@en ;
+    dcat:downloadURL oosdata:Q184.ttl ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle> .
+
+oos:Q184
+    a wikibase:Item,
+        geo:Feature ;
+    schema:description "Benchmark (OpenStreetMap node 4395991496)"@en,
+        "Höhenmarke (OpenStreetMap-Node 4395991496)"@de ;
+    schema:name "Lugnagappul Ogham Stones"@de,
+        "Lugnagappul Ogham Stones"@en ;
+    wikibase:identifiers "0"^^xsd:integer ;
+    wikibase:statements "19"^^xsd:integer ;
+    geo:hasDefaultGeometry ooss:Q184-6E413C37-D3E9-56CD-B360-BBC8F4AA0088 ;
+    geo:hasGeometry ooss:Q184-6E413C37-D3E9-56CD-B360-BBC8F4AA0088 ;
+    rdfs:label "Lugnagappul Ogham Stones"@de,
+        "Lugnagappul Ogham Stones"@en ;
+    skos:prefLabel "Lugnagappul Ogham Stones"@de,
+        "Lugnagappul Ogham Stones"@en ;
+    oosp:P2 ooss:Q184-D2ED25E2-46D9-50B8-AEF7-E3901BEBD909 ;
+    oosp:P100 ooss:Q184-C452D4F0-FBFB-5107-A53C-39FE92F317EF ;
+    oosp:P101 ooss:Q184-1E421A35-ED0D-59A4-8A72-E89EA1270E09,
+        ooss:Q184-3B2E30CC-D8E2-5588-9C63-867B39E75D69,
+        ooss:Q184-20879DF7-3519-5200-8BB8-0226F18413E6,
+        ooss:Q184-91615E27-AB0C-519D-BD2E-B68091C81AA7,
+        ooss:Q184-C39CE884-9288-592F-A5BB-8F179E07737F ;
+    oosp:P107 ooss:Q184-063F9F57-9149-5031-9EAF-57BA3CAD6B50 ;
+    oosp:P110 ooss:Q184-5B3FDA17-9360-5586-BD47-07C484A4A4F4 ;
+    oosp:P111 ooss:Q184-6E413C37-D3E9-56CD-B360-BBC8F4AA0088 ;
+    oosp:P113 ooss:Q184-2A23C7AC-34E6-5D35-96A1-3B468ABCF1A5,
+        ooss:Q184-3D111035-5E94-5A0A-A68E-2783D930CD94,
+        ooss:Q184-5E7A6AC2-B00F-5C06-A019-B3B67D7C29C5,
+        ooss:Q184-6E194617-F4EB-528F-ACE3-1586A70C517D,
+        ooss:Q184-8A315240-C9AF-50A3-867B-EFF2BA3E7841,
+        ooss:Q184-42FB0C3D-492F-5324-A653-7FA13B3ED39E,
+        ooss:Q184-BE046710-6521-5791-9562-52C96815AA22,
+        ooss:Q184-CC04DFCE-D82F-57DB-87CD-4A353332DD99,
+        ooss:Q184-E94C51BF-D36D-51FC-AB42-4008B3FFBAF2 ;
+    oost:P2 oos:Q100 ;
+    oost:P100 <https://www.openstreetmap.org/node/4395991496> ;
+    oost:P101 <https://www.openstreetmap.org/node/4395991496/history/5> ;
+    oost:P107 <https://www.openstreetmap.org/node/4395991496/history/3> ;
+    oost:P110 "Point(-10.1307379 52.1357501)"^^geo:wktLiteral ;
+    oost:P111 "POINT(-10.1307379 52.1357501)" ;
+    oost:P113 "fixme=separate two ogham stones and map as two nodes",
+        "heritage:operator=IE:smr",
+        "heritage=2",
+        "historic=ogham_stone",
+        "name:en=Lugnagappul Ogham Stones",
+        "name=Lugnagappul Ogham Stones",
+        "note=two ogham stones",
+        "ref:IE:smr=KE054-033004-;KE054-033002-",
+        "wikidata=Q2016156" .
+
+ooss:Q184-1E421A35-ED0D-59A4-8A72-E89EA1270E09
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+3"^^xsd:decimal ;
+    oospq:P103 "2021-04-01T20:48:09Z" ;
+    oospq:P104 "102148339" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:0bbe1280560b495eac2a68b29e4b1c4e ;
+    oosps:P101 <https://www.openstreetmap.org/node/4395991496/history/3> .
+
+ooss:Q184-2A23C7AC-34E6-5D35-96A1-3B468ABCF1A5
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:70ed9d8106f924b7371b9229d184fa1986f7d5d7 ;
+    oosps:P113 "heritage=2" .
+
+ooss:Q184-3B2E30CC-D8E2-5588-9C63-867B39E75D69
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2016-09-11T11:24:14Z" ;
+    oospq:P104 "42076364" ;
+    oospq:P105 "Superfl0" ;
+    oospq:P106 "4270506" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P101 <https://www.openstreetmap.org/node/4395991496/history/1> .
+
+ooss:Q184-3D111035-5E94-5A0A-A68E-2783D930CD94
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:70ed9d8106f924b7371b9229d184fa1986f7d5d7 ;
+    oosps:P113 "ref:IE:smr=KE054-033004-;KE054-033002-" .
+
+ooss:Q184-5B3FDA17-9360-5586-BD47-07C484A4A4F4
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:70ed9d8106f924b7371b9229d184fa1986f7d5d7 ;
+    oosps:P110 "Point(-10.1307379 52.1357501)"^^geo:wktLiteral ;
+    oospsv:P110 oosv:7ce12943d100db751d75986b9d24b53b .
+
+ooss:Q184-5E7A6AC2-B00F-5C06-A019-B3B67D7C29C5
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:70ed9d8106f924b7371b9229d184fa1986f7d5d7 ;
+    oosps:P113 "historic=ogham_stone" .
+
+ooss:Q184-6E413C37-D3E9-56CD-B360-BBC8F4AA0088
+    a wikibase:BestRank,
+        wikibase:Statement,
+        geo:Geometry ;
+    wikibase:rank wikibase:NormalRank ;
+    geo:asWKT "POINT(-10.1307379 52.1357501)"^^geo:wktLiteral ;
+    prov:wasDerivedFrom oosref:c78c5ae7fa8e6e5cd97af5ac138179ae9ccc0af6 ;
+    oospq:P102 "+1"^^xsd:decimal ;
+    oospq:P103 "2016-09-11T11:24:14Z" ;
+    oospqv:P102 oosv:aa2e7afcc4dbda508bf34d1e83609f7e ;
+    oosps:P111 "POINT(-10.1307379 52.1357501)" .
+
+ooss:Q184-6E194617-F4EB-528F-ACE3-1586A70C517D
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:70ed9d8106f924b7371b9229d184fa1986f7d5d7 ;
+    oosps:P113 "heritage:operator=IE:smr" .
+
+ooss:Q184-8A315240-C9AF-50A3-867B-EFF2BA3E7841
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:70ed9d8106f924b7371b9229d184fa1986f7d5d7 ;
+    oosps:P113 "note=two ogham stones" .
+
+ooss:Q184-42FB0C3D-492F-5324-A653-7FA13B3ED39E
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:70ed9d8106f924b7371b9229d184fa1986f7d5d7 ;
+    oosps:P113 "wikidata=Q2016156" .
+
+ooss:Q184-063F9F57-9149-5031-9EAF-57BA3CAD6B50
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P109 "ogham" ;
+    oosps:P107 <https://www.openstreetmap.org/node/4395991496/history/3> .
+
+ooss:Q184-20879DF7-3519-5200-8BB8-0226F18413E6
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:PreferredRank ;
+    oospq:P102 "+5"^^xsd:decimal ;
+    oospq:P103 "2024-11-26T14:56:33Z" ;
+    oospq:P104 "159620587" ;
+    oospq:P105 "geozeisig" ;
+    oospq:P106 "66391" ;
+    oospqv:P102 oosv:30e603cac620241526fa9f81268ba25c ;
+    oosps:P101 <https://www.openstreetmap.org/node/4395991496/history/5> .
+
+ooss:Q184-91615E27-AB0C-519D-BD2E-B68091C81AA7
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+2"^^xsd:decimal ;
+    oospq:P103 "2020-02-07T14:45:58Z" ;
+    oospq:P104 "80696756" ;
+    oospq:P105 "hofoen" ;
+    oospq:P106 "52797" ;
+    oospqv:P102 oosv:c295f8f927aa4b01b5401a2788a068ea ;
+    oosps:P101 <https://www.openstreetmap.org/node/4395991496/history/2> .
+
+ooss:Q184-BE046710-6521-5791-9562-52C96815AA22
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:70ed9d8106f924b7371b9229d184fa1986f7d5d7 ;
+    oosps:P113 "name=Lugnagappul Ogham Stones" .
+
+ooss:Q184-C39CE884-9288-592F-A5BB-8F179E07737F
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oospq:P102 "+4"^^xsd:decimal ;
+    oospq:P103 "2023-10-10T14:55:53Z" ;
+    oospq:P104 "142397471" ;
+    oospq:P105 "b-unicycling" ;
+    oospq:P106 "1713634" ;
+    oospqv:P102 oosv:9eb0a11f783b50f51f04a9fc2aca89fb ;
+    oosps:P101 <https://www.openstreetmap.org/node/4395991496/history/4> .
+
+ooss:Q184-C452D4F0-FBFB-5107-A53C-39FE92F317EF
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P100 <https://www.openstreetmap.org/node/4395991496> .
+
+ooss:Q184-CC04DFCE-D82F-57DB-87CD-4A353332DD99
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:70ed9d8106f924b7371b9229d184fa1986f7d5d7 ;
+    oosps:P113 "fixme=separate two ogham stones and map as two nodes" .
+
+ooss:Q184-D2ED25E2-46D9-50B8-AEF7-E3901BEBD909
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    oosps:P2 oos:Q100 .
+
+ooss:Q184-E94C51BF-D36D-51FC-AB42-4008B3FFBAF2
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom oosref:70ed9d8106f924b7371b9229d184fa1986f7d5d7 ;
+    oosps:P113 "name:en=Lugnagappul Ogham Stones" .
+
+oosref:70ed9d8106f924b7371b9229d184fa1986f7d5d7
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/node/4395991496/history/5> .
+
+oosref:c78c5ae7fa8e6e5cd97af5ac138179ae9ccc0af6
+    a wikibase:Reference ;
+    oospr:P6 <https://www.openstreetmap.org/node/4395991496/history/1> .
+
+oosv:0bbe1280560b495eac2a68b29e4b1c4e
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+3"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:7ce12943d100db751d75986b9d24b53b
+    a wikibase:GlobecoordinateValue ;
+    wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> ;
+    wikibase:geoLatitude "52.1357501"^^xsd:double ;
+    wikibase:geoLongitude "-10.1307379"^^xsd:double ;
+    wikibase:geoPrecision "1e-06"^^xsd:double .
+
+oosv:9eb0a11f783b50f51f04a9fc2aca89fb
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+4"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:30e603cac620241526fa9f81268ba25c
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+5"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:aa2e7afcc4dbda508bf34d1e83609f7e
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+1"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
+
+oosv:c295f8f927aa4b01b5401a2788a068ea
+    a wikibase:QuantityValue ;
+    wikibase:quantityAmount "+2"^^xsd:decimal ;
+    wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
